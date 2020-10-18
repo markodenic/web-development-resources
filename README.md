@@ -82,6 +82,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://leetcode.com |  
 | https://spoj.com | 
 | https://www.frontendmentor.io |
+| https://codier.io |
 
 ## Freelancing platforms:
 
