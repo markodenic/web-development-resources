@@ -63,7 +63,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://testautomationu.applitools.com |  
 | https://coursera.org |  
 | https://khanacademy.org |    
-| https://sololearn.com |  
+| https://sololearn.com |
+| https://www.theodinproject.com |
 
 ## Coding Challenge Platforms:
 
