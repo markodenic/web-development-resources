@@ -81,6 +81,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://exercism.io |  
 | https://leetcode.com |  
 | https://spoj.com | 
+| https://codeforces.com/ |
 
 ## Freelancing platforms:
 
