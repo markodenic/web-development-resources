@@ -52,7 +52,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://render.com |  
 | https://docs.gitlab.com/ee/user/project/pages |  
 | https://stormkit.io |  
-| https://zoop.sh |
+| https://www.zoop.sh |
 
 ## Learning Platforms: 
  
