@@ -113,6 +113,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://jobspresso.co |  
 | https://europeremotely.com |  
 | https://wfh.io |   
+| https://turing.com |   
 
 ## Photos:
 
