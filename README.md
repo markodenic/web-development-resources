@@ -53,7 +53,6 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://docs.gitlab.com/ee/user/project/pages |  
 | https://stormkit.io |  
 | https://www.zoop.sh |
-| https://www.digitalocean.com/ |
 
 ## Learning Platforms: 
  
@@ -162,6 +161,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers) |  
 | [Derek Banas](https://www.youtube.com/c/derekbanas) |  
 | [Academind](https://www.youtube.com/c/Academind) |  
+| [Coding Tech](https://www.youtube.com/c/CodingTech) |  
 
 ## Podcasts:
 
