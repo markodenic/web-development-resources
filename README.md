@@ -53,6 +53,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://docs.gitlab.com/ee/user/project/pages |  
 | https://stormkit.io |  
 | https://www.zoop.sh |
+| https://www.digitalocean.com/ |
 
 ## Learning Platforms: 
  
