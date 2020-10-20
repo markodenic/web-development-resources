@@ -187,6 +187,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Sublime Text](https://www.sublimetext.com/) |  
 | [Atom](https://atom.io/) |  
 | [Brackets](http://brackets.io/) |  
+| [emacs](https://www.gnu.org/software/emacs/) |  
 | [Vim](https://www.vim.org/) |  
 
 ## Color Palettes:
