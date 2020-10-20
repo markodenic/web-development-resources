@@ -236,6 +236,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Tuesday](http://shakrmedia.github.io/tuesday/) |  
 | [Mo.js](https://mojs.github.io/)|  
 | [Bounce.js](http://bouncejs.com/) | 
+| [tsParticles](https://particles.matteobruni.it) |
 
 ## Charts:
 
