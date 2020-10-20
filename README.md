@@ -85,6 +85,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://leetcode.com |  
 | https://spoj.com | 
 | https://codeforces.com/ |
+| https://codesignal.com/ |
 
 ## Freelancing platforms:
 
