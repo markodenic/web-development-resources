@@ -162,6 +162,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers) |  
 | [Derek Banas](https://www.youtube.com/c/derekbanas) |  
 | [Academind](https://www.youtube.com/c/Academind) |  
+| [CodingTech](https://www.youtube.com/c/CodingTech) |  
 
 ## Podcasts:
 
