@@ -65,6 +65,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://frontendmentor.io |  
 | https://testautomationu.applitools.com |  
 | https://coursera.org |  
+| https://edx.org |  
 | https://khanacademy.org |    
 | https://sololearn.com |
 | https://www.theodinproject.com |
