@@ -142,6 +142,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://icons8.com |  
 | https://material.io/resources/icons |  
 | https://iconmonstr.com | 
+| https://heroicons.com |
 
 ## Fonts:
 
