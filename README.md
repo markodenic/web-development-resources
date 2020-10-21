@@ -37,6 +37,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 - [Charts](#charts)
 - [Chrome Extensions](#chrome-extensions)
 - [Website Optimization Tools](#website-optimization-tools)
+- [Project ideas for beginners](#project-ideas-for-beginners)
 
 ## Hosting:  
 
@@ -267,3 +268,15 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 [Back to top](#table-of-contents) 
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+
+## Project Ideas for Beginners:
+
+| Idea | About resource and idea |
+| ---- | ---- |
+| [Todo List App](https://codepen.io/rahulMishra05/pen/wvWzWvV?__cf_chl_jschl_tk__=1b980b1eb7473d1af7b9a316e80addb3254d17bd-1603254528-0-AWk_Xc3W8Miaz_iVTwive4I5WAzeZUETASUelXeQkgz1E8d4bjkuGSpK3NXW6dnUe_ZFuH6-3eTAwXPJuhfVY56pmGOsn2UjbjpJLJku_XzJWCbzHxiNfPQgzfJ4gOW9Rt7tZrs6hQTk1U7GHBBKcStA6QYkP7xwt_mQF_oEJKo3g98dTyNv4iGiFFo7WCudLnXhCzRXedhc2anFtNyePn5mTQEVDZU12ZmtW2PiRNeXEjoWeJpcULcwBq0cUavStfY0_B1XMzbSb06v9tc36Tw87LMubdVbL4SdgPame3UrBWYDjR4_gDAGBvQ2ksKNhf7v2ac0kNKzyDIGo4TXE18orJDGKWxtiztldO8o6WOWCq0S898X_HuoZYn-nmbF-A) | This is a link, which will direct you to a website known as _CodePen_ where you can find the code for making a todo list app using pure vanilla JavaScript. |
+| [10 JavaScript Projects in 10 hours](https://www.youtube.com/watch?v=dtKciwk_si4) | In this video Florin Pop had made 10 JavaScript projects, that will give a better understanding of the basic concept of `JavaScript` |
+| [Dynamic landing page](https://www.youtube.com/watch?v=fSTQzlprGLI) | In this video _Brad Traversy_ of Traversy media had shown how to make a landing page, that will show current time and you can enter your name and focus of the day on the page. |
+| [Meditation app](https://www.youtube.com/watch?v=oMBXdZzYqEk) | This video tutorial is on _Dev Ed_ youtube channel, in this tutorial you will see that hjow you can make a mediatation app, which will play meditation music for a given time. |
+| [Virtual keyboard](https://www.youtube.com/watch?v=N3cq0BHDMOY) | In this video tutorial you will learn, how to make a vurtual keyboard using pure `HTML`, `CSS` and `JavaScript` |
+| [Weather App](https://www.youtube.com/watch?v=wPElVpR1rwA&feature=emb_title) | In this tutorial you will learn how to make a weather application using `HTML`, `CSS` and `JavaScript`. The instructor uses the Dark Sky API for fetching weather information, which is a great opportunity for you to learn how to interact with APIs. |
+| [Learn JavaScript by building 7 games](https://www.youtube.com/watch?v=lhNdUVh3qCc) | In this video tutorial you will learn to make 7 retro grid-based games using `JavaScript`. This video is published on _freeCodeCamp.org_ YouTube channel. |
