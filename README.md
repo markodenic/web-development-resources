@@ -65,6 +65,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://frontendmentor.io |  
 | https://testautomationu.applitools.com |  
 | https://coursera.org |  
+| https://edx.org |  
 | https://khanacademy.org |    
 | https://sololearn.com |
 | https://www.theodinproject.com |
@@ -85,6 +86,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://leetcode.com |  
 | https://spoj.com | 
 | https://codeforces.com/ |
+| https://codesignal.com/ |
 
 ## Freelancing platforms:
 
@@ -142,6 +144,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://icons8.com |  
 | https://material.io/resources/icons |  
 | https://iconmonstr.com | 
+| https://heroicons.com |
 | https://www.streamlinehq.com/dsp | 
 
 ## Fonts:
@@ -163,6 +166,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers) |  
 | [Derek Banas](https://www.youtube.com/c/derekbanas) |  
 | [Academind](https://www.youtube.com/c/Academind) |  
+| [CodingTech](https://www.youtube.com/c/CodingTech) |  
 
 ## Podcasts:
 
@@ -180,6 +184,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [CodePen Radio](https://blog.codepen.io/radio/) |  
 | [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) |  
 | [Modern Web](https://www.thisdot.co/modern-web) | 
+| [DevDiscuss](https://dev.to/devdiscuss) |
 
 ## Code Editors:
 
@@ -237,6 +242,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Tuesday](http://shakrmedia.github.io/tuesday/) |  
 | [Mo.js](https://mojs.github.io/)|  
 | [Bounce.js](http://bouncejs.com/) | 
+| [tsParticles](https://particles.matteobruni.it) |
 
 ## Charts:
 
