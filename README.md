@@ -265,9 +265,6 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
 
-[Back to top](#table-of-contents) 
-
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 
 ## Project Ideas for Beginners:
 
@@ -280,3 +277,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Virtual keyboard](https://www.youtube.com/watch?v=N3cq0BHDMOY) | In this video tutorial you will learn, how to make a vurtual keyboard using pure `HTML`, `CSS` and `JavaScript` |
 | [Weather App](https://www.youtube.com/watch?v=wPElVpR1rwA&feature=emb_title) | In this tutorial you will learn how to make a weather application using `HTML`, `CSS` and `JavaScript`. The instructor uses the Dark Sky API for fetching weather information, which is a great opportunity for you to learn how to interact with APIs. |
 | [Learn JavaScript by building 7 games](https://www.youtube.com/watch?v=lhNdUVh3qCc) | In this video tutorial you will learn to make 7 retro grid-based games using `JavaScript`. This video is published on _freeCodeCamp.org_ YouTube channel. |
+
+[Back to top](#table-of-contents) 
+
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
