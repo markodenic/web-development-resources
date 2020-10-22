@@ -145,6 +145,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://material.io/resources/icons |  
 | https://iconmonstr.com | 
 | https://heroicons.com |
+| https://boxicons.com |
 
 ## Fonts:
 
