@@ -159,6 +159,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://material.io/resources/icons |  
 | https://iconmonstr.com | 
 | https://heroicons.com |
+| https://boxicons.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -184,6 +185,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Derek Banas](https://www.youtube.com/c/derekbanas) |  
 | [Academind](https://www.youtube.com/c/Academind) |  
 | [CodingTech](https://www.youtube.com/c/CodingTech) |  
+| [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw) |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -272,6 +274,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Mo.js](https://mojs.github.io/)|  
 | [Bounce.js](http://bouncejs.com/) | 
 | [tsParticles](https://particles.matteobruni.it) |
+| [AOS](https://michalsnik.github.io/aos/) |
 
 [⬆ back to top](#table-of-contents)
 
