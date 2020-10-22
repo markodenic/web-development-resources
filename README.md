@@ -242,6 +242,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Mo.js](https://mojs.github.io/)|  
 | [Bounce.js](http://bouncejs.com/) | 
 | [tsParticles](https://particles.matteobruni.it) |
+| [AOS](https://michalsnik.github.io/aos/) |
 
 ## Charts:
 
