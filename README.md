@@ -55,6 +55,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://www.zoop.sh |
 | https://www.digitalocean.com/ |
 
+[⬆ back to top](#table-of-contents)
+
 ## Learning Platforms: 
  
 | Website |
@@ -70,6 +72,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://sololearn.com |
 | https://www.theodinproject.com |
 | https://javascript.info/ |
+
+[⬆ back to top](#table-of-contents)
 
 ## Coding Challenge Platforms:
 
@@ -88,6 +92,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://codeforces.com/ |
 | https://codesignal.com/ |
 
+[⬆ back to top](#table-of-contents)
+
 ## Freelancing platforms:
 
 | Website |
@@ -103,6 +109,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://hireable.com |  
 | https://6nomads.com |  
 
+[⬆ back to top](#table-of-contents)
+
 ## Remote Jobs:
 
 | Website |
@@ -116,6 +124,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://europeremotely.com |  
 | https://wfh.io |   
 
+[⬆ back to top](#table-of-contents)
+
 ## Photos:
 
 | Website |
@@ -123,6 +133,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://unsplash.com |    
 | https://pixabay.com |  
 | https://pexels.com | 
+
+[⬆ back to top](#table-of-contents)
 
 ## Illustrations:
 
@@ -134,6 +146,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://iradesign.io |  
 | https://interfacer.xyz |  
 | https://blush.design |  
+
+[⬆ back to top](#table-of-contents)
 
 ## Icons:
 
@@ -147,6 +161,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://heroicons.com |
 | https://boxicons.com |
 
+[⬆ back to top](#table-of-contents)
+
 ## Fonts:
 
 | Website |
@@ -155,6 +171,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://fontspace.com |  
 | https://1001fonts.com |  
 | https://fontsquirrel.com |  
+
+[⬆ back to top](#table-of-contents)
 
 ## Youtube Channels:
 
@@ -168,6 +186,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Academind](https://www.youtube.com/c/Academind) |  
 | [CodingTech](https://www.youtube.com/c/CodingTech) |  
 | [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw) |  
+
+[⬆ back to top](#table-of-contents)
 
 ## Podcasts:
 
@@ -187,6 +207,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Modern Web](https://www.thisdot.co/modern-web) | 
 | [DevDiscuss](https://dev.to/devdiscuss) |
 
+[⬆ back to top](#table-of-contents)
+
 ## Code Editors:
 
 | Website |
@@ -197,6 +219,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Brackets](http://brackets.io/) |  
 | [Vim](https://www.vim.org/) |  
 
+[⬆ back to top](#table-of-contents)
+
 ## Color Palettes:
 
 | Website |
@@ -206,6 +230,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://paletton.com |  
 | https://color-hex.com |  
 | https://mycolor.space | 
+
+[⬆ back to top](#table-of-contents)
 
 ## UI Inspiration:
 
@@ -218,6 +244,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 ⧩ https://www.awwwards.com
 ⧩ https://dribbble.com
 
+[⬆ back to top](#table-of-contents)
+
 ## Docs:
 
 | Website |
@@ -227,6 +255,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://w3docs.com |  
 | https://devdocs.io |  
 | https://free-for.dev |  
+
+[⬆ back to top](#table-of-contents)
 
 ## Animation Libraries:
 
@@ -246,6 +276,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [tsParticles](https://particles.matteobruni.it) |
 | [AOS](https://michalsnik.github.io/aos/) |
 
+[⬆ back to top](#table-of-contents)
+
 ## Charts:
 
 | Website |
@@ -253,6 +285,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Chart.js](https://www.chartjs.org/) |  
 | [D3.js](https://d3js.org/) |  
 | [three.js](https://threejs.org/) |   
+
+[⬆ back to top](#table-of-contents)
 
 ## Chrome Extensions:
 
@@ -264,6 +298,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) |  
 | [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb) | 
 
+[⬆ back to top](#table-of-contents)
+
 ## Website Optimization Tools:
 
 | Website |
@@ -273,6 +309,6 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
 
-[Back to top](#table-of-contents) 
+[⬆ back to top](#table-of-contents)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
