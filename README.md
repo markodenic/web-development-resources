@@ -239,12 +239,12 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 
 | Website |
 | ------- |
-⧩ https://uimovement.com  
-⧩ https://uigarage.net  
-⧩ https://collectui.com  
-⧩ https://httpster.net   
-⧩ https://www.awwwards.com
-⧩ https://dribbble.com
+| https://uimovement.com |  
+| https://uigarage.net |  
+| https://collectui.com |  
+| https://httpster.net |   
+| https://www.awwwards.com |
+| https://dribbble.com |
 
 [⬆ back to top](#table-of-contents)
 
