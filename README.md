@@ -187,7 +187,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Academind](https://www.youtube.com/c/Academind) |  
 | [CodingTech](https://www.youtube.com/c/CodingTech) |  
 | [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw) |  
-| [Honeypot](https://www.youtube.com/c/Honeypotio/) |  
+| [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) |  
 
 [⬆ back to top](#table-of-contents)
 
