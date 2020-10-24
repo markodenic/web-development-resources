@@ -37,6 +37,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 - [Charts](#charts)
 - [Chrome Extensions](#chrome-extensions)
 - [Website Optimization Tools](#website-optimization-tools)
+- [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 
 ## Hosting:  
 
@@ -312,6 +313,20 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [GTmetrix](https://gtmetrix.com/) |  
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
+
+[⬆ back to top](#table-of-contents)
+
+## HTML/CSS/JavaScript templates:
+
+| Website |
+| ------- |
+| https://inovatik.com | 
+| https://templated.co | 
+| https://www.tooplate.com | 
+| https://html5up.net | 
+| https://templatemo.com | 
+| https://uideck.com | 
+| https://freehtml5.co | 
 
 [⬆ back to top](#table-of-contents)
 
