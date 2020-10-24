@@ -161,6 +161,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://iconmonstr.com | 
 | https://heroicons.com |
 | https://boxicons.com |
+| https://css.gg/ |
 
 [⬆ back to top](#table-of-contents)
 
