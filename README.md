@@ -93,6 +93,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://codeforces.com/ |
 | https://codesignal.com/ |
 | https://frontendmentor.io |
+| https://devchallenges.io |
 
 [⬆ back to top](#table-of-contents)
 
