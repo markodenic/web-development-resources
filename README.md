@@ -139,6 +139,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://pexels.com | 
 | https://reshot.com | 
 | https://librestock.com |
+| https://visualhunt.com | 
+| https://plixs.com | 
 | https://freephotos.cc | 
 
 [⬆ back to top](#table-of-contents)
