@@ -180,8 +180,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://fonts.google.com |  
 | https://fontspace.com |  
 | https://1001fonts.com |  
-| https://fontsquirrel.com |  
-| https://urbanfonts.com |  
+| https://fontsquirrel.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -190,7 +189,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | Website |
 | ------- |
 | [Traversy Media](https://www.youtube.com/c/TraversyMedia) |  
-| [freeCodeCamp.org](https://www.youtube.com/c/FreeCodeCamp) |  
+| [freeCodeCamp.org](https://www.youtube.creeCodeCamp) |  
 | [The Net Ninja](https://youtube.com/c/TheNetNinja) |  
 | [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers) |  
 | [Derek Banas](https://www.youtube.com/c/derekbanas) |  
