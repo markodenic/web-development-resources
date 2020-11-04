@@ -73,6 +73,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://sololearn.com |
 | https://www.theodinproject.com |
 | https://javascript.info/ |
+| https://vueschool.io/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -93,6 +94,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://codeforces.com/ |
 | https://codesignal.com/ |
 | https://frontendmentor.io |
+| https://devchallenges.io |
 
 [⬆ back to top](#table-of-contents)
 
@@ -136,6 +138,10 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://pixabay.com |  
 | https://pexels.com | 
 | https://reshot.com | 
+| https://librestock.com |
+| https://visualhunt.com | 
+| https://plixs.com | 
+| https://freephotos.cc | 
 
 [⬆ back to top](#table-of-contents)
 
