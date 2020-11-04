@@ -189,7 +189,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | Website |
 | ------- |
 | [Traversy Media](https://www.youtube.com/c/TraversyMedia) |  
-| [freeCodeCamp.org](https://www.youtube.creeCodeCamp) |  
+| [freeCodeCamp.org](https://www.youtube.com/c/FreeCodeCamp) |  
 | [The Net Ninja](https://youtube.com/c/TheNetNinja) |  
 | [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers) |  
 | [Derek Banas](https://www.youtube.com/c/derekbanas) |  
