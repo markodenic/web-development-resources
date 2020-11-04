@@ -180,8 +180,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://fonts.google.com |  
 | https://fontspace.com |  
 | https://1001fonts.com |  
-| https://fontsquirrel.com |  
-| https://dafont.com |  
+| https://fontsquirrel.com | 
+
 
 [⬆ back to top](#table-of-contents)
 
