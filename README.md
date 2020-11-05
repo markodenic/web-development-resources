@@ -182,6 +182,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://1001fonts.com |  
 | https://fontsquirrel.com |
 | https://fontfabric.com |  
+| https://urbanfonts.com |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -288,6 +289,9 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Bounce.js](http://bouncejs.com/) | 
 | [tsParticles](https://particles.matteobruni.it) |
 | [AOS](https://michalsnik.github.io/aos/) |
+| [Velocity.js](http://velocityjs.org/) |
+| [Popmotion](https://popmotion.io/) |
+| [Snap.svg](http://snapsvg.io/) |
 
 [⬆ back to top](#table-of-contents)
 
