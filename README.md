@@ -287,6 +287,9 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Bounce.js](http://bouncejs.com/) | 
 | [tsParticles](https://particles.matteobruni.it) |
 | [AOS](https://michalsnik.github.io/aos/) |
+| [Velocity.js](http://velocityjs.org/) |
+| [Popmotion](https://popmotion.io/) |
+| [Snap.svg](http://snapsvg.io/) |
 
 [⬆ back to top](#table-of-contents)
 
