@@ -200,6 +200,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [CodingTech](https://www.youtube.com/c/CodingTech) |  
 | [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw) |  
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) |  
+| [Dev Ed](https://www.youtube.com/c/DevEd/) |
 
 [⬆ back to top](#table-of-contents)
 
