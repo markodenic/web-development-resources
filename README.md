@@ -181,6 +181,9 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://fontspace.com |  
 | https://1001fonts.com |  
 | https://fontsquirrel.com |
+| https://ffonts.net |  
+| https://fontfabric.com |  
+| https://urbanfonts.com |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -197,6 +200,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [CodingTech](https://www.youtube.com/c/CodingTech) |  
 | [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw) |  
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) |  
+| [Dev Ed](https://www.youtube.com/c/DevEd/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -287,6 +291,9 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Bounce.js](http://bouncejs.com/) | 
 | [tsParticles](https://particles.matteobruni.it) |
 | [AOS](https://michalsnik.github.io/aos/) |
+| [Velocity.js](http://velocityjs.org/) |
+| [Popmotion](https://popmotion.io/) |
+| [Snap.svg](http://snapsvg.io/) |
 
 [⬆ back to top](#table-of-contents)
 
