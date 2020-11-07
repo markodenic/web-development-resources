@@ -184,6 +184,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://ffonts.net |  
 | https://fontfabric.com |  
 | https://urbanfonts.com |  
+| https://wfonts.com |  
 
 [⬆ back to top](#table-of-contents)
 
