@@ -55,6 +55,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://stormkit.io |  
 | https://www.zoop.sh |
 | https://www.digitalocean.com/ |
+| https://www.meteor.com/hosting |
 
 [⬆ back to top](#table-of-contents)
 
@@ -201,6 +202,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw) |  
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) |  
 | [Dev Ed](https://www.youtube.com/c/DevEd/) |
+| [How to Create an App](https://www.youtube.com/c/HowToCreateAnAppDev/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -222,6 +224,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Modern Web](https://www.thisdot.co/modern-web) | 
 | [DevDiscuss](https://dev.to/devdiscuss) |
 | [React Native Radio](https://reactnativeradio.com/) |
+| [Meteor Monthly Wrap-Up](https://podcast.meteor.com/) |
 
 [⬆ back to top](#table-of-contents)
 
