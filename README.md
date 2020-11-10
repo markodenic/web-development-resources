@@ -69,6 +69,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://sololearn.com |
 | https://www.theodinproject.com |
 | https://javascript.info/ |
+| https://web.learncodeonline.in/ |
 
 ## Coding Challenge Platforms:
 
