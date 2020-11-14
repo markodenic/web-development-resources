@@ -170,6 +170,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://heroicons.com |
 | https://boxicons.com |
 | https://css.gg/ |
+| https://icons.eosdesignsystem.com/ |
 
 [⬆ back to top](#table-of-contents)
 
