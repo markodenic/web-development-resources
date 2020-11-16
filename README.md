@@ -38,6 +38,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 - [Chrome Extensions](#chrome-extensions)
 - [Website Optimization Tools](#website-optimization-tools)
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
+- [Newsletters](#newsletters)
 
 ## Hosting:  
 
@@ -348,6 +349,20 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://templatemo.com | 
 | https://uideck.com | 
 | https://freehtml5.co | 
+
+[⬆ back to top](#table-of-contents)
+
+## Newsletters:
+
+| Website | Topics |
+| ------- |
+| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Front-end and UX. |
+| [Frontend Focus](https://frontendfoc.us/) | HTML, CSS, WebGL, Canvas, browser tech, and more. |
+| [CSS Weekly](https://css-weekly.com/) | CSS. |
+| [JavaScript Weekly](https://javascriptweekly.com/) | JavaScript. |
+| [Accessibility Weekly](https://a11yweekly.com/) | Accessibility. |
+| [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) | Responsive web design. |
+| [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
 
 [⬆ back to top](#table-of-contents)
 
