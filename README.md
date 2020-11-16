@@ -355,7 +355,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 ## Newsletters:
 
 | Website | Topics |
-| ------- |
+| ------- | ------ |
 | [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Front-end and UX. |
 | [Frontend Focus](https://frontendfoc.us/) | HTML, CSS, WebGL, Canvas, browser tech, and more. |
 | [CSS Weekly](https://css-weekly.com/) | CSS. |
