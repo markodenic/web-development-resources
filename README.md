@@ -142,6 +142,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://visualhunt.com | 
 | https://plixs.com | 
 | https://freephotos.cc | 
+| https://picjumbo.com | 
 
 [⬆ back to top](#table-of-contents)
 
@@ -170,6 +171,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://heroicons.com |
 | https://boxicons.com |
 | https://css.gg/ |
+| https://icons.eosdesignsystem.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -221,6 +223,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) |  
 | [Modern Web](https://www.thisdot.co/modern-web) | 
 | [DevDiscuss](https://dev.to/devdiscuss) |
+| [DevNews](https://dev.to/devnews) |
 | [React Native Radio](https://reactnativeradio.com/) |
 
 [⬆ back to top](#table-of-contents)
@@ -245,7 +248,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://colorhunt.co |  
 | https://paletton.com |  
 | https://color-hex.com |  
-| https://mycolor.space |
+| https://mycolor.space | 
+| https://flatuicolors.com | 
 | https://color.adobe.com | 
 
 [⬆ back to top](#table-of-contents)
