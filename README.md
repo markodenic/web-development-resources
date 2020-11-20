@@ -173,7 +173,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://boxicons.com |
 | https://css.gg/ |
 | https://icons.eosdesignsystem.com/ |
-| https://ionicons.com |
+| https://iconscout.com/unicons |
 
 [⬆ back to top](#table-of-contents)
 
