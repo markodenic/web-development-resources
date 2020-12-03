@@ -174,6 +174,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://css.gg/ |
 | https://icons.eosdesignsystem.com/ |
 | https://remixicon.com |
+| https://tablericons.com |
 
 [⬆ back to top](#table-of-contents)
 
