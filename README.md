@@ -173,6 +173,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://boxicons.com |
 | https://css.gg/ |
 | https://icons.eosdesignsystem.com/ |
+| https://icons.modulz.app |
 | https://remixicon.com |
 | https://tablericons.com |
 
