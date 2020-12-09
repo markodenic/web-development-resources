@@ -75,6 +75,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://www.theodinproject.com |
 | https://javascript.info/ |
 | https://vueschool.io/ |
+| https://www.guru99.com/ |
 
 [⬆ back to top](#table-of-contents)
 
