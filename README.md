@@ -177,6 +177,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://icons.modulz.app |
 | https://remixicon.com |
 | https://tablericons.com |
+| https://simpleicons.org |
 
 [⬆ back to top](#table-of-contents)
 
