@@ -314,7 +314,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | ------- |
 | [Chart.js](https://www.chartjs.org/) |  
 | [D3.js](https://d3js.org/) |  
-| [three.js](https://threejs.org/) |   
+| [three.js](https://threejs.org/) |
+| [p5.js](https://p5js.org/) |   
 
 [⬆ back to top](#table-of-contents)
 
