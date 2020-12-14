@@ -322,6 +322,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 
 | Website |
 | ------- |
+| [Checkbot - SEO, speed & security checker](https://www.checkbot.io/) |  
 | [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) |  
 | [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) |  
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) |  
