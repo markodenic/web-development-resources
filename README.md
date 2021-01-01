@@ -370,6 +370,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Accessibility Weekly](https://a11yweekly.com/) | Accessibility. |
 | [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) | Responsive web design. |
 | [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
+| [101 Blockchains](https://101blockchains.com/blockchain-newsletter/) | Blockchains |
 
 [⬆ back to top](#table-of-contents)
 
