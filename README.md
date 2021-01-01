@@ -272,6 +272,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://httpster.net |   
 | https://www.awwwards.com |
 | https://dribbble.com |
+| https://onepagelove.com |
+| https://www.behance.net |
 
 [⬆ back to top](#table-of-contents)
 
