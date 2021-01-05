@@ -76,6 +76,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://javascript.info/ |
 | https://vueschool.io/ |
 | https://www.guru99.com/ |
+| https://trailhead.salesforce.com/ |
 
 [⬆ back to top](#table-of-contents)
 
