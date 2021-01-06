@@ -209,7 +209,6 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw) |  
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) |  
 | [Dev Ed](https://www.youtube.com/c/DevEd/) |
-| [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -275,6 +274,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://dribbble.com |
 | https://onepagelove.com |
 | https://www.behance.net |
+| https://uidesigndaily.com |
 
 [⬆ back to top](#table-of-contents)
 
