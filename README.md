@@ -178,6 +178,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://remixicon.com |
 | https://tablericons.com |
 | https://simpleicons.org |
+| https://lordicon.com |
 
 [⬆ back to top](#table-of-contents)
 
