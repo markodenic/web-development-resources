@@ -211,6 +211,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw) |  
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) |  
 | [Dev Ed](https://www.youtube.com/c/DevEd/) |
+| [Jacob Sorber](https://www.youtube.com/channel/UCwd5VFu4KoJNjkWJZMFJGHQ/) |
 
 [⬆ back to top](#table-of-contents)
 
