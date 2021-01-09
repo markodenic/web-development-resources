@@ -233,6 +233,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [DevDiscuss](https://dev.to/devdiscuss) |
 | [DevNews](https://dev.to/devnews) |
 | [React Native Radio](https://reactnativeradio.com/) |
+| [Html All The Things](https://podcast.htmlallthethings.com/) |
 
 [⬆ back to top](#table-of-contents)
 
