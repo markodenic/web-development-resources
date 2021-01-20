@@ -212,6 +212,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) |  
 | [Dev Ed](https://www.youtube.com/c/DevEd/) |
 | [Coding Addict](https://www.youtube.com/c/CodingAddict) |
+| [Kevin Powell](https://youtube.com/kepowob) |
 
 [⬆ back to top](#table-of-contents)
 
