@@ -314,6 +314,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Velocity.js](http://velocityjs.org/) |
 | [Popmotion](https://popmotion.io/) |
 | [Snap.svg](http://snapsvg.io/) |
+| [Animista](https://animista.net/) |
 
 [⬆ back to top](#table-of-contents)
 
