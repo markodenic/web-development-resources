@@ -250,6 +250,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Atom](https://atom.io/) |  
 | [Brackets](http://brackets.io/) |  
 | [Vim](https://www.vim.org/) |  
+| [Spacemacs](https://www.spacemacs.org/) |
 
 [⬆ back to top](#table-of-contents)
 
