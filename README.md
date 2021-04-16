@@ -385,6 +385,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Accessibility Weekly](https://a11yweekly.com/) | Accessibility. |
 | [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) | Responsive web design. |
 | [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
+| [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) | User Interface development. |
 
 [⬆ back to top](#table-of-contents)
 
