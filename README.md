@@ -100,6 +100,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://frontendmentor.io |
 | https://devchallenges.io |
 | https://www.hackerearth.com |
+| https://www.frontendpractice.com |
 
 [⬆ back to top](#table-of-contents)
 
