@@ -54,7 +54,6 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://render.com |  
 | https://docs.gitlab.com/ee/user/project/pages |  
 | https://stormkit.io |  
-| https://www.zoop.sh |
 | https://www.digitalocean.com/ |
 
 [⬆ back to top](#table-of-contents)
@@ -77,6 +76,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://vueschool.io/ |
 | https://www.guru99.com/ |
 | https://trailhead.salesforce.com/ |
+| https://ocw.mit.edu/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -99,6 +99,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://frontendmentor.io |
 | https://devchallenges.io |
 | https://www.hackerearth.com |
+| https://www.frontendpractice.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -370,6 +371,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://templatemo.com | 
 | https://uideck.com | 
 | https://freehtml5.co | 
+| https://www.zerotheme.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -384,6 +386,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Accessibility Weekly](https://a11yweekly.com/) | Accessibility. |
 | [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) | Responsive web design. |
 | [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
+| [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) | User Interface development. |
 
 [⬆ back to top](#table-of-contents)
 
