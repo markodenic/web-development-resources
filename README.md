@@ -55,6 +55,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://docs.gitlab.com/ee/user/project/pages |  
 | https://stormkit.io |  
 | https://www.digitalocean.com/ |
+| https://www.pythonanywhere.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -77,6 +78,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://www.guru99.com/ |
 | https://trailhead.salesforce.com/ |
 | https://ocw.mit.edu/ |
+| https://www.fireship.io/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -209,6 +211,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Derek Banas](https://www.youtube.com/c/derekbanas) |  
 | [Academind](https://www.youtube.com/c/Academind) |  
 | [CodingTech](https://www.youtube.com/c/CodingTech) |  
+| [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) |
 | [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw) |  
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) |  
 | [Dev Ed](https://www.youtube.com/c/DevEd/) |
@@ -216,6 +219,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Coding Addict](https://www.youtube.com/c/CodingAddict) |
 | [Kevin Powell](https://youtube.com/kepowob) |
 | [Code with Ania Kubów](https://youtube.com/c/AniaKub%C3%B3w) |
+| [Javascript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -253,6 +257,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Vim](https://www.vim.org/) |  
 | [Spacemacs](https://www.spacemacs.org/) |
 | [Emacs](https://www.gnu.org/software/emacs/) |
+| [PyCharm](https://www.jetbrains.com/pycharm/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -357,6 +362,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [GTmetrix](https://gtmetrix.com/) |  
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
+| [web.dev](http://web.dev/) | 
 
 [⬆ back to top](#table-of-contents)
 
@@ -387,6 +393,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) | Responsive web design. |
 | [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
 | [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) | User Interface development. |
+| [Real Python Newsletter](https://realpython.com/newsletter/) | Python tips and tricks! |
 
 [⬆ back to top](#table-of-contents)
 
