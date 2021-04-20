@@ -139,7 +139,6 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 
 | Website |
 | ------- |
-| https://deathtothestockphoto.com |
 | https://unsplash.com |    
 | https://pixabay.com |  
 | https://pexels.com | 
@@ -156,6 +155,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 
 | Website |
 | ------- |
+| https://www.opendoodles.com |
 | https://undraw.co/illustrations |  
 | https://drawkit.io |  
 | https://icons8.com/ouch |  
