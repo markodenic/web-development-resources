@@ -18,27 +18,29 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 
 ## Table of Contents
 
-- [Hosting](#hosting)
-- [Learning Platforms](#learning-platforms)
-- [Coding Challenge Platforms](#coding-challenge-platforms)
-- [Freelancing platforms](#freelancing-platforms)
-- [Remote Jobs](#remote-jobs)
-- [Photos](#photos)
-- [Illustrations](#illustrations)
-- [Icons](#icons)
-- [Fonts](#fonts)
-- [Youtube Channels](#youtube-channels)
-- [Podcasts](#podcasts)
-- [Code Editors](#code-editors)
-- [Color Palettes](#color-palettes)
-- [UI Inspiration](#ui-inspiration)
-- [Docs](#docs)
-- [Animation Libraries](#animation-libraries)
-- [Charts](#charts)
-- [Chrome Extensions](#chrome-extensions)
-- [Website Optimization Tools](#website-optimization-tools)
-- [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
-- [Newsletters](#newsletters)
+- [Awesome Web Development Resources !Awesome](#awesome-web-development-resources-awesome)
+  - [Table of Contents](#table-of-contents)
+  - [Hosting:](#hosting)
+  - [Learning Platforms:](#learning-platforms)
+  - [Coding Challenge Platforms:](#coding-challenge-platforms)
+  - [Freelancing platforms:](#freelancing-platforms)
+  - [Remote Jobs:](#remote-jobs)
+  - [Photos:](#photos)
+  - [Illustrations:](#illustrations)
+  - [Icons:](#icons)
+  - [Fonts:](#fonts)
+  - [Youtube Channels:](#youtube-channels)
+  - [Podcasts:](#podcasts)
+  - [Code Editors:](#code-editors)
+  - [Color Palettes:](#color-palettes)
+  - [UI Inspiration:](#ui-inspiration)
+  - [Docs:](#docs)
+  - [Animation Libraries:](#animation-libraries)
+  - [Charts:](#charts)
+  - [Chrome Extensions:](#chrome-extensions)
+  - [Website Optimization Tools:](#website-optimization-tools)
+  - [HTML/CSS/JavaScript templates:](#htmlcssjavascript-templates)
+  - [Newsletters:](#newsletters)
 
 ## Hosting:  
 
@@ -346,6 +348,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en) |
 | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) |
 | [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl) |  
+| [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) |
 
 [⬆ back to top](#table-of-contents)
 
