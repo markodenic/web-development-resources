@@ -148,6 +148,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://plixs.com | 
 | https://freephotos.cc | 
 | https://picjumbo.com | 
+| https://squoosh.app |
 
 [⬆ back to top](#table-of-contents)
 
