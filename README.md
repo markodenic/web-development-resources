@@ -148,6 +148,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://plixs.com | 
 | https://freephotos.cc | 
 | https://picjumbo.com | 
+| https://www.pxfuel.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -155,6 +156,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 
 | Website |
 | ------- |
+| https://www.opendoodles.com |
 | https://undraw.co/illustrations |  
 | https://drawkit.io |  
 | https://icons8.com/ouch |  
@@ -181,6 +183,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://remixicon.com |
 | https://tablericons.com |
 | https://simpleicons.org |
+| https://svgrepo.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -346,7 +349,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en) |
 | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) |
 | [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl) |  
-| [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf/related) |
+| [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf) |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -358,6 +362,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [GTmetrix](https://gtmetrix.com/) |  
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
+| [asayer](https://asayer.io/) | Ps.: Has a great Blog
 
 [⬆ back to top](#table-of-contents)
 
