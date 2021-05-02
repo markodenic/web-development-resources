@@ -132,7 +132,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://jobspresso.co |  
 | https://europeremotely.com |  
 | https://wfh.io |   
-| https://4dayweek.io |   
+| https://www.hiretechladies.com/ |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -184,7 +184,6 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://remixicon.com |
 | https://tablericons.com |
 | https://simpleicons.org |
-| https://feathericons.com |
 | https://svgrepo.com/ |
 
 [⬆ back to top](#table-of-contents)
