@@ -181,6 +181,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://remixicon.com |
 | https://tablericons.com |
 | https://simpleicons.org |
+| https://svgrepo.com/ |
 
 [⬆ back to top](#table-of-contents)
 
