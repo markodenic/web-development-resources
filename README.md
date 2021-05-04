@@ -187,6 +187,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://simpleicons.org |
 | https://feathericons.com |
 | https://svgrepo.com/ |
+| https://iconic.app |
 
 [⬆ back to top](#table-of-contents)
 
