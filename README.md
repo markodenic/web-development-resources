@@ -12,7 +12,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 --- 
 
-Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
+Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
 
 ---
 
@@ -39,6 +39,11 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 - [Website Optimization Tools](#website-optimization-tools)
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [Newsletters](#newsletters)
+- [Online Tools](#online-tools)
+- [UI Components](#ui-components)
+- [Vue UI libraries](#vue-ui-libraries)
+- [React UI libraries](#react-ui-libraries)
+- [Angular UI libraries](#angular-ui-libraries)
 
 ## Hosting:  
 
@@ -396,6 +401,34 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) | Responsive web design. |
 | [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
 | [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) | User Interface development. |
+
+[⬆ back to top](#table-of-contents)
+
+## UI Components:
+
+| Website | Description |
+| ------- | ------ |
+
+[⬆ back to top](#table-of-contents)
+
+## Vue UI libraries:
+
+| Website | Description |
+| ------- | ------ |
+
+[⬆ back to top](#table-of-contents)
+
+## React UI libraries:
+
+| Website | Description |
+| ------- | ------ |
+
+[⬆ back to top](#table-of-contents)
+
+## Angular UI libraries:
+
+| Website | Description |
+| ------- | ------ |
 
 [⬆ back to top](#table-of-contents)
 
