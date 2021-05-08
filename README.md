@@ -404,6 +404,14 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 [⬆ back to top](#table-of-contents)
 
+## Online Tools:
+
+| Website | Description |
+| ------- | ------ |
+| [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR code generator to easily create a QR code for your project. |
+
+[⬆ back to top](#table-of-contents)
+
 ## UI Components:
 
 | Website | Description |
