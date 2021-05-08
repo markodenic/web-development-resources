@@ -192,6 +192,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://simpleicons.org |
 | https://feathericons.com |
 | https://svgrepo.com/ |
+| https://iconic.app |
 
 [⬆ back to top](#table-of-contents)
 
