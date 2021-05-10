@@ -342,7 +342,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | ------- |
 | [Chart.js](https://www.chartjs.org/) |  
 | [D3.js](https://d3js.org/) |  
-| [three.js](https://threejs.org/) |   
+| [three.js](https://threejs.org/) | 
+| [amCharts](https://www.amcharts.com/) |
 
 [⬆ back to top](#table-of-contents)
 
