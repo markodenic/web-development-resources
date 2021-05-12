@@ -82,6 +82,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.guru99.com/ |
 | https://trailhead.salesforce.com/ |
 | https://ocw.mit.edu/ |
+| https://open.appacademy.io/ |
 
 [⬆ back to top](#table-of-contents)
 
