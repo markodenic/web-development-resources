@@ -283,6 +283,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://color.adobe.com | 
 | https://htmlcolorcodes.com |
 | https://colorsinspo.com |
+| https://uigradients.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -405,6 +406,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) | Responsive web design. |
 | [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
 | [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) | User Interface development. |
+| [Go Make Things](https://gomakethings.com/) | Daily Vanilla JavaScript. |
 
 [⬆ back to top](#table-of-contents)
 
