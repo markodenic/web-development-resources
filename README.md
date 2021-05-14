@@ -283,7 +283,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://color.adobe.com | 
 | https://htmlcolorcodes.com |
 | https://colorsinspo.com |
-| https://uigradients.com |
 
 [⬆ back to top](#table-of-contents)
 
