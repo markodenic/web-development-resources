@@ -443,6 +443,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website | Description |
 | ------- | ------ |
+| [Taiga UI](https://taiga-ui.dev/) | A powerful set of open source components for Angular |
 
 [⬆ back to top](#table-of-contents)
 
