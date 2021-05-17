@@ -45,7 +45,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 - [React UI libraries](#react-ui-libraries)
 - [Angular UI libraries](#angular-ui-libraries)
 
-## Hosting:  
+## Hosting:
 
 | Website |
 | ------- |
@@ -63,8 +63,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 [⬆ back to top](#table-of-contents)
 
-## Learning Platforms: 
- 
+## Learning Platforms:
+
 | Website |
 | ------- |
 | https://freecodecamp.org |  
@@ -136,7 +136,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://weworkremotely.com |  
 | https://remoteok.io |  
 | https://jobspresso.co |  
-| https://europeremotely.com |  
 | https://wfh.io |  
 | https://4dayweek.io |
 | https://www.hiretechladies.com/ |  
@@ -384,7 +383,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website |
 | ------- |
 | https://inovatik.com | 
-| https://templated.co | 
 | https://www.tooplate.com | 
 | https://html5up.net | 
 | https://templatemo.com | 
