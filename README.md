@@ -152,7 +152,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://reshot.com | 
 | https://librestock.com |
 | https://visualhunt.com | 
-| https://plixs.com | 
 | https://freephotos.cc | 
 | https://picjumbo.com | 
 | https://www.pxfuel.com |
