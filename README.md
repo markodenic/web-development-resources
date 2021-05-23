@@ -373,6 +373,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [GTmetrix](https://gtmetrix.com/) |  
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
+| [web.dev](https://web.dev/measure/) | 
 | [asayer](https://asayer.io/) | Ps.: Has a great Blog
 
 [⬆ back to top](#table-of-contents)
