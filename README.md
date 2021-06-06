@@ -45,7 +45,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 - [React UI libraries](#react-ui-libraries)
 - [Angular UI libraries](#angular-ui-libraries)
 
-## Hosting:  
+## Hosting:
 
 | Website |
 | ------- |
@@ -63,8 +63,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 [⬆ back to top](#table-of-contents)
 
-## Learning Platforms: 
- 
+## Learning Platforms:
+
 | Website |
 | ------- |
 | https://freecodecamp.org |  
@@ -82,6 +82,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.guru99.com/ |
 | https://trailhead.salesforce.com/ |
 | https://ocw.mit.edu/ |
+| https://open.appacademy.io/ |
 | https://web.dev/ |
 
 [⬆ back to top](#table-of-contents)
@@ -136,7 +137,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://weworkremotely.com |  
 | https://remoteok.io |  
 | https://jobspresso.co |  
-| https://europeremotely.com |  
 | https://wfh.io |  
 | https://4dayweek.io |
 | https://www.hiretechladies.com/ |  
@@ -153,7 +153,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://reshot.com | 
 | https://librestock.com |
 | https://visualhunt.com | 
-| https://plixs.com | 
 | https://freephotos.cc | 
 | https://picjumbo.com | 
 | https://www.pxfuel.com |
@@ -229,6 +228,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Coding Addict](https://www.youtube.com/c/CodingAddict) |
 | [Kevin Powell](https://youtube.com/kepowob) |
 | [Code with Ania Kubów](https://youtube.com/c/AniaKub%C3%B3w) |
+| [The Coding Train](https://www.youtube.com/c/TheCodingTrain/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -282,6 +282,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://color.adobe.com | 
 | https://htmlcolorcodes.com |
 | https://colorsinspo.com |
+| https://uigradients.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -373,6 +374,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [GTmetrix](https://gtmetrix.com/) |  
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
+| [web.dev](https://web.dev/measure/) | 
 | [asayer](https://asayer.io/) | Ps.: Has a great Blog
 
 [⬆ back to top](#table-of-contents)
@@ -382,7 +384,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website |
 | ------- |
 | https://inovatik.com | 
-| https://templated.co | 
 | https://www.tooplate.com | 
 | https://html5up.net | 
 | https://templatemo.com | 
@@ -404,6 +405,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) | Responsive web design. |
 | [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
 | [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) | User Interface development. |
+| [Go Make Things](https://gomakethings.com/) | Daily Vanilla JavaScript. |
 
 [⬆ back to top](#table-of-contents)
 
@@ -440,6 +442,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website | Description |
 | ------- | ------ |
+| [Taiga UI](https://taiga-ui.dev/) | A powerful set of open source components for Angular |
 
 [⬆ back to top](#table-of-contents)
 
