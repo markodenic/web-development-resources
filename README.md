@@ -82,7 +82,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.guru99.com/ |
 | https://trailhead.salesforce.com/ |
 | https://ocw.mit.edu/ |
-| https://udacity.com |
+| https://web.dev/ |
 
 [⬆ back to top](#table-of-contents)
 
