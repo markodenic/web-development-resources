@@ -83,6 +83,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://trailhead.salesforce.com/ |
 | https://ocw.mit.edu/ |
 | https://open.appacademy.io/ |
+| https://web.dev/ |
 
 [⬆ back to top](#table-of-contents)
 
