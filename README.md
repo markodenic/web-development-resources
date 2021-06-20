@@ -194,6 +194,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://feathericons.com |
 | https://svgrepo.com/ |
 | https://iconic.app |
+| https://icomoon.io/ |
 
 [⬆ back to top](#table-of-contents)
 
