@@ -60,6 +60,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://docs.gitlab.com/ee/user/project/pages |  
 | https://stormkit.io |  
 | https://www.digitalocean.com/ |
+| https://www.linode.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -392,6 +393,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://uideck.com | 
 | https://freehtml5.co | 
 | https://www.zerotheme.com |
+| https://bootstrapmade.com |
 
 [⬆ back to top](#table-of-contents)
 
