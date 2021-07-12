@@ -432,6 +432,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website | Description |
 | ------- | ------ |
+| [Vuetify](https://vuetifyjs.com/) | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features. |
 
 [⬆ back to top](#table-of-contents)
 
