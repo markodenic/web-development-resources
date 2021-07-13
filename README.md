@@ -418,6 +418,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR code generator to easily create a QR code for your project. |
+| [HeroTofu Forms Backend](https://herotofu.com/) | Save form data with your static website. Email forwarder, bot detection, and encrypted archive. |
 
 [⬆ back to top](#table-of-contents)
 
