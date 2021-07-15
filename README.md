@@ -394,6 +394,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://uideck.com | 
 | https://freehtml5.co | 
 | https://www.zerotheme.com |
+| https://bootstrapmade.com |
 
 [⬆ back to top](#table-of-contents)
 
