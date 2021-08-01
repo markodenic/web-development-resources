@@ -44,6 +44,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 - [Vue UI libraries](#vue-ui-libraries)
 - [React UI libraries](#react-ui-libraries)
 - [Angular UI libraries](#angular-ui-libraries)
+- [Others](#others)
 
 ## Hosting:
 
@@ -456,6 +457,14 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [Taiga UI](https://taiga-ui.dev/) | A powerful set of open source components for Angular |
+
+[⬆ back to top](#table-of-contents)
+
+## Others:
+
+| Website | Description |
+| ------- | ------ |
+| [JavaScript Quiz](https://javascriptquiz.com) | JavaScript Quiz - Check your knowledge by having fun. |
 
 [⬆ back to top](#table-of-contents)
 
