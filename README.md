@@ -171,7 +171,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://icons8.com/ouch |  
 | https://iradesign.io |  
 | https://interfacer.xyz |  
-| https://blush.design |  
+| https://blush.design |
+| https://avataaars.com |
 
 [⬆ back to top](#table-of-contents)
 
