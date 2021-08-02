@@ -354,6 +354,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [D3.js](https://d3js.org/) |  
 | [three.js](https://threejs.org/) | 
 | [amCharts](https://www.amcharts.com/) |
+| [Charts.css](https://chartscss.org/) |
 
 [⬆ back to top](#table-of-contents)
 
