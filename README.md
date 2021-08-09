@@ -240,6 +240,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [The Coding Train](https://www.youtube.com/c/TheCodingTrain/) |
 | [Leon Noel](https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)|
 | [Coding Garden](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw) |
+| [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
 
 [⬆ back to top](#table-of-contents)
 
