@@ -239,6 +239,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Code with Ania Kubów](https://youtube.com/c/AniaKub%C3%B3w) |
 | [The Coding Train](https://www.youtube.com/c/TheCodingTrain/) |
 | [Leon Noel](https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)|
+| [Coding Garden](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw) |
 
 [⬆ back to top](#table-of-contents)
 
