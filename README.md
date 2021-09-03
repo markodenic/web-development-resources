@@ -87,6 +87,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://web.dev/ |
 | https://scrimba.com |
 | https://www.amigoscode.com |
+| https://cssbattle.dev/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -111,7 +112,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.hackerearth.com |
 | https://www.frontendpractice.com |
 | https://www.codementor.io/projects |
-
+| https://codepip.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -177,6 +178,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://interfacer.xyz |  
 | https://blush.design |
 | https://avataaars.com |
+| https://storyset.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -239,6 +241,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Kevin Powell](https://youtube.com/kepowob) |
 | [Code with Ania Kubów](https://youtube.com/c/AniaKub%C3%B3w) |
 | [The Coding Train](https://www.youtube.com/c/TheCodingTrain/) |
+| [Coder Coder](https://www.youtube.com/c/TheCoderCoder)|
 
 [⬆ back to top](#table-of-contents)
 
