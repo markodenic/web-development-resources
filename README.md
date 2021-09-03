@@ -86,6 +86,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://open.appacademy.io/ |
 | https://web.dev/ |
 | https://scrimba.com |
+| https://www.amigoscode.com |
 | https://cssbattle.dev/ |
 
 [⬆ back to top](#table-of-contents)
