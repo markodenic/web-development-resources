@@ -247,6 +247,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [kudvenkat](https://www.youtube.com/user/kudvenkat) | 
 | [Program With Erik](https://www.youtube.com/c/ProgramWithErik) | 
 | [Coder Coder](https://www.youtube.com/c/TheCoderCoder)|
+| [Leon Noel](https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)|
 
 [⬆ back to top](#table-of-contents)
 
