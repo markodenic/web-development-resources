@@ -39,6 +39,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 - [Website Optimization Tools](#website-optimization-tools)
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [Newsletters](#newsletters)
+- [CSS Generators](#css-generators)
 - [Online Tools](#online-tools)
 - [UI Components](#ui-components)
 - [Vue UI libraries](#vue-ui-libraries)
@@ -430,6 +431,13 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Go Make Things](https://gomakethings.com/) | Daily Vanilla JavaScript. |
 
 [⬆ back to top](#table-of-contents)
+
+## CSS Generators:
+
+| Website | Description |
+| ------- | ------ |
+| [Glassmorphism Generators](https://markodenic.com/tools/glassmorphism-css-generator/) | Use Glassmorphism Generator to create a stunning effect for your projects. |
+| [Buttons Generator](https://markodenic.com/tools/buttons-generator/) | An online gallery of 100+ button designs you can easily copy and use in your projects. |
 
 ## Online Tools:
 
