@@ -12,7 +12,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 --- 
 
-Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
+Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
 
 ---
 
@@ -38,8 +38,16 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 - [Chrome Extensions](#chrome-extensions)
 - [Website Optimization Tools](#website-optimization-tools)
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
+- [Newsletters](#newsletters)
+- [CSS Generators](#css-generators)
+- [Online Tools](#online-tools)
+- [UI Components](#ui-components)
+- [Vue UI libraries](#vue-ui-libraries)
+- [React UI libraries](#react-ui-libraries)
+- [Angular UI libraries](#angular-ui-libraries)
+- [Others](#others)
 
-## Hosting:  
+## Hosting:
 
 | Website |
 | ------- |
@@ -53,13 +61,12 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://render.com |  
 | https://docs.gitlab.com/ee/user/project/pages |  
 | https://stormkit.io |  
-| https://www.zoop.sh |
 | https://www.digitalocean.com/ |
 
 [⬆ back to top](#table-of-contents)
 
-## Learning Platforms: 
- 
+## Learning Platforms:
+
 | Website |
 | ------- |
 | https://freecodecamp.org |  
@@ -74,6 +81,16 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://www.theodinproject.com |
 | https://javascript.info/ |
 | https://vueschool.io/ |
+| https://www.guru99.com/ |
+| https://trailhead.salesforce.com/ |
+| https://ocw.mit.edu/ |
+| https://open.appacademy.io/ |
+| https://web.dev/ |
+| https://scrimba.com |
+| https://thegymnasium.com |
+| https://www.amigoscode.com |
+| https://cssbattle.dev/ |
+| https://bento.io/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -95,6 +112,12 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://codesignal.com/ |
 | https://frontendmentor.io |
 | https://devchallenges.io |
+| https://www.hackerearth.com |
+| https://www.frontendpractice.com |
+| https://www.codementor.io/projects |
+| https://css-challenges.com/ |
+| https://100dayscss.com |
+| https://codepip.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -125,8 +148,9 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://weworkremotely.com |  
 | https://remoteok.io |  
 | https://jobspresso.co |  
-| https://europeremotely.com |  
-| https://wfh.io |   
+| https://wfh.io |  
+| https://4dayweek.io |
+| https://www.hiretechladies.com/ |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -140,8 +164,10 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://reshot.com | 
 | https://librestock.com |
 | https://visualhunt.com | 
-| https://plixs.com | 
 | https://freephotos.cc | 
+| https://picjumbo.com | 
+| https://www.pxfuel.com |
+| https://www.splitshire.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -149,12 +175,15 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 
 | Website |
 | ------- |
+| https://www.opendoodles.com |
 | https://undraw.co/illustrations |  
 | https://drawkit.io |  
 | https://icons8.com/ouch |  
 | https://iradesign.io |  
 | https://interfacer.xyz |  
-| https://blush.design |  
+| https://blush.design |
+| https://avataaars.com |
+| https://storyset.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -165,11 +194,22 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://fontawesome.com |  
 | https://flaticon.com |  
 | https://icons8.com |  
+| https://iconfinder.com |  
 | https://material.io/resources/icons |  
 | https://iconmonstr.com | 
 | https://heroicons.com |
 | https://boxicons.com |
 | https://css.gg/ |
+| https://icons.eosdesignsystem.com/ |
+| https://icons.modulz.app |
+| https://remixicon.com |
+| https://tablericons.com |
+| https://simpleicons.org |
+| https://feathericons.com |
+| https://svgrepo.com/ |
+| https://iconic.app |
+| https://icomoon.io/ |
+
 
 [⬆ back to top](#table-of-contents)
 
@@ -201,6 +241,15 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw) |  
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) |  
 | [Dev Ed](https://www.youtube.com/c/DevEd/) |
+| [CodeSTACKr](https://youtube.com/c/codeSTACKr) |
+| [Coding Addict](https://www.youtube.com/c/CodingAddict) |
+| [Kevin Powell](https://youtube.com/kepowob) |
+| [Code with Ania Kubów](https://youtube.com/c/AniaKub%C3%B3w) |
+| [The Coding Train](https://www.youtube.com/c/TheCodingTrain/) |
+| [kudvenkat](https://www.youtube.com/user/kudvenkat) | 
+| [Program With Erik](https://www.youtube.com/c/ProgramWithErik) | 
+| [Coder Coder](https://www.youtube.com/c/TheCoderCoder)|
+| [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -221,7 +270,9 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) |  
 | [Modern Web](https://www.thisdot.co/modern-web) | 
 | [DevDiscuss](https://dev.to/devdiscuss) |
+| [DevNews](https://dev.to/devnews) |
 | [React Native Radio](https://reactnativeradio.com/) |
+| [Html All The Things](https://podcast.htmlallthethings.com/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -234,6 +285,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Atom](https://atom.io/) |  
 | [Brackets](http://brackets.io/) |  
 | [Vim](https://www.vim.org/) |  
+| [Spacemacs](https://www.spacemacs.org/) |
+| [Emacs](https://www.gnu.org/software/emacs/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -246,6 +299,11 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://paletton.com |  
 | https://color-hex.com |  
 | https://mycolor.space | 
+| https://flatuicolors.com | 
+| https://color.adobe.com | 
+| https://htmlcolorcodes.com |
+| https://colorsinspo.com |
+| https://uigradients.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -259,6 +317,9 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://httpster.net |   
 | https://www.awwwards.com |
 | https://dribbble.com |
+| https://onepagelove.com |
+| https://www.behance.net |
+| https://uidesigndaily.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -294,6 +355,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Velocity.js](http://velocityjs.org/) |
 | [Popmotion](https://popmotion.io/) |
 | [Snap.svg](http://snapsvg.io/) |
+| [Animista](https://animista.net/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -303,7 +365,9 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | ------- |
 | [Chart.js](https://www.chartjs.org/) |  
 | [D3.js](https://d3js.org/) |  
-| [three.js](https://threejs.org/) |   
+| [three.js](https://threejs.org/) | 
+| [amCharts](https://www.amcharts.com/) |
+| [Charts.css](https://chartscss.org/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -318,6 +382,9 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb) | 
 | [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en) |
 | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) |
+| [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl) |  
+| [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf) |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -329,6 +396,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [GTmetrix](https://gtmetrix.com/) |  
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
+| [web.dev](https://web.dev/measure/) | 
+| [asayer](https://asayer.io/) | Ps.: Has a great Blog
 
 [⬆ back to top](#table-of-contents)
 
@@ -337,12 +406,90 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | Website |
 | ------- |
 | https://inovatik.com | 
-| https://templated.co | 
 | https://www.tooplate.com | 
 | https://html5up.net | 
 | https://templatemo.com | 
 | https://uideck.com | 
 | https://freehtml5.co | 
+| https://www.zerotheme.com |
+| https://bootstrapmade.com |
+
+[⬆ back to top](#table-of-contents)
+
+## Newsletters:
+
+| Website | Topics |
+| ------- | ------ |
+| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Front-end and UX. |
+| [Frontend Focus](https://frontendfoc.us/) | HTML, CSS, WebGL, Canvas, browser tech, and more. |
+| [CSS Weekly](https://css-weekly.com/) | CSS. |
+| [JavaScript Weekly](https://javascriptweekly.com/) | JavaScript. |
+| [Accessibility Weekly](https://a11yweekly.com/) | Accessibility. |
+| [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) | Responsive web design. |
+| [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
+| [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) | User Interface development. |
+| [Go Make Things](https://gomakethings.com/) | Daily Vanilla JavaScript. |
+
+[⬆ back to top](#table-of-contents)
+
+## CSS Generators:
+
+| Website | Description |
+| ------- | ------ |
+| [Glassmorphism Generators](https://markodenic.com/tools/glassmorphism-css-generator/) | Use Glassmorphism Generator to create a stunning effect for your projects. |
+| [Buttons Generator](https://markodenic.com/tools/buttons-generator/) | An online gallery of 100+ button designs you can easily copy and use in your projects. |
+
+## Online Tools:
+
+| Website | Description |
+| ------- | ------ |
+| [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR code generator to easily create a QR code for your project. |
+| [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set. |
+
+[⬆ back to top](#table-of-contents)
+
+## UI Components:
+
+| Website | Description |
+| ------- | ------ |
+
+[⬆ back to top](#table-of-contents)
+
+## Vue UI libraries:
+
+| Website | Description |
+| ------- | ------ |
+| [Vuetify](https://vuetifyjs.com/) | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features. |
+| [Vue Material](https://vuematerial.io/) | Simple, lightweight and built exactly according to the Google Material Design specs. |
+| [BootstrapVue](https://bootstrap-vue.org/) | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup. |
+
+[⬆ back to top](#table-of-contents)
+
+## React UI libraries:
+
+| Website | Description |
+| ------- | ------ |
+| [Material-UI](https://material-ui.com/) | Simple and customizable component library to build faster, beautiful, and more accessible React applications. |
+| [Ant Design](https://ant.design/) | An enterprise-class UI design language and React UI library. |
+| [React Bootstrap](https://react-bootstrap.github.io/) | Bootstrap components built with React. |
+
+[⬆ back to top](#table-of-contents)
+
+## Angular UI libraries:
+
+| Website | Description |
+| ------- | ------ |
+| [Taiga UI](https://taiga-ui.dev/) | A powerful set of open source components for Angular |
+
+[⬆ back to top](#table-of-contents)
+
+## Others:
+
+| Website | Description |
+| ------- | ------ |
+| [Markdown Preview](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS. |
+| [JavaScript Quiz](https://javascriptquiz.com) | JavaScript Quiz - Check your knowledge by having fun. |
+| [CookieBubble](https://cookiebubble.netlify.app) | The easy way to inform users that your website is using cookies. |
 
 [⬆ back to top](#table-of-contents)
 
