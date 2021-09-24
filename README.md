@@ -147,7 +147,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://justremote.co |  
 | https://weworkremotely.com |  
 | https://remoteok.io |  
-| https://jobspresso.co |  
+| https://jobspresso.co | 
 | https://wfh.io |  
 | https://4dayweek.io |
 | https://www.hiretechladies.com/ |  
@@ -385,6 +385,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl) |  
 | [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf) |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |  
+| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related) |
 
 [⬆ back to top](#table-of-contents)
 
