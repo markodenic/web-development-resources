@@ -251,6 +251,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Program With Erik](https://www.youtube.com/c/ProgramWithErik) | 
 | [Coder Coder](https://www.youtube.com/c/TheCoderCoder)|
 | [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
+| [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 
 [⬆ back to top](#table-of-contents)
 
