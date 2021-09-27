@@ -62,6 +62,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://docs.gitlab.com/ee/user/project/pages |  
 | https://stormkit.io |  
 | https://www.digitalocean.com/ |
+| https://www.000webhost.com/ |
+| https://infinityfree.net/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -91,6 +93,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.amigoscode.com |
 | https://cssbattle.dev/ |
 | https://bento.io/ |
+| https://fullstackopen.com/en/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -252,6 +255,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Coder Coder](https://www.youtube.com/c/TheCoderCoder)|
 | [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
 | [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) |
+| [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 
 [⬆ back to top](#table-of-contents)
 
