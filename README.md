@@ -214,7 +214,10 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://svgrepo.com/ |
 | https://iconic.app |
 | https://icomoon.io/ |
-
+| https://styled-icons.dev/ |
+| https://thenounproject.com/ |
+| https://icons.getbootstrap.com/ |
+| https://lordicon.com/icons |
 
 [⬆ back to top](#table-of-contents)
 
@@ -254,9 +257,13 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [kudvenkat](https://www.youtube.com/user/kudvenkat) | 
 | [Program With Erik](https://www.youtube.com/c/ProgramWithErik) | 
 | [Coder Coder](https://www.youtube.com/c/TheCoderCoder)|
-| [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
+| [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
 | [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
+| [Coding Nepal](https://www.youtube.com/c/CodingNepal) | 
+| [Bedimcode](https://www.youtube.com/c/Bedimcode) |
+| [Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A) |
+| [dcode](https://www.youtube.com/c/dcode-software) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -421,6 +428,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://freehtml5.co | 
 | https://www.zerotheme.com |
 | https://bootstrapmade.com |
+| https://www.creative-tim.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -499,6 +507,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [JavaScript Quiz](https://javascriptquiz.com) | JavaScript Quiz - Check your knowledge by having fun. |
 | [CookieBubble](https://cookiebubble.netlify.app) | The easy way to inform users that your website is using cookies. |
 | [Developer Updates](https://www.developerupdates.com) | Keeps you updated one everything going on in the software developement world |
+| [Free Courses](https://freecourses.github.io/) | Free Courses of all platform
+| [Tech Interview Handbook](https://techinterviewhandbook.org/) | Codign Interview with all algorithms and Data Structures
+
 
 [⬆ back to top](#table-of-contents)
 
