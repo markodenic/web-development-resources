@@ -16,6 +16,10 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ---
 
+[preview on the web](https://nicedoc.io/markodenic/web-development-resources)
+
+---
+
 ## Table of Contents
 
 - [Hosting](#hosting)
