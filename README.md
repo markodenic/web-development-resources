@@ -218,7 +218,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://svgrepo.com/ |
 | https://iconic.app |
 | https://icomoon.io/ |
-
+| https://iconscout.com/unicons |
 
 [⬆ back to top](#table-of-contents)
 
