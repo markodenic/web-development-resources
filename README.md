@@ -368,7 +368,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Popmotion](https://popmotion.io/) |
 | [Snap.svg](http://snapsvg.io/) |
 | [Animista](https://animista.net/) |
-| [Lottie-Player](https://github.com/LottieFiles/lottie-player) |
+| [Lottie-Player](https://lottiefiles.com/web-player) |
 
 [⬆ back to top](#table-of-contents)
 
