@@ -261,6 +261,10 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
 | [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
+| [Coding Nepal](https://www.youtube.com/c/CodingNepal) | 
+| [Bedimcode](https://www.youtube.com/c/Bedimcode) |
+| [Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A) |
+| [dcode](https://www.youtube.com/c/dcode-software) |
 
 [⬆ back to top](#table-of-contents)
 
