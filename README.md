@@ -261,6 +261,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
 | [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
+| [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) |
 
 [⬆ back to top](#table-of-contents)
 
