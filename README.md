@@ -261,7 +261,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
 | [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
-| [Gary Simon](https://www.youtube.com/c/DesignCourse) |
+| [DesignCourse](https://www.youtube.com/c/DesignCourse) |
 
 [⬆ back to top](#table-of-contents)
 
