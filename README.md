@@ -192,7 +192,11 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://interfacer.xyz |  
 | https://blush.design |
 | https://avataaars.com |
-| https://storyset.com |
+| https://illlustrations.co |
+| https://isometric.online |
+| https://www.glazestock.com |
+| https://www.humaaans.com |
+| https://lukaszadam.com/illustrations |
 
 [⬆ back to top](#table-of-contents)
 
