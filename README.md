@@ -260,7 +260,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Coder Coder](https://www.youtube.com/c/TheCoderCoder)|
 | [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
 | [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) |
-| [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
+| [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) |
+| [Wes Bos](https://www.youtube.com/wesbos) |
 
 [⬆ back to top](#table-of-contents)
 
