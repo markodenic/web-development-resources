@@ -193,6 +193,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://blush.design |
 | https://avataaars.com |
 | https://storyset.com |
+| https://themeisle.com/illustrations |
+| https://www.manypixels.co/gallery |
+| https://openclipart.org |
 
 [⬆ back to top](#table-of-contents)
 
