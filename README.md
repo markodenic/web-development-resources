@@ -508,7 +508,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [JavaScript Quiz](https://javascriptquiz.com) | JavaScript Quiz - Check your knowledge by having fun. |
 | [CookieBubble](https://cookiebubble.netlify.app) | The easy way to inform users that your website is using cookies. |
 | [Developer Updates](https://www.developerupdates.com) | Keeps you updated one everything going on in the software developement world |
-| [Boxy SVG Editior](https://boxy-svg.com/) | SVG Editing Tool - Here you can easily edit and save any SVG file |
+| [Boxy SVG Editor](https://boxy-svg.com/) | SVG Editing Tool - Here you can easily edit and save any SVG file |
 
 [⬆ back to top](#table-of-contents)
 
