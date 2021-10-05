@@ -193,6 +193,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://blush.design |
 | https://avataaars.com |
 | https://storyset.com |
+| https://themeisle.com/illustrations/ |
 
 [⬆ back to top](#table-of-contents)
 
