@@ -303,6 +303,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Vim](https://www.vim.org/) |  
 | [Spacemacs](https://www.spacemacs.org/) |
 | [Emacs](https://www.gnu.org/software/emacs/) |
+| [Neovim](https://neovim.io/) |
 
 [⬆ back to top](#table-of-contents)
 
