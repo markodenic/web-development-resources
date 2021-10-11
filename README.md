@@ -512,6 +512,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [CookieBubble](https://cookiebubble.netlify.app) | The easy way to inform users that your website is using cookies. |
 | [Developer Updates](https://www.developerupdates.com) | Keeps you updated one everything going on in the software developement world |
 | [Boxy SVG Editor](https://boxy-svg.com/) | SVG Editing Tool - Here you can easily edit and save any SVG file |
+| [CSS-Tricks](https://css-tricks.com/) | Website to get daily articles about CSS, HTML, JavaScript, and all things related to web design and development.|
 
 [⬆ back to top](#table-of-contents)
 
