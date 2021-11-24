@@ -75,6 +75,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website |
 | ------- |
+| https://udemy.com/ |
 | https://freecodecamp.org |  
 | https://codecademy.com |  
 | https://javascript30.com |  
