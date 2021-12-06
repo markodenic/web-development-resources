@@ -194,6 +194,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://avataaars.com |
 | https://storyset.com |
 | https://themeisle.com/illustrations/ |
+| https://www.manypixels.co/gallery |
 
 [⬆ back to top](#table-of-contents)
 
@@ -220,6 +221,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://iconic.app |
 | https://icomoon.io/ |
 | https://iconscout.com/unicons |
+| https://holasvg.com/icons |
 
 [⬆ back to top](#table-of-contents)
 
@@ -459,6 +461,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Buttons Generator](https://markodenic.com/tools/buttons-generator/) | An online gallery of 100+ button designs you can easily copy and use in your projects. |
 | [Layoutit Grid](https://grid.layoutit.com/) | Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator. |
 | [CSS Gradient Editor](https://cssgradienteditor.com/) | You may only need this tool for creating CSS gradients and patterns. |
+| [Hola SVG Loaders Generator](https://holasvg.com/loaders/) | SVG Loaders Generator with Sass and SMIL options |
 
 ## Online Tools:
 
@@ -466,6 +469,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | ------- | ------ |
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR code generator to easily create a QR code for your project. |
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set. |
+| [Gradient Art](https://gra.dient.art/) | An advanced CSS gradient editor with layering, design tools and free cloud storage |
 
 [⬆ back to top](#table-of-contents)
 
