@@ -194,6 +194,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://avataaars.com |
 | https://storyset.com |
 | https://themeisle.com/illustrations/ |
+| https://www.manypixels.co/gallery |
 
 [⬆ back to top](#table-of-contents)
 
