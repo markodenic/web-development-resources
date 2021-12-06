@@ -220,6 +220,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://iconic.app |
 | https://icomoon.io/ |
 | https://iconscout.com/unicons |
+| https://holasvg.com/icons |
 
 [⬆ back to top](#table-of-contents)
 
