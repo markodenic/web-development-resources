@@ -16,6 +16,10 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ---
 
+[preview on the web](https://nicedoc.io/markodenic/web-development-resources)
+
+---
+
 ## Table of Contents
 
 - [Hosting](#hosting)
@@ -62,6 +66,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://docs.gitlab.com/ee/user/project/pages |  
 | https://stormkit.io |  
 | https://www.digitalocean.com/ |
+| https://www.000webhost.com/ |
+| https://infinityfree.net/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -91,6 +97,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.amigoscode.com |
 | https://cssbattle.dev/ |
 | https://bento.io/ |
+| https://fullstackopen.com/en/ |
+| https://upskillcourses.com/courses |
+
 
 [⬆ back to top](#table-of-contents)
 
@@ -118,6 +127,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://css-challenges.com/ |
 | https://100dayscss.com |
 | https://codepip.com |
+| https://triplebyte.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -147,7 +157,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://justremote.co |  
 | https://weworkremotely.com |  
 | https://remoteok.io |  
-| https://jobspresso.co |  
+| https://jobspresso.co | 
 | https://wfh.io |  
 | https://4dayweek.io |
 | https://www.hiretechladies.com/ |  
@@ -184,6 +194,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://blush.design |
 | https://avataaars.com |
 | https://storyset.com |
+| https://themeisle.com/illustrations/ |
+| https://www.manypixels.co/gallery |
 
 [⬆ back to top](#table-of-contents)
 
@@ -209,7 +221,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://svgrepo.com/ |
 | https://iconic.app |
 | https://icomoon.io/ |
-
+| https://iconscout.com/unicons |
+| https://holasvg.com/icons |
 
 [⬆ back to top](#table-of-contents)
 
@@ -250,6 +263,11 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Program With Erik](https://www.youtube.com/c/ProgramWithErik) | 
 | [Coder Coder](https://www.youtube.com/c/TheCoderCoder)|
 | [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
+| [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) |
+| [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) |
+| [Wes Bos](https://www.youtube.com/wesbos) |
+| [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
+| [DesignCourse](https://www.youtube.com/c/DesignCourse) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -273,6 +291,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [DevNews](https://dev.to/devnews) |
 | [React Native Radio](https://reactnativeradio.com/) |
 | [Html All The Things](https://podcast.htmlallthethings.com/) |
+| [The CSS Podcast](https://thecsspodcast.libsyn.com/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -287,6 +306,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Vim](https://www.vim.org/) |  
 | [Spacemacs](https://www.spacemacs.org/) |
 | [Emacs](https://www.gnu.org/software/emacs/) |
+| [Neovim](https://neovim.io/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -356,6 +376,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Popmotion](https://popmotion.io/) |
 | [Snap.svg](http://snapsvg.io/) |
 | [Animista](https://animista.net/) |
+| [Lottie-Player](https://lottiefiles.com/web-player) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -385,6 +406,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl) |  
 | [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf) |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |  
+| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -438,6 +460,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | ------- | ------ |
 | [Glassmorphism Generators](https://markodenic.com/tools/glassmorphism-css-generator/) | Use Glassmorphism Generator to create a stunning effect for your projects. |
 | [Buttons Generator](https://markodenic.com/tools/buttons-generator/) | An online gallery of 100+ button designs you can easily copy and use in your projects. |
+| [Layoutit Grid](https://grid.layoutit.com/) | Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator. |
+| [CSS Gradient Editor](https://cssgradienteditor.com/) | You may only need this tool for creating CSS gradients and patterns. |
+| [Hola SVG Loaders Generator](https://holasvg.com/loaders/) | SVG Loaders Generator with Sass and SMIL options |
 
 ## Online Tools:
 
@@ -445,6 +470,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | ------- | ------ |
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR code generator to easily create a QR code for your project. |
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set. |
+| [Gradient Art](https://gra.dient.art/) | An advanced CSS gradient editor with layering, design tools and free cloud storage |
 
 [⬆ back to top](#table-of-contents)
 
@@ -452,6 +478,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website | Description |
 | ------- | ------ |
+| [CssLayout](https://csslayout.io/) | A site with multiple css code snippets for very frequently used components in day to day web pages | 
 
 [⬆ back to top](#table-of-contents)
 
@@ -490,6 +517,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Markdown Preview](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS. |
 | [JavaScript Quiz](https://javascriptquiz.com) | JavaScript Quiz - Check your knowledge by having fun. |
 | [CookieBubble](https://cookiebubble.netlify.app) | The easy way to inform users that your website is using cookies. |
+| [Developer Updates](https://www.developerupdates.com) | Keeps you updated one everything going on in the software developement world |
+| [Boxy SVG Editor](https://boxy-svg.com/) | SVG Editing Tool - Here you can easily edit and save any SVG file |
 
 [⬆ back to top](#table-of-contents)
 
