@@ -223,6 +223,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://icomoon.io/ |
 | https://iconscout.com/unicons |
 | https://holasvg.com/icons |
+| https://fontello.com/ |
+| https://fontastic.me/ |
 
 [⬆ back to top](#table-of-contents)
 
