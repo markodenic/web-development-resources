@@ -197,6 +197,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://storyset.com |
 | https://themeisle.com/illustrations/ |
 | https://www.manypixels.co/gallery |
+| https://designstripe.com/catalog |
 
 [⬆ back to top](#table-of-contents)
 
