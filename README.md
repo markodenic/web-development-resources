@@ -328,6 +328,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://colorsinspo.com |
 | https://uigradients.com |
 | https://www.colorion.co/ |
+| https://www.gradientos.app |
 
 [⬆ back to top](#table-of-contents)
 
