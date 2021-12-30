@@ -75,7 +75,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website |
 | ------- |
-| https://freecodecamp.org |  
+| https://freecodecamp.org |
+| https://www.lambdatest.com/learning-hub/ |  
 | https://codecademy.com |  
 | https://javascript30.com |  
 | https://frontendmentor.io |  
