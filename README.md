@@ -214,7 +214,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://heroicons.com |
 | https://boxicons.com |
 | https://css.gg/ |
-| https://lineicons.com/ |
 | https://icons.eosdesignsystem.com/ |
 | https://icons.modulz.app |
 | https://remixicon.com |
@@ -443,10 +442,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://freehtml5.co | 
 | https://www.zerotheme.com |
 | https://bootstrapmade.com |
-| https://graygrids.com |
-| https://tailwindtemplates.co/ |
-
-
 
 [⬆ back to top](#table-of-contents)
 
@@ -491,9 +486,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [CssLayout](https://csslayout.io/) | A site with multiple css code snippets for very frequently used components in day to day web pages | 
-| [TailGrids](http://tailgrids.com/) | Handcrafted Tailwind CSS UI Components | 
-| [Ayro UI Bootstrap](https://ayroui/) | Bootstrap UI components for modern web apps |
-
 
 [⬆ back to top](#table-of-contents)
 
@@ -514,7 +506,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Material-UI](https://material-ui.com/) | Simple and customizable component library to build faster, beautiful, and more accessible React applications. |
 | [Ant Design](https://ant.design/) | An enterprise-class UI design language and React UI library. |
 | [React Bootstrap](https://react-bootstrap.github.io/) | Bootstrap components built with React. |
-
 
 [⬆ back to top](#table-of-contents)
 
