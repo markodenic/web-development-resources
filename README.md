@@ -228,6 +228,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://holasvg.com/icons |
 | https://fontello.com/ |
 | https://fontastic.me/ |
+| https://icons.getbootstrap.com/ |
 
 [⬆ back to top](#table-of-contents)
 
