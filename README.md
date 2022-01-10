@@ -273,6 +273,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wes Bos](https://www.youtube.com/wesbos) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
+| [codedamn](https://www.youtube.com/c/codedamn) |
+
 
 [⬆ back to top](#table-of-contents)
 
