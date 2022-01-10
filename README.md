@@ -273,7 +273,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wes Bos](https://www.youtube.com/wesbos) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
-
+| [ApnaCollege](https://www.youtube.com/c/ApnaCollegeOfficial) |
 [⬆ back to top](#table-of-contents)
 
 ## Podcasts:
@@ -359,7 +359,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://w3docs.com |  
 | https://devdocs.io |  
 | https://free-for.dev |  
-
+| https://www.javascripttutorial.net |
 [⬆ back to top](#table-of-contents)
 
 ## Animation Libraries:
