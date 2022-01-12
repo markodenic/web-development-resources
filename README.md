@@ -272,6 +272,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wes Bos](https://www.youtube.com/wesbos)                                     |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ)     |
 | [DesignCourse](https://www.youtube.com/c/DesignCourse)                        |
+| [Fireship](https://www.youtube.com/c/Fireship)                                |
 
 [⬆ back to top](#table-of-contents)
 
@@ -491,6 +492,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [TailGrids](http://tailgrids.com/)      | Handcrafted Tailwind CSS UI Components                                                             |
 | [Ayro UI Bootstrap](https://ayroui/)    | Bootstrap UI components for modern web apps                                                        |
 | [mdbootstrap](https://mdbootstrap.com/) | a material design for bootstrap supporting react, vue and angular                                  |
+| [bootdey](https://www.bootdey.com/)     | a website that provides Bootstrap snippets and examples                                            |
 
 |
 
