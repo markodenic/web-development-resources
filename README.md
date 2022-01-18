@@ -475,6 +475,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Layoutit Grid](https://grid.layoutit.com/) | Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator. |
 | [CSS Gradient Editor](https://cssgradienteditor.com/) | You may only need this tool for creating CSS gradients and patterns. |
 | [Hola SVG Loaders Generator](https://holasvg.com/loaders/) | SVG Loaders Generator with Sass and SMIL options |
+| [BEAUBUS Patterns](https://patterns.beaubus.com/) | 150+ free SVG patterns and CSS background images generator  |
 
 ## Online Tools:
 
