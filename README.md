@@ -100,7 +100,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://bento.io/ |
 | https://fullstackopen.com/en/ |
 | https://upskillcourses.com/courses |
-|https://www.geeksforgeeks.org/|
+
 
 
 [⬆ back to top](#table-of-contents)
@@ -130,7 +130,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://100dayscss.com |
 | https://codepip.com |
 | https://triplebyte.com |
-|https://www.geeksforgeeks.org/|
+
 
 
 [⬆ back to top](#table-of-contents)
