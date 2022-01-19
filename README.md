@@ -276,7 +276,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wes Bos](https://www.youtube.com/wesbos) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
-| [William Candillon](https://www.youtube.com/c/wcandillon)|
 | [Traversy Media](https://www.youtube.com/c/TraversyMedia)|
 [⬆ back to top](#table-of-contents)
 
