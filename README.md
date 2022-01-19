@@ -100,8 +100,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://bento.io/ |
 | https://fullstackopen.com/en/ |
 | https://upskillcourses.com/courses |
-| https://www.udemy.com/ | 
-|https://www.udacity.com/|
 |https://www.geeksforgeeks.org/|
 
 
