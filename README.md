@@ -129,6 +129,38 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://100dayscss.com |
 | https://codepip.com |
 | https://triplebyte.com |
+| https://codility.com/programmers |
+| http://www.codeeval.com/ |
+| http://rosalind.info/problems/locations/ |
+| https://www.kaggle.com/ |
+| https://geektastic.com/ |
+| https://thecodeplayer.com/ |
+| http://www.programmr.com/ |
+| https://codegym.cc/ |
+| https://codegym.cc/ |
+| https://www.interviewcake.com/ |
+| https://www.dailycodingproblem.com/ |
+| https://codepen.io/challenges |
+| https://www.pramp.com/ |
+| https://screeps.com/ |
+| https://adventofcode.com/ |
+| https://open.kattis.com/ |
+| https://www.testdome.com/ |
+| https://www.halite.io/ |
+| https://practity.com/ |
+| https://dmoj.ca/ |
+| https://www.codeabbey.com/ |
+| https://www.interviewbit.com/ |
+| https://interviewing.io/ |
+| https://practice.geeksforgeeks.org/ |
+| https://www.urionlinejudge.com.br/ |
+| https://challenges.reply.com/ |
+| https://codingcompetitions.withgoogle.com/ |
+| https://codingbat.com/ |
+| https://codesignal.com/ |
+| https://edabit.com/ |
+| http://www.pythonchallenge.com/ |
+| https://judocoder.com/challenges/ |
 
 [⬆ back to top](#table-of-contents)
 
