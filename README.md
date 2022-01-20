@@ -187,6 +187,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website |
 | ------- |
+| https://icons8.com/illustrations |
 | https://www.opendoodles.com |
 | https://undraw.co/illustrations |  
 | https://drawkit.io |  
