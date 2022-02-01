@@ -158,6 +158,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://justremote.co |  
 | https://weworkremotely.com |  
 | https://remoteok.io |  
+| https://himalayas.app |
 | https://jobspresso.co | 
 | https://wfh.io |  
 | https://4dayweek.io |
