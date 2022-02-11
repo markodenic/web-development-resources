@@ -13,3 +13,5 @@ Thank you for contributing to our awesome resources.
 - The resource **must** be completely free or to have a free tier.
 
 ## Thank you! ❤️
+
+## Love Y'All
