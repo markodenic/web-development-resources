@@ -68,6 +68,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.digitalocean.com/ |
 | https://www.000webhost.com/ |
 | https://infinityfree.net/ |
+| https://porkbun.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -164,6 +165,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.hiretechladies.com/ |  
 | https://rafo.com.au/ |  
 | https://nowhiteboard.org/ |  
+| https://andela.com/ |
+| https://angel.co |
 
 [⬆ back to top](#table-of-contents)
 
@@ -276,6 +279,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
 | [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
+| [William Candillon](https://www.youtube.com/channel/UC806fwFWpiLQV5y-qifzHnA) |
+| [Laith Harb](https://www.youtube.com/channel/UCyLNhHSiEVkVwPSFKxJAfSA) |
 
 [⬆ back to top](#table-of-contents)
 
