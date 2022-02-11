@@ -276,6 +276,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
 | [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
+| [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) |
 
 [⬆ back to top](#table-of-contents)
 
