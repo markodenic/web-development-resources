@@ -163,6 +163,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://4dayweek.io |
 | https://www.hiretechladies.com/ |  
 | https://rafo.com.au/ |  
+| https://nowhiteboard.org/ |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -229,6 +230,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fontello.com/ |
 | https://fontastic.me/ |
 | https://ionic.io/ionicons |
+| https://icons.getbootstrap.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -274,6 +276,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wes Bos](https://www.youtube.com/wesbos) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
+| [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
 
 [⬆ back to top](#table-of-contents)
 
