@@ -164,6 +164,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.hiretechladies.com/ |  
 | https://rafo.com.au/ |  
 | https://nowhiteboard.org/ |  
+| https://www.coolstartupjobs.com/ |  
 
 [⬆ back to top](#table-of-contents)
 
