@@ -431,6 +431,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Yslow](http://yslow.org/) | 
 | [web.dev](https://web.dev/measure/) | 
 | [asayer](https://asayer.io/) | Ps.: Has a great Blog
+| [Optimizilla](https://imagecompressor.com/)|
 
 [⬆ back to top](#table-of-contents)
 
