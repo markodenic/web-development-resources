@@ -75,7 +75,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website |
 | ------- |
-| https://freecodecamp.org |  
+| https://freecodecamp.org |
+| https://www.lambdatest.com/learning-hub/ |  
 | https://codecademy.com |  
 | https://javascript30.com |  
 | https://frontendmentor.io |  
@@ -161,6 +162,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://wfh.io |  
 | https://4dayweek.io |
 | https://www.hiretechladies.com/ |  
+| https://rafo.com.au/ |  
+| https://nowhiteboard.org/ |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -212,6 +215,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://heroicons.com |
 | https://boxicons.com |
 | https://css.gg/ |
+| https://lineicons.com/ |
 | https://icons.eosdesignsystem.com/ |
 | https://icons.modulz.app |
 | https://remixicon.com |
@@ -223,6 +227,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://icomoon.io/ |
 | https://iconscout.com/unicons |
 | https://holasvg.com/icons |
+| https://fontello.com/ |
+| https://fontastic.me/ |
+| https://icons.getbootstrap.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -268,6 +275,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wes Bos](https://www.youtube.com/wesbos) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
+| [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -324,6 +332,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://htmlcolorcodes.com |
 | https://colorsinspo.com |
 | https://uigradients.com |
+| https://www.colorion.co/ |
+| https://www.gradientos.app |
 
 [⬆ back to top](#table-of-contents)
 
@@ -389,6 +399,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [three.js](https://threejs.org/) | 
 | [amCharts](https://www.amcharts.com/) |
 | [Charts.css](https://chartscss.org/) |
+| [ECharts](https://echarts.apache.org/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -420,6 +431,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Yslow](http://yslow.org/) | 
 | [web.dev](https://web.dev/measure/) | 
 | [asayer](https://asayer.io/) | Ps.: Has a great Blog
+| [Optimizilla](https://imagecompressor.com/)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -435,6 +447,10 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://freehtml5.co | 
 | https://www.zerotheme.com |
 | https://bootstrapmade.com |
+| https://graygrids.com |
+| https://tailwindtemplates.co/ |
+
+
 
 [⬆ back to top](#table-of-contents)
 
@@ -479,6 +495,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [CssLayout](https://csslayout.io/) | A site with multiple css code snippets for very frequently used components in day to day web pages | 
+| [TailGrids](http://tailgrids.com/) | Handcrafted Tailwind CSS UI Components | 
+| [Ayro UI Bootstrap](https://ayroui/) | Bootstrap UI components for modern web apps |
+
 
 [⬆ back to top](#table-of-contents)
 
@@ -500,6 +519,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Ant Design](https://ant.design/) | An enterprise-class UI design language and React UI library. |
 | [React Bootstrap](https://react-bootstrap.github.io/) | Bootstrap components built with React. |
 
+
 [⬆ back to top](#table-of-contents)
 
 ## Angular UI libraries:
@@ -507,6 +527,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [Taiga UI](https://taiga-ui.dev/) | A powerful set of open source components for Angular |
+| [PrimeNG](https://www.primefaces.org/primeng/) | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
 
 [⬆ back to top](#table-of-contents)
 
@@ -519,6 +540,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [CookieBubble](https://cookiebubble.netlify.app) | The easy way to inform users that your website is using cookies. |
 | [Developer Updates](https://www.developerupdates.com) | Keeps you updated one everything going on in the software developement world |
 | [Boxy SVG Editor](https://boxy-svg.com/) | SVG Editing Tool - Here you can easily edit and save any SVG file |
+| [Cssrepo](https://cssrepo.com/)| A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
 
 [⬆ back to top](#table-of-contents)
 
