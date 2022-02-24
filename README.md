@@ -432,6 +432,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Yslow](http://yslow.org/) | 
 | [web.dev](https://web.dev/measure/) | 
 | [asayer](https://asayer.io/) | Ps.: Has a great Blog
+| [Optimizilla](https://imagecompressor.com/)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -527,6 +528,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [Taiga UI](https://taiga-ui.dev/) | A powerful set of open source components for Angular |
+| [PrimeNG](https://www.primefaces.org/primeng/) | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
 
 [⬆ back to top](#table-of-contents)
 
