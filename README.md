@@ -163,6 +163,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://4dayweek.io |
 | https://www.hiretechladies.com/ |  
 | https://rafo.com.au/ |  
+| https://nowhiteboard.org/ |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -228,6 +229,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://holasvg.com/icons |
 | https://fontello.com/ |
 | https://fontastic.me/ |
+| https://ionic.io/ionicons |
+| https://icons.getbootstrap.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -274,6 +277,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
 | [codedamn](https://www.youtube.com/c/codedamn) |
+| [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -428,7 +432,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
 | [web.dev](https://web.dev/measure/) | 
-| [asayer](https://asayer.io/) | Ps.: Has a great Blog
+| [asayer](https://asayer.io/) | Ps.: Has a great Blog |
+| [Optimizilla](https://imagecompressor.com/)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -494,6 +499,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [CssLayout](https://csslayout.io/) | A site with multiple css code snippets for very frequently used components in day to day web pages | 
 | [TailGrids](http://tailgrids.com/) | Handcrafted Tailwind CSS UI Components | 
 | [Ayro UI Bootstrap](https://ayroui/) | Bootstrap UI components for modern web apps |
+| [UI Hut](https://www.uihut.com/home) | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc.. | 
 
 
 [⬆ back to top](#table-of-contents)
@@ -524,6 +530,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [Taiga UI](https://taiga-ui.dev/) | A powerful set of open source components for Angular |
+| [PrimeNG](https://www.primefaces.org/primeng/) | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
 
 [⬆ back to top](#table-of-contents)
 
