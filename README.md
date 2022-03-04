@@ -102,7 +102,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://upskillcourses.com/courses |
 
 
-
 [⬆ back to top](#table-of-contents)
 
 ## Coding Challenge Platforms:
@@ -130,7 +129,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://100dayscss.com |
 | https://codepip.com |
 | https://triplebyte.com |
-
 
 
 [⬆ back to top](#table-of-contents)
