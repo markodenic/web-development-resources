@@ -101,7 +101,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fullstackopen.com/en/ |
 | https://upskillcourses.com/courses |
 
-
 [⬆ back to top](#table-of-contents)
 
 ## Coding Challenge Platforms:
