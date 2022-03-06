@@ -101,7 +101,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fullstackopen.com/en/ |
 | https://upskillcourses.com/courses |
 
-
 [⬆ back to top](#table-of-contents)
 
 ## Coding Challenge Platforms:
@@ -129,6 +128,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://100dayscss.com |
 | https://codepip.com |
 | https://triplebyte.com |
+
 
 [⬆ back to top](#table-of-contents)
 
@@ -278,6 +278,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wes Bos](https://www.youtube.com/wesbos) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
+| [Traversy Media](https://www.youtube.com/c/TraversyMedia)|
 | [codedamn](https://www.youtube.com/c/codedamn) |
 | [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
 
