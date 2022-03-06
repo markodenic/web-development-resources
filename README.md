@@ -158,11 +158,13 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://justremote.co |  
 | https://weworkremotely.com |  
 | https://remoteok.io |  
+| https://himalayas.app |
 | https://jobspresso.co | 
 | https://wfh.io |  
 | https://4dayweek.io |
 | https://www.hiretechladies.com/ |  
 | https://rafo.com.au/ |  
+| https://nowhiteboard.org/ |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -187,6 +189,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website |
 | ------- |
+| https://icons8.com/illustrations |
 | https://www.opendoodles.com |
 | https://undraw.co/illustrations |  
 | https://drawkit.io |  
@@ -228,6 +231,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://holasvg.com/icons |
 | https://fontello.com/ |
 | https://fontastic.me/ |
+| https://ionic.io/ionicons |
+| https://icons.getbootstrap.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -274,6 +279,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
 | [Traversy Media](https://www.youtube.com/c/TraversyMedia)|
+| [codedamn](https://www.youtube.com/c/codedamn) |
+| [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
+
 [⬆ back to top](#table-of-contents)
 
 ## Podcasts:
@@ -427,7 +435,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
 | [web.dev](https://web.dev/measure/) | 
-| [asayer](https://asayer.io/) | Ps.: Has a great Blog
+| [asayer](https://asayer.io/) | Ps.: Has a great Blog |
+| [Optimizilla](https://imagecompressor.com/)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -475,6 +484,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Layoutit Grid](https://grid.layoutit.com/) | Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator. |
 | [CSS Gradient Editor](https://cssgradienteditor.com/) | You may only need this tool for creating CSS gradients and patterns. |
 | [Hola SVG Loaders Generator](https://holasvg.com/loaders/) | SVG Loaders Generator with Sass and SMIL options |
+| [BEAUBUS Patterns](https://patterns.beaubus.com/) | 150+ free SVG patterns and CSS background images generator  |
 
 ## Online Tools:
 
@@ -483,6 +493,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR code generator to easily create a QR code for your project. |
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set. |
 | [Gradient Art](https://gra.dient.art/) | An advanced CSS gradient editor with layering, design tools and free cloud storage |
+| [Codepng](https://codepng.app/) | Convert your source code into awesome shareable images |
 
 [⬆ back to top](#table-of-contents)
 
@@ -493,6 +504,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [CssLayout](https://csslayout.io/) | A site with multiple css code snippets for very frequently used components in day to day web pages | 
 | [TailGrids](http://tailgrids.com/) | Handcrafted Tailwind CSS UI Components | 
 | [Ayro UI Bootstrap](https://ayroui/) | Bootstrap UI components for modern web apps |
+| [UI Hut](https://www.uihut.com/home) | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc.. | 
 
 
 [⬆ back to top](#table-of-contents)
@@ -523,6 +535,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [Taiga UI](https://taiga-ui.dev/) | A powerful set of open source components for Angular |
+| [PrimeNG](https://www.primefaces.org/primeng/) | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
 
 [⬆ back to top](#table-of-contents)
 
