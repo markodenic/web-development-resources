@@ -147,6 +147,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fiverr.com |  
 | https://hireable.com |  
 | https://6nomads.com |  
+| https://www.truelancer.com/ |
 
 [⬆ back to top](#table-of-contents)
 
