@@ -319,6 +319,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Sublime Text](https://www.sublimetext.com/) |  
 | [Atom](https://atom.io/) |  
 | [Brackets](http://brackets.io/) |  
+| [emacs](https://www.gnu.org/software/emacs/) |  
 | [Vim](https://www.vim.org/) |  
 | [Spacemacs](https://www.spacemacs.org/) |
 | [Emacs](https://www.gnu.org/software/emacs/) |
