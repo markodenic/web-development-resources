@@ -551,6 +551,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Developer Updates](https://www.developerupdates.com) | Keeps you updated one everything going on in the software developement world |
 | [Boxy SVG Editor](https://boxy-svg.com/) | SVG Editing Tool - Here you can easily edit and save any SVG file |
 | [Cssrepo](https://cssrepo.com/)| A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
+| [Web Searcher](https://websearcher.vercel.app/)| Create Open Graph, Twitter and basic meta tags easily |
 
 [⬆ back to top](#table-of-contents)
 
