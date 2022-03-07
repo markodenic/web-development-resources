@@ -128,6 +128,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://100dayscss.com |
 | https://codepip.com |
 | https://triplebyte.com |
+| https://edabit.com |
 
 
 [⬆ back to top](#table-of-contents)
