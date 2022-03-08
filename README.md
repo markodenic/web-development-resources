@@ -53,7 +53,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ## Hosting:
 
-| Website | Snippet |
+| Website | Description |
 | ------- |:--------|
 | https://netlify.com | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps. |
 | https://firebase.google.com | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises |
