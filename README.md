@@ -149,6 +149,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://hireable.com |  
 | https://6nomads.com |  
 | https://www.truelancer.com/ |
+| https://www.gun.io/ |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -168,7 +169,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.hiretechladies.com/ |  
 | https://rafo.com.au/ |  
 | https://nowhiteboard.org/ |  
-| https://www.gun.io/ |  
 | https://www.coolstartupjobs.com/ |  
 | https://angel.co |  
 
