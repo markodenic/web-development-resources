@@ -102,8 +102,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://upskillcourses.com/courses |
 | https://www.geeksforgeeks.org/web-development/ |
 
-
-
 [⬆ back to top](#table-of-contents)
 
 ## Coding Challenge Platforms:
