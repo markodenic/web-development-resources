@@ -348,6 +348,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.gradientos.app |
 | https://www.eggradients.com |
 | https://cssgradient.io |
+| http://getuicolors.com/ |
 
 [⬆ back to top](#table-of-contents)
 
