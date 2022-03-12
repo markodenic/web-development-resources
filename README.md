@@ -344,8 +344,10 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://htmlcolorcodes.com |
 | https://colorsinspo.com |
 | https://uigradients.com |
-| https://www.colorion.co/ |
+| https://www.colorion.co |
 | https://www.gradientos.app |
+|https://www.eggradients.com|
+|https://cssgradient.io|
 
 [⬆ back to top](#table-of-contents)
 
