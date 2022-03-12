@@ -189,6 +189,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://picjumbo.com | 
 | https://www.pxfuel.com |
 | https://www.splitshire.com |
+| http://thestocks.im |
 
 [⬆ back to top](#table-of-contents)
 
