@@ -255,6 +255,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://ffonts.net |  
 | https://fontfabric.com |  
 | https://urbanfonts.com |  
+| https://www.fontpair.co/ |
 
 [⬆ back to top](#table-of-contents)
 
