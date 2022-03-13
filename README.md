@@ -284,9 +284,10 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) |
 | [Wes Bos](https://www.youtube.com/wesbos) |
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
-| [Traversy Media](https://www.youtube.com/c/TraversyMedia)|
 | [codedamn](https://www.youtube.com/c/codedamn) |
 | [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
+| [Fireship](https://www.youtube.com/c/Fireship)|
+| [Codevolution](https://www.youtube.com/c/Codevolution)|
 
 [⬆ back to top](#table-of-contents)
 
