@@ -68,6 +68,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.digitalocean.com/ | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results. |
 | https://www.000webhost.com/ | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.|
 | https://infinityfree.net/ |**InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site. |
+| https://pages.cloudflare.com/ |**Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth. |
 
 [⬆ back to top](#table-of-contents)
 
