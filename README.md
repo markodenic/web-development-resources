@@ -569,6 +569,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Boxy SVG Editor](https://boxy-svg.com/) | SVG Editing Tool - Here you can easily edit and save any SVG file |
 | [Cssrepo](https://cssrepo.com/)| A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
 | [Web Searcher](https://websearcher.vercel.app/)| Create Open Graph, Twitter and basic meta tags easily |
+| [Development Docker Containers](https://github.com/madalinignisca/devcontainers) | Customizable and easy to use docker recipe for PHP and NodeJS development projects |
 
 [⬆ back to top](#table-of-contents)
 
