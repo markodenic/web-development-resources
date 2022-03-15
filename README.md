@@ -225,23 +225,24 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://iconmonstr.com | 
 | https://heroicons.com |
 | https://boxicons.com |
-| https://css.gg/ |
-| https://lineicons.com/ |
-| https://icons.eosdesignsystem.com/ |
+| https://css.gg |
+| https://lineicons.com |
+| https://icons.eosdesignsystem.com |
 | https://icons.modulz.app |
 | https://remixicon.com |
 | https://tablericons.com |
 | https://simpleicons.org |
 | https://feathericons.com |
-| https://svgrepo.com/ |
+| https://svgrepo.com |
 | https://iconic.app |
-| https://icomoon.io/ |
+| https://icomoon.io |
 | https://iconscout.com/unicons |
 | https://holasvg.com/icons |
-| https://fontello.com/ |
-| https://fontastic.me/ |
+| https://fontello.com |
+| https://fontastic.me |
 | https://ionic.io/ionicons |
-| https://icons.getbootstrap.com/ |
+| https://icons.getbootstrap.com |
+|https://react-icons.github.io/react-icons|
 
 [⬆ back to top](#table-of-contents)
 
