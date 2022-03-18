@@ -339,7 +339,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website |
 | ------- |
-| https://coolors.co |  
+| https://coolors.co |
+| https://colpic.pushkaryadav.in/ |
 | https://colorhunt.co |  
 | https://paletton.com |  
 | https://color-hex.com |  
