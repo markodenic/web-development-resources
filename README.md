@@ -463,7 +463,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website |
 | ------- |
-| https://inovatik.com | 
+| https://htmlrev.com | 
 | https://www.tooplate.com | 
 | https://html5up.net | 
 | https://templatemo.com | 
