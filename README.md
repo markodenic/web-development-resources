@@ -505,11 +505,13 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Shape Divider](https://www.shapedivider.app/) | A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. |
 | [BEAUBUS Patterns](https://patterns.beaubus.com/) | 150+ free SVG patterns and CSS background images generator  |
 |[9elements - Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)|9elements is a little tool, that helps you create your very own organic shape. When you use four/eight values specifying border-radius in CSS, you can create organic looking shapes.|
+|[Blobmaker](https://www.blobmaker.app/)|Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.|
 
 ## Online Tools:
 
 | Website | Description |
 | ------- | ------ |
+| [PRM](https://prm.pushkaryadav.in/) | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile |
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR code generator to easily create a QR code for your project. |
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set. |
 | [Gradient Art](https://gra.dient.art/) | An advanced CSS gradient editor with layering, design tools and free cloud storage |
