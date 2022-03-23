@@ -504,6 +504,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Hola SVG Loaders Generator](https://holasvg.com/loaders/) | SVG Loaders Generator with Sass and SMIL options |
 | [Shape Divider](https://www.shapedivider.app/) | A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. |
 | [BEAUBUS Patterns](https://patterns.beaubus.com/) | 150+ free SVG patterns and CSS background images generator  |
+|[9elements - Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)|9elements is a little tool, that helps you create your very own organic shape. When you use four/eight values specifying border-radius in CSS, you can create organic looking shapes.|
 |[Blobmaker](https://www.blobmaker.app/)|Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.|
 
 ## Online Tools:
