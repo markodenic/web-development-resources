@@ -517,6 +517,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Gradient Art](https://gra.dient.art/) | An advanced CSS gradient editor with layering, design tools and free cloud storage |
 | [JSONT](https://www.jsont.run/) | A simple and powerful JSON formatting tool |
 | [Codepng](https://codepng.app/) | Convert your source code into awesome shareable images |
+| [yuyu.ai](https://yuyu.ai/) |  Is a frontend ai tool to generate html and css instantly from a jpg or png file. |
 
 [⬆ back to top](#table-of-contents)
 
