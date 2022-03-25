@@ -577,6 +577,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Boxy SVG Editor](https://boxy-svg.com/) | SVG Editing Tool - Here you can easily edit and save any SVG file |
 | [Cssrepo](https://cssrepo.com/)| A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
 | [Web Searcher](https://websearcher.vercel.app/)| Create Open Graph, Twitter and basic meta tags easily |
+| [MakeMeta](https://makemeta.app/)| Effortlessly generate Meta Tags for your website! |
 
 [⬆ back to top](#table-of-contents)
 
