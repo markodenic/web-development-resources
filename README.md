@@ -408,6 +408,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Snap.svg](http://snapsvg.io/) |
 | [Animista](https://animista.net/) |
 | [Lottie-Player](https://lottiefiles.com/web-player) |
+| [Framer motion](https://www.framer.com/motion) |
 
 [⬆ back to top](#table-of-contents)
 
