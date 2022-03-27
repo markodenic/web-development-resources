@@ -421,6 +421,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [amCharts](https://www.amcharts.com/) |
 | [Charts.css](https://chartscss.org/) |
 | [ECharts](https://echarts.apache.org/) |
+| [Vega](https://vega.github.io/vega)|
 
 [⬆ back to top](#table-of-contents)
 
