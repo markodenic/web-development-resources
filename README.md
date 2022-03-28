@@ -174,6 +174,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://nowhiteboard.org/ |  
 | https://www.coolstartupjobs.com/ |  
 | https://angel.co |  
+| https://www.smartremotejobs.com |
 
 [⬆ back to top](#table-of-contents)
 
