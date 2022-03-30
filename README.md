@@ -103,6 +103,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://upskillcourses.com/courses |
 | https://www.geeksforgeeks.org/web-development/ |
 | https://hackdesign.org/lessons |
+| https://javatpoint.com |
+
 
 [⬆ back to top](#table-of-contents)
 
