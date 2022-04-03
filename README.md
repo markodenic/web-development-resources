@@ -357,6 +357,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.eggradients.com |
 | https://cssgradient.io |
 | https://www.0to255.com |
+| https://yeun.github.io/open-color/ |
+| https://www.grabient.com/ |
+| https://tailwindcolor.com/ |
 
 [⬆ back to top](#table-of-contents)
 
