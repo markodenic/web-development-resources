@@ -246,6 +246,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://ionic.io/ionicons |
 | https://icons.getbootstrap.com |
 |https://react-icons.github.io/react-icons|
+| https://www.iconspedia.com/ |
 
 [⬆ back to top](#table-of-contents)
 
