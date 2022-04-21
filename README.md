@@ -309,7 +309,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [The Changelog](https://changelog.com/) |  
 | [The Laracasts Snippet](https://laracasts.com/podcast) |  
 | [Front End Happy Hour](https://frontendhappyhour.com/) |  
-| [JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/) |  
+| [JavaScript Jabber](https://javascriptjabber.com/) |  
 | [Commit Your Code!](https://anchor.fm/commityourcode) |  
 | [Shop Talk](https://shoptalkshow.com/) |  
 | [Ladybug Podcast](https://www.ladybug.dev/) |  
@@ -374,7 +374,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://dribbble.com |
 | https://onepagelove.com |
 | https://www.behance.net |
-| https://uidesigndaily.com |
 | https://tympanus.net |
 
 [⬆ back to top](#table-of-contents)
@@ -387,7 +386,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://w3schools.com |  
 | https://w3docs.com |  
 | https://devdocs.io |  
-| https://free-for.dev |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -406,7 +404,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Tuesday](http://shakrmedia.github.io/tuesday/) |  
 | [Mo.js](https://mojs.github.io/)|  
 | [Bounce.js](http://bouncejs.com/) | 
-| [tsParticles](https://particles.matteobruni.it) |
 | [AOS](https://michalsnik.github.io/aos/) |
 | [Velocity.js](http://velocityjs.org/) |
 | [Popmotion](https://popmotion.io/) |
