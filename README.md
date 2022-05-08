@@ -585,6 +585,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Web Searcher](https://websearcher.vercel.app/)| Create Open Graph, Twitter and basic meta tags easily |
 | [MakeMeta](https://makemeta.app/)| Effortlessly generate Meta Tags for your website! |
 | [Revealjs](https://revealjs.com)| Open source HTML presentation framework that enables to create web presentations for free. |
+| [Flickity](https://flickity.metafizzy.co/)| Touch, responsive, flickable carousel. |
+
 
 [⬆ back to top](#table-of-contents)
 
