@@ -493,6 +493,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [JAMstacked](https://jamstack.email/) | JAMstack ecosystem. |
 | [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) | User Interface development. |
 | [Go Make Things](https://gomakethings.com/) | Daily Vanilla JavaScript. |
+| [Daily Dev Tips](https://daily-dev-tips.com/) | Daily Dev Tips. |
 
 [⬆ back to top](#table-of-contents)
 
