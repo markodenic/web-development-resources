@@ -297,6 +297,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
 | [Fireship](https://www.youtube.com/c/Fireship)|
 | [Codevolution](https://www.youtube.com/c/Codevolution)|
+| [Buddy](https://youtube.com/c/BuddyWorks)|
 
 [⬆ back to top](#table-of-contents)
 
