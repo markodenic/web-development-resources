@@ -123,18 +123,18 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://exercism.io |  
 | https://leetcode.com |  
 | https://spoj.com | 
-| https://codeforces.com/ |
-| https://codesignal.com/ |
+| https://codeforces.com |
+| https://codesignal.com |
 | https://frontendmentor.io |
 | https://devchallenges.io |
 | https://www.hackerearth.com |
 | https://www.frontendpractice.com |
 | https://www.codementor.io/projects |
-| https://css-challenges.com/ |
+| https://css-challenges.com |
 | https://100dayscss.com |
 | https://codepip.com |
 | https://triplebyte.com |
-| https://www.w3schools.com/codegame/index.html |
+| https://www.w3schools.com/codegame |
 | https://edabit.com |
 
 
@@ -154,8 +154,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fiverr.com |  
 | https://hireable.com |  
 | https://6nomads.com |  
-| https://www.truelancer.com/ |
-| https://www.gun.io/ |  
+| https://www.truelancer.com |
+| https://www.gun.io |  
 | https://www.refrens.com |
 
 [⬆ back to top](#table-of-contents)
@@ -173,10 +173,10 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://jobspresso.co | 
 | https://wfh.io |  
 | https://4dayweek.io |
-| https://www.hiretechladies.com/ |  
-| https://rafo.com.au/ |  
-| https://nowhiteboard.org/ |  
-| https://www.coolstartupjobs.com/ |  
+| https://www.hiretechladies.com |  
+| https://rafo.com.au |  
+| https://nowhiteboard.org |  
+| https://www.coolstartupjobs.com |  
 | https://angel.co |  
 | https://www.smartremotejobs.com |
 
@@ -213,7 +213,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://blush.design |
 | https://avataaars.com |
 | https://storyset.com |
-| https://themeisle.com/illustrations/ |
+| https://themeisle.com/illustrations |
 | https://www.manypixels.co/gallery |
 
 [⬆ back to top](#table-of-contents)
@@ -247,8 +247,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fontastic.me |
 | https://ionic.io/ionicons |
 | https://icons.getbootstrap.com |
-|https://react-icons.github.io/react-icons|
-| https://www.iconspedia.com/ |
+| https://react-icons.github.io/react-icons |
+| https://www.iconspedia.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -263,7 +263,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://ffonts.net |  
 | https://fontfabric.com |  
 | https://urbanfonts.com |  
-| https://www.fontpair.co/ |
+| https://www.fontpair.co |
 
 [⬆ back to top](#table-of-contents)
 
@@ -296,9 +296,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
 | [codedamn](https://www.youtube.com/c/codedamn) |
 | [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
-| [Fireship](https://www.youtube.com/c/Fireship)|
-| [Codevolution](https://www.youtube.com/c/Codevolution)|
-| [Buddy](https://youtube.com/c/BuddyWorks)|
+| [Fireship](https://www.youtube.com/c/Fireship) |
+| [Codevolution](https://www.youtube.com/c/Codevolution) |
+| [Buddy](https://youtube.com/c/BuddyWorks) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -445,8 +445,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |  
 | [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related) |
 | [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US) |
-|[Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)|
-|[GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)|
+| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) |
+| [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -459,8 +459,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
 | [web.dev](https://web.dev/measure/) | 
-| [asayer](https://asayer.io/) | Ps.: Has a great Blog |
-| [Optimizilla](https://imagecompressor.com/)|
+| [asayer](https://asayer.io/) |
+| [Optimizilla](https://imagecompressor.com/) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -477,8 +477,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.zerotheme.com |
 | https://bootstrapmade.com |
 | https://graygrids.com |
-| https://tailwindtemplates.co/ |
-| https://themeselection.com/ |
+| https://tailwindtemplates.co |
+| https://themeselection.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -509,8 +509,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Hola SVG Loaders Generator](https://holasvg.com/loaders/) | SVG Loaders Generator with Sass and SMIL options |
 | [Shape Divider](https://www.shapedivider.app/) | A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. |
 | [BEAUBUS Patterns](https://patterns.beaubus.com/) | 150+ free SVG patterns and CSS background images generator  |
-|[9elements - Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)|9elements is a little tool, that helps you create your very own organic shape. When you use four/eight values specifying border-radius in CSS, you can create organic looking shapes.|
-|[Blobmaker](https://www.blobmaker.app/)|Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.|
+| [9elements - Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)|9elements is a little tool, that helps you create your very own organic shape. When you use four/eight values specifying border-radius in CSS, you can create organic looking shapes. |
+| [Blobmaker](https://www.blobmaker.app/)|Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker) | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations. |
 
 ## Online Tools:
