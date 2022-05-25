@@ -340,6 +340,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Spacemacs](https://www.spacemacs.org/) |
 | [Emacs](https://www.gnu.org/software/emacs/) |
 | [Neovim](https://neovim.io/) |
+| [Fleet](https://www.jetbrains.com/fleet/) | 
 
 [⬆ back to top](#table-of-contents)
 
