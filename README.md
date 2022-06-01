@@ -14,12 +14,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
 
----
-
-[preview on the web](https://nicedoc.io/markodenic/web-development-resources)
-
----
-
 ## Table of Contents
 
 - [Hosting](#hosting)
