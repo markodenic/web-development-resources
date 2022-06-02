@@ -211,6 +211,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://themeisle.com/illustrations |
 | https://www.manypixels.co/gallery |
 | https://www.artify.co/illustrations-figma |
+| https://www.artify.co/vector-illustrations |
 
 [⬆ back to top](#table-of-contents)
 
