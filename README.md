@@ -210,6 +210,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://storyset.com |
 | https://themeisle.com/illustrations |
 | https://www.manypixels.co/gallery |
+| https://www.artify.co/illustrations-figma |
 
 [⬆ back to top](#table-of-contents)
 
