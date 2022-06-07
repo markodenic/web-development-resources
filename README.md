@@ -298,6 +298,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Fireship](https://www.youtube.com/c/Fireship) |
 | [Codevolution](https://www.youtube.com/c/Codevolution) |
 | [Buddy](https://youtube.com/c/BuddyWorks) |
+| [CSS Weekly](https://www.youtube.com/c/cssweekly) |
 
 [⬆ back to top](#table-of-contents)
 
