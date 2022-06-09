@@ -248,6 +248,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://react-icons.github.io/react-icons |
 | https://www.iconspedia.com |
 | https://favicons.beaubus.com/ |
+| https://www.3dicons.com/ |
 
 [⬆ back to top](#table-of-contents)
 
