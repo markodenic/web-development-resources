@@ -177,6 +177,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.coolstartupjobs.com |  
 | https://angel.co |  
 | https://www.smartremotejobs.com |
+| https://remotive.com |
 
 [⬆ back to top](#table-of-contents)
 
