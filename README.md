@@ -135,6 +135,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.w3schools.com/codegame |
 | https://edabit.com |
 | https://www.jschallenger.com |
+| https://www.codewell.cc/challenges |
 
 
 [⬆ back to top](#table-of-contents)
