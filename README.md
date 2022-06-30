@@ -518,7 +518,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Blobmaker](https://www.blobmaker.app/)|Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker) | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations. |
 | [Neumorphism](https://neumorphism.io/) | A free online tool for designing attractive UI with colors, gradients and shadows.. |
-| [Fancy border generator](https://9elements.github.io/fancy-border-radius/) |Generator to build shapes with CSS border-radius |
+| [Fancy border-radius generator](https://9elements.github.io/fancy-border-radius/) |Generator to build shapes with CSS border-radius |
 
 ## Online Tools:
 
