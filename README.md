@@ -178,7 +178,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://angel.co |  
 | https://www.smartremotejobs.com |
 | https://remotive.com |
-| https://arc.dev |
 
 [⬆ back to top](#table-of-contents)
 
