@@ -81,6 +81,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://khanacademy.org                                          |
 | https://sololearn.com                                            |
 | https://www.theodinproject.com                                   |
+| https://www.w3schools.com/whatis/                                |
 | https://javascript.info/                                         |
 | https://vueschool.io/                                            |
 | https://www.guru99.com/                                          |
