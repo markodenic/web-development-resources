@@ -101,7 +101,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://https://docs.microsoft.com/en-gb/learn/                  |
 | https://www.codementor.io/events                                 |
 | https://eloquentjavascript.net/                                  |
-| https://skillcombo.com/courses/development/web-development/free/ |
+| https://skillcombo.com/courses/development/web-development/free/
+| https://www.scaler.com/topics/
 
 [⬆ back to top](#table-of-contents)
 
