@@ -98,7 +98,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.geeksforgeeks.org/web-development/                   |
 | https://hackdesign.org/lessons                                   |
 | https://javatpoint.com                                           |
-| https://https://docs.microsoft.com/en-gb/learn/                  |
+| https://docs.microsoft.com/en-gb/learn/                  |
 | https://www.codementor.io/events                                 |
 | https://eloquentjavascript.net/                                  |
 | https://skillcombo.com/courses/development/web-development/free/ |
@@ -302,6 +302,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Codevolution](https://www.youtube.com/c/Codevolution)                        |
 | [Buddy](https://youtube.com/c/BuddyWorks)                                     |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
+| [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
+| [Code With Harry](https://www.youtube.com/c/CodeWithHarry)
 
 [⬆ back to top](#table-of-contents)
 
