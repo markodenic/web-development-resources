@@ -273,6 +273,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                                                                       |
 | ----------------------------------------------------------------------------- |
+| [Kevin Powell](https://www.youtube.com/kepowob)                     |
 | [Traversy Media](https://www.youtube.com/c/TraversyMedia)                     |
 | [freeCodeCamp.org](https://www.youtube.com/c/FreeCodeCamp)                    |
 | [The Net Ninja](https://youtube.com/c/TheNetNinja)                            |
