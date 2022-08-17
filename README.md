@@ -266,6 +266,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fontfabric.com   |
 | https://urbanfonts.com   |
 | https://www.fontpair.co  |
+| https://fonts.bunny.net  |
 
 [⬆ back to top](#table-of-contents)
 
