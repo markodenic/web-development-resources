@@ -452,6 +452,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                       |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                  |
 | [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)                                                |
+| [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                          |
 
 [⬆ back to top](#table-of-contents)
 
@@ -505,7 +506,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ## CSS Generators:
 
-
 | Website                                                                               | Description                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Glassmorphism Generators](https://markodenic.com/tools/glassmorphism-css-generator/) | Use Glassmorphism Generator to create a stunning effect for your projects.                                                                                                            |
@@ -518,7 +518,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [9elements - Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)   | 9elements is a little tool, that helps you create your very own organic shape. When you use four/eight values specifying border-radius in CSS, you can create organic looking shapes. |
 | [Blobmaker](https://www.blobmaker.app/)                                               | Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.                                |
 | [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker)                  | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations.                                                                               |
-| [Neumorphism](https://neumorphism.io/) | A free online tool for designing attractive UI with colors, gradients and shadows.. |
+| [Neumorphism](https://neumorphism.io/)                                                | A free online tool for designing attractive UI with colors, gradients and shadows..                                                                                                   |
 
 ## Online Tools:
 
