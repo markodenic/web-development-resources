@@ -63,7 +63,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.000webhost.com/                   | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
 | https://infinityfree.net/                     | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                       |
 | https://pages.cloudflare.com/                 | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
-| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                                 |
+| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                           |
 
 [⬆ back to top](#table-of-contents)
 
@@ -493,17 +493,18 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ## Newsletters:
 
-| Website                                                                          | Topics                                            |
-| -------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Front-end and UX.                                 |
-| [Frontend Focus](https://frontendfoc.us/)                                        | HTML, CSS, WebGL, Canvas, browser tech, and more. |
-| [CSS Weekly](https://css-weekly.com/)                                            | CSS.                                              |
-| [JavaScript Weekly](https://javascriptweekly.com/)                               | JavaScript.                                       |
-| [Accessibility Weekly](https://a11yweekly.com/)                                  | Accessibility.                                    |
-| [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/)                 | Responsive web design.                            |
-| [JAMstacked](https://jamstack.email/)                                            | JAMstack ecosystem.                               |
-| [UI Dev Newsletter](https://mentor.silvestar.codes/reads/)                       | User Interface development.                       |
-| [Go Make Things](https://gomakethings.com/)                                      | Daily Vanilla JavaScript.                         |
+| Website                                                                          | Topics                                                          |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Front-end and UX.                                               |
+| [Smart Programming 101](http://newsletters.michaelasiedu.com/)                   | Software Development, React.js , Web3.0, Open Source and more . |
+| [Frontend Focus](https://frontendfoc.us/)                                        | HTML, CSS, WebGL, Canvas, browser tech, and more.               |
+| [CSS Weekly](https://css-weekly.com/)                                            | CSS.                                                            |
+| [JavaScript Weekly](https://javascriptweekly.com/)                               | JavaScript.                                                     |
+| [Accessibility Weekly](https://a11yweekly.com/)                                  | Accessibility.                                                  |
+| [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/)                 | Responsive web design.                                          |
+| [JAMstacked](https://jamstack.email/)                                            | JAMstack ecosystem.                                             |
+| [UI Dev Newsletter](https://mentor.silvestar.codes/reads/)                       | User Interface development.                                     |
+| [Go Make Things](https://gomakethings.com/)                                      | Daily Vanilla JavaScript.                                       |
 
 [⬆ back to top](#table-of-contents)
 
