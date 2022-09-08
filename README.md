@@ -135,7 +135,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.w3schools.com/codegame |
 | https://edabit.com                 |
 | https://www.jschallenger.com       |
-| https://www.codingninjas.com       |
+| https://www.codingninjas.com
+| https://lab.reaal.me/jsrobot/       |
 
 [⬆ back to top](#table-of-contents)
 
