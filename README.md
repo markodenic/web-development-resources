@@ -37,6 +37,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 - [Website Optimization Tools](#website-optimization-tools)
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [Newsletters](#newsletters)
+- [Cheatsheets](#cheatsheets)
 - [CSS Generators](#css-generators)
 - [Online Tools](#online-tools)
 - [UI Components](#ui-components)
@@ -63,7 +64,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.000webhost.com/                   | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
 | https://infinityfree.net/                     | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                       |
 | https://pages.cloudflare.com/                 | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
-| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                                 |
+| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                           |
 
 [⬆ back to top](#table-of-contents)
 
@@ -506,6 +507,18 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Go Make Things](https://gomakethings.com/)                                      | Daily Vanilla JavaScript.                         |
 
 [⬆ back to top](#table-of-contents)
+
+## Cheatsheets:
+
+| Website                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------- |
+| [HTML Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)                                 |
+| [CSS Cheatsheet](https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf)                                   |
+| [JAVASCRIPT Cheatsheet](https://github.com/iLoveCodingOrg/javascript-cheatsheet/raw/master/js-cheatsheet.pdf) |
+| [REACT + TYPESCRIPT Cheatsheet](https://github.com/typescript-cheatsheets/react)                              |
+| [EMMET](https://docs.emmet.io/cheat-sheet/)                                                                   |
+| [VS Code Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)          |
+| [Atom Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)                                         |
 
 ## CSS Generators:
 
