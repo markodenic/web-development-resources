@@ -99,7 +99,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.geeksforgeeks.org/web-development/                   |
 | https://hackdesign.org/lessons                                   |
 | https://javatpoint.com                                           |
-| https://https://docs.microsoft.com/en-gb/learn/                  |
+| https://learn.microsoft.com/en-gb/training/                      |
 | https://www.codementor.io/events                                 |
 | https://eloquentjavascript.net/                                  |
 | https://skillcombo.com/courses/development/web-development/free/ |
@@ -174,7 +174,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://wfh.io                  |
 | https://4dayweek.io             |
 | https://www.hiretechladies.com  |
-| https://rafo.com.au             |
 | https://nowhiteboard.org        |
 | https://www.coolstartupjobs.com |
 | https://angel.co                |
@@ -211,7 +210,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://iradesign.io                       |
 | https://interfacer.xyz                     |
 | https://blush.design                       |
-| https://avataaars.com                      |
 | https://storyset.com                       |
 | https://themeisle.com/illustrations        |
 | https://www.manypixels.co/gallery          |
@@ -234,7 +232,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://boxicons.com                      |
 | https://css.gg                            |
 | https://lineicons.com                     |
-| https://icons.eosdesignsystem.com         |
 | https://icons.modulz.app                  |
 | https://remixicon.com                     |
 | https://tablericons.com                   |
@@ -413,7 +410,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/) |
 | [Tuesday](http://shakrmedia.github.io/tuesday/)                |
 | [Mo.js](https://mojs.github.io/)                               |
-| [Bounce.js](http://bouncejs.com/)                              |
 | [AOS](https://michalsnik.github.io/aos/)                       |
 | [Velocity.js](http://velocityjs.org/)                          |
 | [Popmotion](https://popmotion.io/)                             |
