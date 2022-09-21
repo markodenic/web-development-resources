@@ -344,6 +344,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Emacs](https://www.gnu.org/software/emacs/) |
 | [Neovim](https://neovim.io/)                 |
 | [Fleet](https://www.jetbrains.com/fleet/)    |
+| [NotePad++](https://notepad-plus-plus.org/)  |
 
 [⬆ back to top](#table-of-contents)
 
