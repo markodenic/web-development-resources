@@ -215,6 +215,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.manypixels.co/gallery          |
 | https://www.artify.co/illustrations-figma  |
 | https://www.artify.co/vector-illustrations |
+| https://cocomaterial.com/                  |
 
 [⬆ back to top](#table-of-contents)
 
