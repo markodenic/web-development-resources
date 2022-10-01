@@ -104,6 +104,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://eloquentjavascript.net/                                  |
 | https://skillcombo.com/courses/development/web-development/free/ |
 | https://www.interviewbit.com/                                    |
+| https://www.w3schools.com/                                       |
 
 [⬆ back to top](#table-of-contents)
 
