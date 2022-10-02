@@ -63,7 +63,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.000webhost.com/                   | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
 | https://infinityfree.net/                     | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                       |
 | https://pages.cloudflare.com/                 | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
-| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                                 |
+| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                           |
 
 [⬆ back to top](#table-of-contents)
 
@@ -579,17 +579,20 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ## Others:
 
-| Website                                                         | Description                                                                                        |
-| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [MDB: Markdwon Badges](https://mdb.pushkaryadav.in/)            | Generate amazing svg markdown badges within few clicks                                             |
-| [Markdown Preview](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS.                                             |
-| [JavaScript Quiz](https://javascriptquiz.com)                   | JavaScript Quiz - Check your knowledge by having fun.                                              |
-| [CookieBubble](https://cookiebubble.netlify.app)                | The easy way to inform users that your website is using cookies.                                   |
-| [Developer Updates](https://www.developerupdates.com)           | Keeps you updated one everything going on in the software developement world                       |
-| [Boxy SVG Editor](https://boxy-svg.com/)                        | SVG Editing Tool - Here you can easily edit and save any SVG file                                  |
-| [Cssrepo](https://cssrepo.com/)                                 | A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
-| [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                              |
-| [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
+| Website                                                         | Description                                                                                                                                         |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [MDB: Markdwon Badges](https://mdb.pushkaryadav.in/)            | Generate amazing svg markdown badges within few clicks                                                                                              |
+| [Markdown Preview](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS.                                                                                              |
+| [JavaScript Quiz](https://javascriptquiz.com)                   | JavaScript Quiz - Check your knowledge by having fun.                                                                                               |
+| [CookieBubble](https://cookiebubble.netlify.app)                | The easy way to inform users that your website is using cookies.                                                                                    |
+| [Developer Updates](https://www.developerupdates.com)           | Keeps you updated one everything going on in the software developement world                                                                        |
+| [Boxy SVG Editor](https://boxy-svg.com/)                        | SVG Editing Tool - Here you can easily edit and save any SVG file                                                                                   |
+| [Cssrepo](https://cssrepo.com/)                                 | A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS                                                  |
+| [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                                                                               |
+| [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                                                                   |
+| [CSS Grids](https://learncssgrid.com/)                          | This guide is created as a resource to help you better understand and learn CSS Grid, and was organized in a way I thought made the most sense when |
+
+learning it.
 
 [⬆ back to top](#table-of-contents)
 
