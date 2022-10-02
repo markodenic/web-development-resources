@@ -371,7 +371,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ## UI Inspiration:
 
-| Website                  |
+| Website are given below.                 |
 | ------------------------ |
 | https://uimovement.com   |
 | https://uigarage.net     |
