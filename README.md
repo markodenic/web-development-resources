@@ -177,7 +177,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://nowhiteboard.org        |
 | https://www.coolstartupjobs.com |
 | https://angel.co                |
-| https://www.smartremotejobs.com |
+| https://www.smartremotejobs.com 
+| https://internshala.com         |
 
 [⬆ back to top](#table-of-contents)
 
