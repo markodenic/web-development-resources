@@ -63,7 +63,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.000webhost.com/                   | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
 | https://infinityfree.net/                     | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                       |
 | https://pages.cloudflare.com/                 | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
-| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                                 |
+| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
+| https://railway.app/                          | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.|
 
 [⬆ back to top](#table-of-contents)
 
