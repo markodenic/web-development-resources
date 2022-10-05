@@ -198,6 +198,27 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 [⬆ back to top](#table-of-contents)
 
+## Videos:
+
+| Website                    |
+| -------------------------- |
+| https://dareful.com        |
+| https://www.videvo.net     |
+| https://www.videezy.com    |
+| https://pixabay.com/videos |
+| https://mixkit.co          |
+| https://www.vidsplay.com   |
+| https://mazwai.com         |
+| https://lifeofvids.com     |
+| https://www.pexels.com     |
+| https://coverr.co          |
+| https://www.splitshire.com |
+| https://www.clipstill.com  |
+
+
+[⬆ back to top](#table-of-contents)
+
+
 ## Illustrations:
 
 | Website                                    |
