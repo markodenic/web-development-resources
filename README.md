@@ -567,6 +567,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                 |
 | [UI Hut](https://www.uihut.com/home)     | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc..                 |
 | [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                          |
+| [merakiui](https://merakiui.com/)            | Meraki UI is Tailwind CSS Components That Support RTL Languages & Fully Responsive Based On Flexbox & CSS Grid with elegant Dark Mode.  |
 
 [⬆ back to top](#table-of-contents)
 
