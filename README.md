@@ -113,6 +113,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                            |
 | ---------------------------------- |
+| https://interviewbit.com           |
 | https://codewars.com               |
 | https://topcoder.com               |
 | https://codingame.com              |
@@ -297,6 +298,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                                                                       |
 | ----------------------------------------------------------------------------- |
+| [Website Learners](https://www.youtube.com/c/WebsiteLearners)                 |
+| [The Codeholic](https://www.youtube.com/c/TheCodeholic)                       |
 | [Traversy Media](https://www.youtube.com/c/TraversyMedia)                     |
 | [freeCodeCamp.org](https://www.youtube.com/c/FreeCodeCamp)                    |
 | [The Net Ninja](https://youtube.com/c/TheNetNinja)                            |
