@@ -82,6 +82,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://edx.org                                                  |
 | https://khanacademy.org                                          |
 | https://sololearn.com                                            |
+| https://www.scaler.com/topics/                                   |
 | https://www.theodinproject.com                                   |
 | https://javascript.info/                                         |
 | https://vueschool.io/                                            |
