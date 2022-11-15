@@ -326,6 +326,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Codevolution](https://www.youtube.com/c/Codevolution)                        |
 | [Buddy](https://youtube.com/c/BuddyWorks)                                     |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
+| [James Cross](https://www.youtube.com/c/devsmak)                              |
 
 [⬆ back to top](#table-of-contents)
 
