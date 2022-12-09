@@ -399,6 +399,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                  |
 | ------------------------ |
+| https://landingexam.com  |
 | https://uimovement.com   |
 | https://uigarage.net     |
 | https://collectui.com    |
@@ -408,7 +409,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://onepagelove.com  |
 | https://www.behance.net  |
 | https://tympanus.net     |
-| https://landingexam.com  |
 
 [⬆ back to top](#table-of-contents)
 
