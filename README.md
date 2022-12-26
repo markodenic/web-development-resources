@@ -184,6 +184,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://angel.co                |
 | https://www.smartremotejobs.com |
 | https://www.remotehub.com       |
+| https://www.remotescout.ch      |
 
 [⬆ back to top](#table-of-contents)
 
