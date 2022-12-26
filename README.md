@@ -22,6 +22,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 - [Freelancing platforms](#freelancing-platforms)
 - [Remote Jobs](#remote-jobs)
 - [Photos](#photos)
+- [Videos](#videos)
 - [Illustrations](#illustrations)
 - [Icons](#icons)
 - [Fonts](#fonts)
