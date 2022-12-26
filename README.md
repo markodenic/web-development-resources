@@ -410,6 +410,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://onepagelove.com  |
 | https://www.behance.net  |
 | https://tympanus.net     |
+| https://landings.dev     |
 
 [⬆ back to top](#table-of-contents)
 
