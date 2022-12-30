@@ -22,6 +22,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 - [Freelancing platforms](#freelancing-platforms)
 - [Remote Jobs](#remote-jobs)
 - [Photos](#photos)
+- [Videos](#videos)
 - [Illustrations](#illustrations)
 - [Icons](#icons)
 - [Fonts](#fonts)
@@ -166,6 +167,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                         |
 | ------------------------------- |
+| https://remotefrontendjobs.com  |
 | https://jobboardsearch.com      |
 | https://flexjobs.com            |
 | https://remote.co/remote-jobs   |
@@ -183,6 +185,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.smartremotejobs.com |
 | https://www.remotehub.com       |
 | https://startup.jobs/remote     |
+| https://remotescout.ch          |
 
 [⬆ back to top](#table-of-contents)
 
@@ -400,6 +403,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                  |
 | ------------------------ |
+| https://landingexam.com  |
 | https://uimovement.com   |
 | https://uigarage.net     |
 | https://collectui.com    |
@@ -409,6 +413,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://onepagelove.com  |
 | https://www.behance.net  |
 | https://tympanus.net     |
+| https://landings.dev     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -620,5 +625,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
 
 [⬆ back to top](#table-of-contents)
+
+Made by [Marko](https://markodenic.com).
+
+Similar amazing projects: [Public APIs](https://publicapis.dev) - [Dev Resources](https://devresourc.es)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
