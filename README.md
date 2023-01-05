@@ -516,6 +516,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://graygrids.com        |
 | https://tailwindtemplates.co |
 | https://themeselection.com   |
+| [Web3Templates](https://web3templates.com)    |
 
 [⬆ back to top](#table-of-contents)
 
