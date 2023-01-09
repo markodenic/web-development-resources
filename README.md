@@ -562,6 +562,8 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
 | [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
 | [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
+| [Kody Tools](https://www.kodytools.com/)                                         | 100+ dev tools including formatters, minifiers, and converters.                                             |
+
 
 [⬆ back to top](#table-of-contents)
 
