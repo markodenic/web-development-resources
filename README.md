@@ -330,6 +330,7 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 | [Codevolution](https://www.youtube.com/c/Codevolution)                        |
 | [Buddy](https://youtube.com/c/BuddyWorks)                                     |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
+| [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 
 [⬆ back to top](#table-of-contents)
 
