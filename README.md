@@ -570,6 +570,7 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 
 | Website                                  | Description                                                                                        |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
 | [CssLayout](https://csslayout.io/)       | A site with multiple css code snippets for very frequently used components in day to day web pages |
 | [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                      |
 | [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                 |
