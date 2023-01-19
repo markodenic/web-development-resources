@@ -16,35 +16,37 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 
 ## Table of Contents
 
-- [Hosting](#hosting)
-- [Learning Platforms](#learning-platforms)
-- [Coding Challenge Platforms](#coding-challenge-platforms)
-- [Freelancing platforms](#freelancing-platforms)
-- [Remote Jobs](#remote-jobs)
-- [Photos](#photos)
-- [Videos](#videos)
-- [Illustrations](#illustrations)
-- [Icons](#icons)
-- [Fonts](#fonts)
-- [Youtube Channels](#youtube-channels)
-- [Podcasts](#podcasts)
-- [Code Editors](#code-editors)
-- [Color Palettes](#color-palettes)
-- [UI Inspiration](#ui-inspiration)
-- [Docs](#docs)
-- [Animation Libraries](#animation-libraries)
-- [Charts](#charts)
-- [Chrome Extensions](#chrome-extensions)
-- [Website Optimization Tools](#website-optimization-tools)
-- [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
-- [Newsletters](#newsletters)
-- [CSS Generators](#css-generators)
-- [Online Tools](#online-tools)
-- [UI Components](#ui-components)
-- [Vue UI libraries](#vue-ui-libraries)
-- [React UI libraries](#react-ui-libraries)
-- [Angular UI libraries](#angular-ui-libraries)
-- [Others](#others)
+- [Awesome Web Development Resources ](#awesome-web-development-resources-)
+  - [Table of Contents](#table-of-contents)
+  - [Hosting:](#hosting)
+  - [Learning Platforms:](#learning-platforms)
+  - [Coding Challenge Platforms:](#coding-challenge-platforms)
+  - [Freelancing platforms:](#freelancing-platforms)
+  - [Remote Jobs:](#remote-jobs)
+  - [Photos:](#photos)
+  - [Videos:](#videos)
+  - [Illustrations:](#illustrations)
+  - [Icons:](#icons)
+  - [Fonts:](#fonts)
+  - [Youtube Channels:](#youtube-channels)
+  - [Podcasts:](#podcasts)
+  - [Code Editors:](#code-editors)
+  - [Color Palettes:](#color-palettes)
+  - [UI Inspiration:](#ui-inspiration)
+  - [Docs:](#docs)
+  - [Animation Libraries:](#animation-libraries)
+  - [Charts:](#charts)
+  - [Chrome Extensions:](#chrome-extensions)
+  - [Website Optimization Tools:](#website-optimization-tools)
+  - [HTML/CSS/JavaScript templates:](#htmlcssjavascript-templates)
+  - [Newsletters:](#newsletters)
+  - [CSS Generators:](#css-generators)
+  - [Online Tools:](#online-tools)
+  - [UI Components:](#ui-components)
+  - [Vue UI libraries:](#vue-ui-libraries)
+  - [React UI libraries:](#react-ui-libraries)
+  - [Angular UI libraries:](#angular-ui-libraries)
+  - [Others:](#others)
 
 ## Hosting:
 
@@ -63,8 +65,8 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 | https://www.000webhost.com/                   | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
 | https://infinityfree.net/                     | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                       |
 | https://pages.cloudflare.com/                 | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
-| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
-| https://railway.app/                          | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.|
+| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                           |
+| https://railway.app/                          | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -223,9 +225,7 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 | https://www.splitshire.com |
 | https://www.clipstill.com  |
 
-
 [⬆ back to top](#table-of-contents)
-
 
 ## Illustrations:
 
@@ -378,42 +378,43 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 
 ## Color Palettes:
 
-| Website                     |
-| --------------------------- |
-| https://coolors.co          |
-| https://colorhunt.co        |
-| https://paletton.com        |
-| https://color-hex.com       |
-| https://mycolor.space       |
-| https://flatuicolors.com    |
-| https://color.adobe.com     |
-| https://htmlcolorcodes.com  |
-| https://colorsinspo.com     |
-| https://uigradients.com     |
-| https://www.colorion.co     |
-| https://www.gradientos.app  |
-| https://www.eggradients.com |
-| https://cssgradient.io      |
-| https://www.0to255.com      |
-| https://branition.com/colors|
+| Website                      |
+| ---------------------------- |
+| https://coolors.co           |
+| https://colorhunt.co         |
+| https://paletton.com         |
+| https://color-hex.com        |
+| https://mycolor.space        |
+| https://flatuicolors.com     |
+| https://color.adobe.com      |
+| https://htmlcolorcodes.com   |
+| https://colorsinspo.com      |
+| https://uigradients.com      |
+| https://www.colorion.co      |
+| https://www.gradientos.app   |
+| https://www.eggradients.com  |
+| https://cssgradient.io       |
+| https://www.0to255.com       |
+| https://branition.com/colors |
 
 [⬆ back to top](#table-of-contents)
 
 ## UI Inspiration:
 
-| Website                  |
-| ------------------------ |
-| https://landingexam.com  |
-| https://uimovement.com   |
-| https://uigarage.net     |
-| https://collectui.com    |
-| https://httpster.net     |
-| https://www.awwwards.com |
-| https://dribbble.com     |
-| https://onepagelove.com  |
-| https://www.behance.net  |
-| https://tympanus.net     |
-| https://landings.dev     |
+| Website                      |
+| ---------------------------- |
+| https://landingexam.com      |
+| https://uimovement.com       |
+| https://uigarage.net         |
+| https://collectui.com        |
+| https://httpster.net         |
+| https://www.awwwards.com     |
+| https://dribbble.com         |
+| https://onepagelove.com      |
+| https://www.behance.net      |
+| https://tympanus.net         |
+| https://landings.dev         |
+| https://www.landingfolio.com |
 
 [⬆ back to top](#table-of-contents)
 
