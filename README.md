@@ -39,6 +39,7 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [Newsletters](#newsletters)
 - [CSS Generators](#css-generators)
+- [CSS Games 🎮](#css-game)
 - [Online Tools](#online-tools)
 - [UI Components](#ui-components)
 - [Vue UI libraries](#vue-ui-libraries)
@@ -551,6 +552,22 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 | [Blobmaker](https://www.blobmaker.app/)                                               | Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.                                |
 | [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker)                  | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations.                                                                               |
 | [Neumorphism](https://neumorphism.io/)                                                | A free online tool for designing attractive UI with colors, gradients and shadows..                                                                                                   |
+
+[⬆ back to top](#table-of-contents)
+
+## CSS Games:
+
+| Website                                                                               | Description                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Flexbox froggy](https://flexboxfroggy.com/) | Flexbox Froggy is an interactive game that helps users learn and practice the **CSS Flexbox layout**.                                                                                                            |
+| [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)                                           | Set of challenges where we must use **Flexbox properties** to position and align elements on the screen to complete a medieval-themed game layout.                                         |
+| [Grid garden](https://cssgridgarden.com/)                                        | A Grid Garden is an interactive game that helps users learn and practice the **CSS Grid layout**.                                                         |
+| [Grid attack](https://codingfantasy.com/games/css-grid-attack/play)                                     | Learn and practice the **CSS Grid layout**                                                                                                                           |
+| [CSS Diner](https://flukeout.github.io/)   | Fun and interactive way to learn how to select elements on a web page using CSS.  |
+| [Guess CSS](https://www.guess-css.app/)                                               | Another Fun and interactive way to learn CSS.                             |
+| [CSS Speedrun](https://css-speedrun.netlify.app/)                  | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                                                                             |
+
+[⬆ back to top](#table-of-contents)
 
 ## Online Tools:
 
