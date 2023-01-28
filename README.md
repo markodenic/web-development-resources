@@ -39,7 +39,7 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [Newsletters](#newsletters)
 - [CSS Generators](#css-generators)
-- [CSS Games 🎮](#css-game)
+- [CSS Games 🎮](#css-games)
 - [Online Tools](#online-tools)
 - [UI Components](#ui-components)
 - [Vue UI libraries](#vue-ui-libraries)
