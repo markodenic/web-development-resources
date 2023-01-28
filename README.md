@@ -105,6 +105,7 @@ Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitte
 | https://www.codementor.io/events                                 |
 | https://eloquentjavascript.net/                                  |
 | https://skillcombo.com/courses/development/web-development/free/ |
+| https://code.org/                                                |
 | https://www.interviewbit.com/                                    |
 | https://css-tricks.com/                                          |
 
