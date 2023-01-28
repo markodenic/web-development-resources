@@ -12,7 +12,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ---
 
-Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
+Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 - [Freelancing platforms](#freelancing-platforms)
 - [Remote Jobs](#remote-jobs)
 - [Photos](#photos)
+- [Videos](#videos)
 - [Illustrations](#illustrations)
 - [Icons](#icons)
 - [Fonts](#fonts)
@@ -52,7 +53,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://netlify.com                           | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.                                                                              |
 | https://firebase.google.com                   | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                         |
 | https://aws.amazon.com                        | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                             |
-| https://heroku.com                            | **Heroku** is the platform for building with modern architectures, innovating quickly, and scaling precisely to meet demand. It helps you focus and invest in your apps and not ops.                                          |
 | https://pages.github.com                      | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                           |
 | https://vercel.com                            | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                |
 | https://surge.sh                              | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                          |
@@ -63,7 +63,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.000webhost.com/                   | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
 | https://infinityfree.net/                     | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                       |
 | https://pages.cloudflare.com/                 | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
-| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                           |
+| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
+| https://railway.app/                          | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.|
 
 [⬆ back to top](#table-of-contents)
 
@@ -81,6 +82,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://edx.org                                                  |
 | https://khanacademy.org                                          |
 | https://sololearn.com                                            |
+| https://www.scaler.com/topics/                                   |
 | https://www.theodinproject.com                                   |
 | https://javascript.info/                                         |
 | https://vueschool.io/                                            |
@@ -99,11 +101,13 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.geeksforgeeks.org/web-development/                   |
 | https://hackdesign.org/lessons                                   |
 | https://javatpoint.com                                           |
-| https://https://docs.microsoft.com/en-gb/learn/                  |
+| https://learn.microsoft.com/en-gb/training/                      |
 | https://www.codementor.io/events                                 |
 | https://eloquentjavascript.net/                                  |
 | https://skillcombo.com/courses/development/web-development/free/ |
+| https://code.org/                                                |
 | https://www.interviewbit.com/                                    |
+| https://css-tricks.com/                                          |
 
 [⬆ back to top](#table-of-contents)
 
@@ -163,6 +167,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                         |
 | ------------------------------- |
+| https://remotefrontendjobs.com  |
 | https://jobboardsearch.com      |
 | https://flexjobs.com            |
 | https://remote.co/remote-jobs   |
@@ -174,11 +179,14 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://wfh.io                  |
 | https://4dayweek.io             |
 | https://www.hiretechladies.com  |
-| https://rafo.com.au             |
 | https://nowhiteboard.org        |
 | https://www.coolstartupjobs.com |
 | https://angel.co                |
 | https://www.smartremotejobs.com |
+| https://www.remotehub.com       |
+| https://startup.jobs/remote     |
+| https://remotescout.ch          |
+| https://jobstache.com           |
 
 [⬆ back to top](#table-of-contents)
 
@@ -199,6 +207,27 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 [⬆ back to top](#table-of-contents)
 
+## Videos:
+
+| Website                    |
+| -------------------------- |
+| https://dareful.com        |
+| https://www.videvo.net     |
+| https://www.videezy.com    |
+| https://pixabay.com/videos |
+| https://mixkit.co          |
+| https://www.vidsplay.com   |
+| https://mazwai.com         |
+| https://lifeofvids.com     |
+| https://www.pexels.com     |
+| https://coverr.co          |
+| https://www.splitshire.com |
+| https://www.clipstill.com  |
+
+
+[⬆ back to top](#table-of-contents)
+
+
 ## Illustrations:
 
 | Website                                    |
@@ -211,7 +240,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://iradesign.io                       |
 | https://interfacer.xyz                     |
 | https://blush.design                       |
-| https://avataaars.com                      |
 | https://storyset.com                       |
 | https://themeisle.com/illustrations        |
 | https://www.manypixels.co/gallery          |
@@ -234,7 +262,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://boxicons.com                      |
 | https://css.gg                            |
 | https://lineicons.com                     |
-| https://icons.eosdesignsystem.com         |
 | https://icons.modulz.app                  |
 | https://remixicon.com                     |
 | https://tablericons.com                   |
@@ -369,6 +396,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.eggradients.com |
 | https://cssgradient.io      |
 | https://www.0to255.com      |
+| https://branition.com/colors|
 
 [⬆ back to top](#table-of-contents)
 
@@ -376,6 +404,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                  |
 | ------------------------ |
+| https://landingexam.com  |
 | https://uimovement.com   |
 | https://uigarage.net     |
 | https://collectui.com    |
@@ -385,6 +414,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://onepagelove.com  |
 | https://www.behance.net  |
 | https://tympanus.net     |
+| https://landings.dev     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -413,7 +443,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/) |
 | [Tuesday](http://shakrmedia.github.io/tuesday/)                |
 | [Mo.js](https://mojs.github.io/)                               |
-| [Bounce.js](http://bouncejs.com/)                              |
 | [AOS](https://michalsnik.github.io/aos/)                       |
 | [Velocity.js](http://velocityjs.org/)                          |
 | [Popmotion](https://popmotion.io/)                             |
@@ -597,5 +626,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
 
 [⬆ back to top](#table-of-contents)
+
+Made by [Marko](https://markodenic.com).
+
+Similar amazing projects: [Public APIs](https://publicapis.dev) - [Dev Resources](https://devresourc.es)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
