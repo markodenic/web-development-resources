@@ -12,7 +12,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ---
 
-Initially created by [Marko](https://markodenic.com) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
+Initially created by [Marko](https://markodenic.com) at [Web Development Resources](https://markodenic.com/free-web-development-resources/).
 
 ## Table of Contents
 
