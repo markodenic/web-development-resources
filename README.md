@@ -57,7 +57,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://vercel.com                            | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                |
 | https://surge.sh                              | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                          |
 | https://render.com                            | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                             |
-| https://docs.gitlab.com/ee/user/project/pages | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                           |
+| https://docs.gitlab.com/ee/user/project/pages/ | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                           |
 | https://stormkit.io                           | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                       |
 | https://www.digitalocean.com/                 | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results. |
 | https://www.000webhost.com/                   | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
@@ -72,14 +72,14 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                                          |
 | ---------------------------------------------------------------- |
-| https://freecodecamp.org                                         |
+| https://www.freecodecamp.org/                                    |
 | https://www.lambdatest.com/learning-hub/                         |
 | https://codecademy.com                                           |
 | https://javascript30.com                                         |
-| https://frontendmentor.io                                        |
+| https://www.frontendmentor.io                                    |
 | https://testautomationu.applitools.com                           |
-| https://coursera.org                                             |
-| https://edx.org                                                  |
+| https://www.coursera.org                                         |
+| https://www.edx.org/                                             |
 | https://khanacademy.org                                          |
 | https://sololearn.com                                            |
 | https://www.scaler.com/topics/                                   |
@@ -115,14 +115,14 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                            |
 | ---------------------------------- |
-| https://codewars.com               |
+| https://www.codewars.com/          |
 | https://topcoder.com               |
-| https://codingame.com              |
+| https://www.codingame.com/start    |
 | https://hackerrank.com             |
 | https://projecteuler.net           |
 | https://coderbyte.com              |
 | https://codechef.com               |
-| https://exercism.io                |
+| https://exercism.org               |
 | https://leetcode.com               |
 | https://spoj.com                   |
 | https://codeforces.com             |
@@ -149,44 +149,44 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | -------------------------- |
 | https://toptal.com         |
 | https://upwork.com         |
-| https://freelancer.com     |
+| https://www.freelancer.com |
 | https://peopleperhour.com  |
 | https://simplyhired.com    |
-| https://envato.com         |
+| https://www.envato.com     |
 | https://guru.com           |
 | https://fiverr.com         |
 | https://hireable.com       |
 | https://6nomads.com        |
 | https://www.truelancer.com |
-| https://www.gun.io         |
+| https://gun.io             |
 | https://www.refrens.com    |
 
 [⬆ back to top](#table-of-contents)
 
 ## Remote Jobs:
 
-| Website                         |
-| ------------------------------- |
-| https://remotefrontendjobs.com  |
-| https://jobboardsearch.com      |
-| https://flexjobs.com            |
-| https://remote.co/remote-jobs   |
-| https://justremote.co           |
-| https://weworkremotely.com      |
-| https://remoteok.io             |
-| https://himalayas.app           |
-| https://jobspresso.co           |
-| https://wfh.io                  |
-| https://4dayweek.io             |
-| https://www.hiretechladies.com  |
-| https://nowhiteboard.org        |
-| https://www.coolstartupjobs.com |
-| https://angel.co                |
-| https://www.smartremotejobs.com |
-| https://www.remotehub.com       |
-| https://startup.jobs/remote     |
-| https://remotescout.ch          |
-| https://jobstache.com           |
+| Website                              |
+| -------------------------------      |
+| https://www.remotefrontendjobs.com/  |
+| https://jobboardsearch.com           |
+| https://www.flexjobs.com             |
+| https://remote.co/remote-jobs        |
+| https://justremote.co                |
+| https://weworkremotely.com           |
+| https://remoteok.io                  |
+| https://himalayas.app                |
+| https://jobspresso.co                |
+| https://wfh.io                       |
+| https://4dayweek.io                  |
+| https://www.hiretechladies.com       |
+| https://nowhiteboard.org             |
+| https://www.coolstartupjobs.com      |
+| https://angel.co                     |
+| https://www.smartremotejobs.com      |
+| https://www.remotehub.com            |
+| https://startup.jobs/remote-jobs     |
+| https://remotescout.ch               |
+| https://jobstache.com                |
 
 [⬆ back to top](#table-of-contents)
 
@@ -200,7 +200,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://reshot.com         |
 | https://librestock.com     |
 | https://visualhunt.com     |
-| https://freephotos.cc      |
+| https://freephotos.cc/en   |
 | https://picjumbo.com       |
 | https://www.pxfuel.com     |
 | https://www.splitshire.com |
@@ -235,7 +235,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://icons8.com/illustrations           |
 | https://www.opendoodles.com                |
 | https://undraw.co/illustrations            |
-| https://drawkit.io                         |
+| https://www.drawkit.com                    |
 | https://icons8.com/ouch                    |
 | https://iradesign.io                       |
 | https://interfacer.xyz                     |
@@ -255,14 +255,13 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://fontawesome.com                   |
 | https://flaticon.com                      |
 | https://icons8.com                        |
-| https://iconfinder.com                    |
+| https://www.iconfinder.com                |
 | https://material.io/resources/icons       |
 | https://iconmonstr.com                    |
 | https://heroicons.com                     |
 | https://boxicons.com                      |
 | https://css.gg                            |
 | https://lineicons.com                     |
-| https://icons.modulz.app                  |
 | https://remixicon.com                     |
 | https://tablericons.com                   |
 | https://simpleicons.org                   |
@@ -271,7 +270,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://iconic.app                        |
 | https://icomoon.io                        |
 | https://iconscout.com/unicons             |
-| https://holasvg.com/icons                 |
+| https://icons.holasvg.com                 |
 | https://fontello.com                      |
 | https://fontastic.me                      |
 | https://ionic.io/ionicons                 |
@@ -285,17 +284,17 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Fonts:
 
-| Website                  |
-| ------------------------ |
-| https://fonts.google.com |
-| https://fontspace.com    |
-| https://1001fonts.com    |
-| https://fontsquirrel.com |
-| https://ffonts.net       |
-| https://fontfabric.com   |
-| https://urbanfonts.com   |
-| https://www.fontpair.co  |
-| https://fonts.bunny.net  |
+| Website                      |
+| ------------------------     |
+| https://fonts.google.com     |
+| https://fontspace.com        |
+| https://www.1001fonts.com    |
+| https://www.fontsquirrel.com |
+| https://ffonts.net           |
+| https://www.fontfabric.com   |
+| https://urbanfonts.com       |
+| https://www.fontpair.co      |
+| https://fonts.bunny.net      |
 
 [⬆ back to top](#table-of-contents)
 
@@ -350,7 +349,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Ladybug Podcast](https://www.ladybug.dev/)                                 |
 | [CodePen Radio](https://blog.codepen.io/radio/)                             |
 | [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) |
-| [Modern Web](https://www.thisdot.co/modern-web)                             |
 | [DevDiscuss](https://dev.to/devdiscuss)                                     |
 | [DevNews](https://dev.to/devnews)                                           |
 | [React Native Radio](https://reactnativeradio.com/)                         |
@@ -366,7 +364,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | -------------------------------------------- |
 | [VS Code](https://code.visualstudio.com/)    |
 | [Sublime Text](https://www.sublimetext.com/) |
-| [Atom](https://atom.io/)                     |
 | [Brackets](http://brackets.io/)              |
 | [emacs](https://www.gnu.org/software/emacs/) |
 | [Vim](https://www.vim.org/)                  |
@@ -402,30 +399,29 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## UI Inspiration:
 
-| Website                  |
-| ------------------------ |
-| https://landingexam.com  |
-| https://uimovement.com   |
-| https://uigarage.net     |
-| https://collectui.com    |
-| https://httpster.net     |
-| https://www.awwwards.com |
-| https://dribbble.com     |
-| https://onepagelove.com  |
-| https://www.behance.net  |
-| https://tympanus.net     |
-| https://landings.dev     |
+| Website                     |
+| ------------------------    |
+| https://landingexam.com     |
+| https://uigarage.net        |
+| https://collectui.com       |
+| https://httpster.net        |
+| https://www.awwwards.com    |
+| https://dribbble.com        |
+| https://onepagelove.com     |
+| https://www.behance.net     |
+| https://tympanus.net/codrops|
+| https://landings.dev        |
 
 [⬆ back to top](#table-of-contents)
 
 ## Docs:
 
-| Website                       |
-| ----------------------------- |
-| https://developer.mozilla.org |
-| https://w3schools.com         |
-| https://w3docs.com            |
-| https://devdocs.io            |
+| Website                              |
+| -----------------------------        |
+| https://developer.mozilla.org/en-US/ |
+| https://w3schools.com                |
+| https://w3docs.com                   |
+| https://devdocs.io                   |
 
 [⬆ back to top](#table-of-contents)
 
@@ -490,15 +486,14 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Website Optimization Tools:
 
-| Website                                                                              |
-| ------------------------------------------------------------------------------------ |
-| [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) |
-| [GTmetrix](https://gtmetrix.com/)                                                    |
-| [WebPageTest](https://www.webpagetest.org)                                           |
-| [Yslow](http://yslow.org/)                                                           |
-| [web.dev](https://web.dev/measure/)                                                  |
-| [asayer](https://asayer.io/)                                                         |
-| [Optimizilla](https://imagecompressor.com/)                                          |
+| Website                                                 |
+| ------------------------------------------------------- |
+| [Google PageSpeed Insights](https://pagespeed.web.dev/) |
+| [GTmetrix](https://gtmetrix.com/)                       |
+| [WebPageTest](https://www.webpagetest.org)              |
+| [Yslow](https://yslow.org/)                             |
+| [web.dev](https://web.dev/measure/)                     |
+| [Optimizilla](https://imagecompressor.com/)             |
 
 [⬆ back to top](#table-of-contents)
 
@@ -529,9 +524,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CSS Weekly](https://css-weekly.com/)                                            | CSS.                                                            |
 | [JavaScript Weekly](https://javascriptweekly.com/)                               | JavaScript.                                                     |
 | [Accessibility Weekly](https://a11yweekly.com/)                                  | Accessibility.                                                  |
-| [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/)                 | Responsive web design.                                          |
 | [JAMstacked](https://jamstack.email/)                                            | JAMstack ecosystem.                                             |
-| [UI Dev Newsletter](https://mentor.silvestar.codes/reads/)                       | User Interface development.                                     |
+| [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/)                       | User Interface development.                                     |
 | [Go Make Things](https://gomakethings.com/)                                      | Daily Vanilla JavaScript.                                       |
 
 [⬆ back to top](#table-of-contents)
@@ -561,7 +555,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                        |
 | [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                           |
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
-| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
+| [Codepng](https://www.codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
 | [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
 
 [⬆ back to top](#table-of-contents)
@@ -584,7 +578,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | Website                                    | Description                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Vuetify](https://vuetifyjs.com/)          | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features. |
-| [Vue Material](https://vuematerial.io/)    | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                |
+| [Vue Material](https://www.creative-tim.com/vuematerial/)    | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                |
 | [BootstrapVue](https://bootstrap-vue.org/) | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.                                                                                                                                         |
 
 [⬆ back to top](#table-of-contents)
@@ -593,7 +587,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                               | Description                                                                                                                     |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [Material-UI](https://material-ui.com/)               | Simple and customizable component library to build faster, beautiful, and more accessible React applications.                   |
+| [Material-UI](https://mui.com/core/)               | Simple and customizable component library to build faster, beautiful, and more accessible React applications.                   |
 | [Ant Design](https://ant.design/)                     | An enterprise-class UI design language and React UI library.                                                                    |
 | [React Bootstrap](https://react-bootstrap.github.io/) | Bootstrap components built with React.                                                                                          |
 | [Semantic UI React](https://react.semantic-ui.com/)   | Semantic UI React is the official React integration for Semantic UI .                                                           |
