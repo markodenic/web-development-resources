@@ -618,6 +618,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Cssrepo](https://cssrepo.com/)                                 | A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
 | [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                              |
 | [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
+| [Flickity](https://flickity.metafizzy.co/)                      | Touch, responsive, flickable carousel                                                              |
 
 [⬆ back to top](#table-of-contents)
 
