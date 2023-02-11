@@ -527,6 +527,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [JAMstacked](https://jamstack.email/)                                            | JAMstack ecosystem.                                             |
 | [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/)                       | User Interface development.                                     |
 | [Go Make Things](https://gomakethings.com/)                                      | Daily Vanilla JavaScript.                                       |
+| [Daily Dev Tips](https://daily-dev-tips.com/)                                    | Daily Dev Tips.                                                 |
 
 [⬆ back to top](#table-of-contents)
 
