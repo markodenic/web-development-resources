@@ -619,6 +619,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                              |
 | [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
 | [Flickity](https://flickity.metafizzy.co/)                      | Touch, responsive, flickable carousel                                                              |
+| [Revealjs](https://revealjs.com)                                | To create web presentations                                                                        |
 
 [⬆ back to top](#table-of-contents)
 
