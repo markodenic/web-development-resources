@@ -1,4 +1,4 @@
-# Awesome Web Development Resources ![Awesome][awesome-badge]
+# Fantastic Web Development Tools and Reference ![Awesome][awesome-badge]
 
 This is an awesome project about Web Development resources. ⚡
 
