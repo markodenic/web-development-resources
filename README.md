@@ -332,6 +332,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Codevolution](https://www.youtube.com/c/Codevolution)                        |
 | [Buddy](https://youtube.com/c/BuddyWorks)                                     |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
+| [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
 
 [⬆ back to top](#table-of-contents)
 
