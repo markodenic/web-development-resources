@@ -264,7 +264,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://css.gg                            |
 | https://lineicons.com                     |
 | https://remixicon.com                     |
-| https://tablericons.com                   |
+| https://tabler-icons.io                   |
 | https://simpleicons.org                   |
 | https://feathericons.com                  |
 | https://svgrepo.com                       |
