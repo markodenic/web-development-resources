@@ -12,7 +12,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ---
 
-Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
+Initially created by [Marko](https://markodenic.com) at [Web Development Resources](https://markodenic.com/free-web-development-resources/).
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 - [Freelancing platforms](#freelancing-platforms)
 - [Remote Jobs](#remote-jobs)
 - [Photos](#photos)
+- [Videos](#videos)
 - [Illustrations](#illustrations)
 - [Icons](#icons)
 - [Fonts](#fonts)
@@ -52,18 +53,18 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://netlify.com                           | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.                                                                              |
 | https://firebase.google.com                   | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                         |
 | https://aws.amazon.com                        | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                             |
-| https://heroku.com                            | **Heroku** is the platform for building with modern architectures, innovating quickly, and scaling precisely to meet demand. It helps you focus and invest in your apps and not ops.                                          |
 | https://pages.github.com                      | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                           |
 | https://vercel.com                            | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                |
 | https://surge.sh                              | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                          |
 | https://render.com                            | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                             |
-| https://docs.gitlab.com/ee/user/project/pages | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                           |
+| https://docs.gitlab.com/ee/user/project/pages/ | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                           |
 | https://stormkit.io                           | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                       |
 | https://www.digitalocean.com/                 | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results. |
 | https://www.000webhost.com/                   | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
 | https://infinityfree.net/                     | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                       |
 | https://pages.cloudflare.com/                 | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
-| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                                 |
+| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
+| https://railway.app/                          | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.|
 
 [⬆ back to top](#table-of-contents)
 
@@ -71,16 +72,18 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                                                          |
 | ---------------------------------------------------------------- |
-| https://freecodecamp.org                                         |
+| https://tutoriac.com/                                            |
+| https://www.freecodecamp.org/                                    |
 | https://www.lambdatest.com/learning-hub/                         |
 | https://codecademy.com                                           |
 | https://javascript30.com                                         |
-| https://frontendmentor.io                                        |
+| https://www.frontendmentor.io                                    |
 | https://testautomationu.applitools.com                           |
-| https://coursera.org                                             |
-| https://edx.org                                                  |
+| https://www.coursera.org                                         |
+| https://www.edx.org/                                             |
 | https://khanacademy.org                                          |
 | https://sololearn.com                                            |
+| https://www.scaler.com/topics/                                   |
 | https://www.theodinproject.com                                   |
 | https://javascript.info/                                         |
 | https://vueschool.io/                                            |
@@ -99,11 +102,13 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.geeksforgeeks.org/web-development/                   |
 | https://hackdesign.org/lessons                                   |
 | https://javatpoint.com                                           |
-| https://https://docs.microsoft.com/en-gb/learn/                  |
+| https://learn.microsoft.com/en-gb/training/                      |
 | https://www.codementor.io/events                                 |
 | https://eloquentjavascript.net/                                  |
 | https://skillcombo.com/courses/development/web-development/free/ |
+| https://code.org/                                                |
 | https://www.interviewbit.com/                                    |
+| https://css-tricks.com/                                          |
 
 [⬆ back to top](#table-of-contents)
 
@@ -111,14 +116,14 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                            |
 | ---------------------------------- |
-| https://codewars.com               |
+| https://www.codewars.com/          |
 | https://topcoder.com               |
-| https://codingame.com              |
+| https://www.codingame.com/start    |
 | https://hackerrank.com             |
 | https://projecteuler.net           |
 | https://coderbyte.com              |
 | https://codechef.com               |
-| https://exercism.io                |
+| https://exercism.org               |
 | https://leetcode.com               |
 | https://spoj.com                   |
 | https://codeforces.com             |
@@ -145,40 +150,44 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | -------------------------- |
 | https://toptal.com         |
 | https://upwork.com         |
-| https://freelancer.com     |
+| https://www.freelancer.com |
 | https://peopleperhour.com  |
 | https://simplyhired.com    |
-| https://envato.com         |
+| https://www.envato.com     |
 | https://guru.com           |
 | https://fiverr.com         |
 | https://hireable.com       |
 | https://6nomads.com        |
 | https://www.truelancer.com |
-| https://www.gun.io         |
+| https://gun.io             |
 | https://www.refrens.com    |
 
 [⬆ back to top](#table-of-contents)
 
 ## Remote Jobs:
 
-| Website                         |
-| ------------------------------- |
-| https://jobboardsearch.com      |
-| https://flexjobs.com            |
-| https://remote.co/remote-jobs   |
-| https://justremote.co           |
-| https://weworkremotely.com      |
-| https://remoteok.io             |
-| https://himalayas.app           |
-| https://jobspresso.co           |
-| https://wfh.io                  |
-| https://4dayweek.io             |
-| https://www.hiretechladies.com  |
-| https://rafo.com.au             |
-| https://nowhiteboard.org        |
-| https://www.coolstartupjobs.com |
-| https://angel.co                |
-| https://www.smartremotejobs.com |
+| Website                              |
+| -------------------------------      |
+| https://www.remotefrontendjobs.com/  |
+| https://jobboardsearch.com           |
+| https://www.flexjobs.com             |
+| https://remote.co/remote-jobs        |
+| https://justremote.co                |
+| https://weworkremotely.com           |
+| https://remoteok.io                  |
+| https://himalayas.app                |
+| https://jobspresso.co                |
+| https://wfh.io                       |
+| https://4dayweek.io                  |
+| https://www.hiretechladies.com       |
+| https://nowhiteboard.org             |
+| https://www.coolstartupjobs.com      |
+| https://angel.co                     |
+| https://www.smartremotejobs.com      |
+| https://www.remotehub.com            |
+| https://startup.jobs/remote-jobs     |
+| https://remotescout.ch               |
+| https://jobstache.com                |
 
 [⬆ back to top](#table-of-contents)
 
@@ -192,13 +201,34 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://reshot.com               |
 | https://librestock.com           |
 | https://visualhunt.com           |
-| https://freephotos.cc            |
+| https://freephotos.cc/en         |
 | https://picjumbo.com             |
 | https://www.pxfuel.com           |
 | https://www.splitshire.com       |
 | https://freeforcommercialuse.net |
 
 [⬆ back to top](#table-of-contents)
+
+## Videos:
+
+| Website                    |
+| -------------------------- |
+| https://dareful.com        |
+| https://www.videvo.net     |
+| https://www.videezy.com    |
+| https://pixabay.com/videos |
+| https://mixkit.co          |
+| https://www.vidsplay.com   |
+| https://mazwai.com         |
+| https://lifeofvids.com     |
+| https://www.pexels.com     |
+| https://coverr.co          |
+| https://www.splitshire.com |
+| https://www.clipstill.com  |
+
+
+[⬆ back to top](#table-of-contents)
+
 
 ## Illustrations:
 
@@ -207,12 +237,11 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://icons8.com/illustrations           |
 | https://www.opendoodles.com                |
 | https://undraw.co/illustrations            |
-| https://drawkit.io                         |
+| https://www.drawkit.com                    |
 | https://icons8.com/ouch                    |
 | https://iradesign.io                       |
 | https://interfacer.xyz                     |
 | https://blush.design                       |
-| https://avataaars.com                      |
 | https://storyset.com                       |
 | https://themeisle.com/illustrations        |
 | https://www.manypixels.co/gallery          |
@@ -228,24 +257,22 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fontawesome.com                   |
 | https://flaticon.com                      |
 | https://icons8.com                        |
-| https://iconfinder.com                    |
+| https://www.iconfinder.com                |
 | https://material.io/resources/icons       |
 | https://iconmonstr.com                    |
 | https://heroicons.com                     |
 | https://boxicons.com                      |
 | https://css.gg                            |
 | https://lineicons.com                     |
-| https://icons.eosdesignsystem.com         |
-| https://icons.modulz.app                  |
 | https://remixicon.com                     |
-| https://tablericons.com                   |
+| https://tabler-icons.io                   |
 | https://simpleicons.org                   |
 | https://feathericons.com                  |
 | https://svgrepo.com                       |
 | https://iconic.app                        |
 | https://icomoon.io                        |
 | https://iconscout.com/unicons             |
-| https://holasvg.com/icons                 |
+| https://icons.holasvg.com                 |
 | https://fontello.com                      |
 | https://fontastic.me                      |
 | https://ionic.io/ionicons                 |
@@ -259,17 +286,17 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ## Fonts:
 
-| Website                  |
-| ------------------------ |
-| https://fonts.google.com |
-| https://fontspace.com    |
-| https://1001fonts.com    |
-| https://fontsquirrel.com |
-| https://ffonts.net       |
-| https://fontfabric.com   |
-| https://urbanfonts.com   |
-| https://www.fontpair.co  |
-| https://fonts.bunny.net  |
+| Website                      |
+| ------------------------     |
+| https://fonts.google.com     |
+| https://fontspace.com        |
+| https://www.1001fonts.com    |
+| https://www.fontsquirrel.com |
+| https://ffonts.net           |
+| https://www.fontfabric.com   |
+| https://urbanfonts.com       |
+| https://www.fontpair.co      |
+| https://fonts.bunny.net      |
 
 [⬆ back to top](#table-of-contents)
 
@@ -324,7 +351,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Ladybug Podcast](https://www.ladybug.dev/)                                 |
 | [CodePen Radio](https://blog.codepen.io/radio/)                             |
 | [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) |
-| [Modern Web](https://www.thisdot.co/modern-web)                             |
 | [DevDiscuss](https://dev.to/devdiscuss)                                     |
 | [DevNews](https://dev.to/devnews)                                           |
 | [React Native Radio](https://reactnativeradio.com/)                         |
@@ -340,7 +366,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | -------------------------------------------- |
 | [VS Code](https://code.visualstudio.com/)    |
 | [Sublime Text](https://www.sublimetext.com/) |
-| [Atom](https://atom.io/)                     |
 | [Brackets](http://brackets.io/)              |
 | [emacs](https://www.gnu.org/software/emacs/) |
 | [Vim](https://www.vim.org/)                  |
@@ -370,33 +395,35 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.eggradients.com |
 | https://cssgradient.io      |
 | https://www.0to255.com      |
+| https://branition.com/colors|
 
 [⬆ back to top](#table-of-contents)
 
 ## UI Inspiration:
 
-| Website                  |
-| ------------------------ |
-| https://uimovement.com   |
-| https://uigarage.net     |
-| https://collectui.com    |
-| https://httpster.net     |
-| https://www.awwwards.com |
-| https://dribbble.com     |
-| https://onepagelove.com  |
-| https://www.behance.net  |
-| https://tympanus.net     |
+| Website                     |
+| ------------------------    |
+| https://landingexam.com     |
+| https://uigarage.net        |
+| https://collectui.com       |
+| https://httpster.net        |
+| https://www.awwwards.com    |
+| https://dribbble.com        |
+| https://onepagelove.com     |
+| https://www.behance.net     |
+| https://tympanus.net/codrops|
+| https://landings.dev        |
 
 [⬆ back to top](#table-of-contents)
 
 ## Docs:
 
-| Website                       |
-| ----------------------------- |
-| https://developer.mozilla.org |
-| https://w3schools.com         |
-| https://w3docs.com            |
-| https://devdocs.io            |
+| Website                              |
+| -----------------------------        |
+| https://developer.mozilla.org/en-US/ |
+| https://w3schools.com                |
+| https://w3docs.com                   |
+| https://devdocs.io                   |
 
 [⬆ back to top](#table-of-contents)
 
@@ -414,7 +441,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/) |
 | [Tuesday](http://shakrmedia.github.io/tuesday/)                |
 | [Mo.js](https://mojs.github.io/)                               |
-| [Bounce.js](http://bouncejs.com/)                              |
 | [AOS](https://michalsnik.github.io/aos/)                       |
 | [Velocity.js](http://velocityjs.org/)                          |
 | [Popmotion](https://popmotion.io/)                             |
@@ -462,15 +488,14 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ## Website Optimization Tools:
 
-| Website                                                                              |
-| ------------------------------------------------------------------------------------ |
-| [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) |
-| [GTmetrix](https://gtmetrix.com/)                                                    |
-| [WebPageTest](https://www.webpagetest.org)                                           |
-| [Yslow](http://yslow.org/)                                                           |
-| [web.dev](https://web.dev/measure/)                                                  |
-| [asayer](https://asayer.io/)                                                         |
-| [Optimizilla](https://imagecompressor.com/)                                          |
+| Website                                                 |
+| ------------------------------------------------------- |
+| [Google PageSpeed Insights](https://pagespeed.web.dev/) |
+| [GTmetrix](https://gtmetrix.com/)                       |
+| [WebPageTest](https://www.webpagetest.org)              |
+| [Yslow](https://yslow.org/)                             |
+| [web.dev](https://web.dev/measure/)                     |
+| [Optimizilla](https://imagecompressor.com/)             |
 
 [⬆ back to top](#table-of-contents)
 
@@ -494,17 +519,16 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ## Newsletters:
 
-| Website                                                                          | Topics                                            |
-| -------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Front-end and UX.                                 |
-| [Frontend Focus](https://frontendfoc.us/)                                        | HTML, CSS, WebGL, Canvas, browser tech, and more. |
-| [CSS Weekly](https://css-weekly.com/)                                            | CSS.                                              |
-| [JavaScript Weekly](https://javascriptweekly.com/)                               | JavaScript.                                       |
-| [Accessibility Weekly](https://a11yweekly.com/)                                  | Accessibility.                                    |
-| [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/)                 | Responsive web design.                            |
-| [JAMstacked](https://jamstack.email/)                                            | JAMstack ecosystem.                               |
-| [UI Dev Newsletter](https://mentor.silvestar.codes/reads/)                       | User Interface development.                       |
-| [Go Make Things](https://gomakethings.com/)                                      | Daily Vanilla JavaScript.                         |
+| Website                                                                          | Topics                                                          |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Front-end and UX.                                               |
+| [Frontend Focus](https://frontendfoc.us/)                                        | HTML, CSS, WebGL, Canvas, browser tech, and more.               |
+| [CSS Weekly](https://css-weekly.com/)                                            | CSS.                                                            |
+| [JavaScript Weekly](https://javascriptweekly.com/)                               | JavaScript.                                                     |
+| [Accessibility Weekly](https://a11yweekly.com/)                                  | Accessibility.                                                  |
+| [JAMstacked](https://jamstack.email/)                                            | JAMstack ecosystem.                                             |
+| [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/)                       | User Interface development.                                     |
+| [Go Make Things](https://gomakethings.com/)                                      | Daily Vanilla JavaScript.                                       |
 
 [⬆ back to top](#table-of-contents)
 
@@ -533,7 +557,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                        |
 | [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                           |
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
-| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
+| [Codepng](https://www.codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
 | [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
 
 [⬆ back to top](#table-of-contents)
@@ -542,6 +566,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                                  | Description                                                                                        |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
 | [CssLayout](https://csslayout.io/)       | A site with multiple css code snippets for very frequently used components in day to day web pages |
 | [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                      |
 | [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                 |
@@ -555,7 +580,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website                                    | Description                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Vuetify](https://vuetifyjs.com/)          | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features. |
-| [Vue Material](https://vuematerial.io/)    | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                |
+| [Vue Material](https://www.creative-tim.com/vuematerial/)    | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                |
 | [BootstrapVue](https://bootstrap-vue.org/) | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.                                                                                                                                         |
 
 [⬆ back to top](#table-of-contents)
@@ -564,7 +589,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                                               | Description                                                                                                                     |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [Material-UI](https://material-ui.com/)               | Simple and customizable component library to build faster, beautiful, and more accessible React applications.                   |
+| [Material-UI](https://mui.com/core/)               | Simple and customizable component library to build faster, beautiful, and more accessible React applications.                   |
 | [Ant Design](https://ant.design/)                     | An enterprise-class UI design language and React UI library.                                                                    |
 | [React Bootstrap](https://react-bootstrap.github.io/) | Bootstrap components built with React.                                                                                          |
 | [Semantic UI React](https://react.semantic-ui.com/)   | Semantic UI React is the official React integration for Semantic UI .                                                           |
@@ -597,5 +622,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
 
 [⬆ back to top](#table-of-contents)
+
+Made by [Marko](https://markodenic.com).
+
+Similar amazing projects: [Public APIs](https://publicapis.dev) - [Dev Resources](https://devresourc.es)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
