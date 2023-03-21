@@ -146,21 +146,26 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Freelancing platforms:
 
-| Website                    |
-| -------------------------- |
-| https://toptal.com         |
-| https://upwork.com         |
-| https://www.freelancer.com |
-| https://peopleperhour.com  |
-| https://simplyhired.com    |
-| https://www.envato.com     |
-| https://guru.com           |
-| https://fiverr.com         |
-| https://hireable.com       |
-| https://6nomads.com        |
-| https://www.truelancer.com |
-| https://gun.io             |
-| https://www.refrens.com    |
+| Website                       |
+| --------------------------    |
+| https://toptal.com            |
+| https://upwork.com            |
+| https://www.freelancer.com    |
+| https://peopleperhour.com     |
+| https://simplyhired.com       |
+| https://www.envato.com        |
+| https://guru.com              |
+| https://fiverr.com            |
+| https://hireable.com          |
+| https://6nomads.com           |
+| https://www.truelancer.com    |
+| https://gun.io                |
+| https://www.refrens.com       |
+| https://www.behance.net       |
+| https://dribbble.com          |
+| https://www.peopleperhour.com |
+| https://www.taskrabbit.com    |
+| https://jooble.org            |
 
 [⬆ back to top](#table-of-contents)
 
