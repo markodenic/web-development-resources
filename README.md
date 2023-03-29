@@ -109,6 +109,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://code.org/                                                |
 | https://www.interviewbit.com/                                    |
 | https://css-tricks.com/                                          |
+|https://www.tutorialspoint.com/web_development_tutorials.htm      |
 
 [⬆ back to top](#table-of-contents)
 
