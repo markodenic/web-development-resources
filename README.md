@@ -169,7 +169,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                              |
 | -------------------------------      |
-| https://www.showwcase.com/jobs       |
 | https://www.remotefrontendjobs.com/  |
 | https://jobboardsearch.com           |
 | https://www.flexjobs.com             |
