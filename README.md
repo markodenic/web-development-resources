@@ -519,6 +519,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | Website                                                                          | Topics                                                          |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Front-end and UX.                                               |
+| [Marko Tech Tips](https://markodenic.com/newsletter/)                            | Useful tech tips, directly to your inbox.                       |
 | [Frontend Focus](https://frontendfoc.us/)                                        | HTML, CSS, WebGL, Canvas, browser tech, and more.               |
 | [CSS Weekly](https://css-weekly.com/)                                            | CSS.                                                            |
 | [JavaScript Weekly](https://javascriptweekly.com/)                               | JavaScript.                                                     |
