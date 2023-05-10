@@ -136,7 +136,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://css-challenges.com         |
 | https://100dayscss.com             |
 | https://codepip.com                |
-| https://triplebyte.com             |
 | https://www.w3schools.com/codegame |
 | https://edabit.com                 |
 | https://www.jschallenger.com       |
@@ -157,7 +156,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.envato.com     |
 | https://guru.com           |
 | https://fiverr.com         |
-| https://hireable.com       |
 | https://6nomads.com        |
 | https://www.truelancer.com |
 | https://gun.io             |
@@ -183,7 +181,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.hiretechladies.com       |
 | https://nowhiteboard.org             |
 | https://www.coolstartupjobs.com      |
-| https://angel.co                     |
+| https://wellfound.com/               |
 | https://www.smartremotejobs.com      |
 | https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
@@ -259,7 +257,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://flaticon.com                      |
 | https://icons8.com                        |
 | https://www.iconfinder.com                |
-| https://material.io/resources/icons       |
+| https://fonts.google.com/icons            |
 | https://iconmonstr.com                    |
 | https://heroicons.com                     |
 | https://boxicons.com                      |
@@ -406,7 +404,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | ------------------------    |
 | https://landingexam.com     |
 | https://uigarage.net        |
-| https://collectui.com       |
 | https://httpster.net        |
 | https://www.awwwards.com    |
 | https://dribbble.com        |
@@ -473,7 +470,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                                                  |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                |
 | [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                    |
-| [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)                      |
 | [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en) |
 | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                          |
 | [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)   |
@@ -559,7 +555,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                           |
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
 | [Codepng](https://www.codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
-| [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
 
 [⬆ back to top](#table-of-contents)
 
