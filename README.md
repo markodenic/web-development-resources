@@ -247,6 +247,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.manypixels.co/gallery          |
 | https://www.artify.co/illustrations-figma  |
 | https://www.artify.co/vector-illustrations |
+| https://cocomaterial.com/                  |
 
 [⬆ back to top](#table-of-contents)
 
