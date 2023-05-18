@@ -560,7 +560,9 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                        |
 | [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                           |
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
-| [Codepng](https://www.codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
+| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                 |
+| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
+| [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
 
 [⬆ back to top](#table-of-contents)
 
