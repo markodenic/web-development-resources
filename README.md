@@ -448,6 +448,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Animista](https://animista.net/)                              |
 | [Lottie-Player](https://lottiefiles.com/web-player)            |
 | [Framer motion](https://www.framer.com/motion)                 |
+| [SwiperJS](https://swiperjs.com)                               |
 
 [⬆ back to top](#table-of-contents)
 
