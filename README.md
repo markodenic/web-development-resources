@@ -224,8 +224,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.pexels.com     |
 | https://coverr.co          |
 | https://www.splitshire.com |
+| https://photostockeditor.com |
 | https://www.clipstill.com  |
-
 
 [⬆ back to top](#table-of-contents)
 
