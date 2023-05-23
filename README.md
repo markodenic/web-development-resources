@@ -187,7 +187,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
 | https://remotescout.ch               |
-| https://jobstache.com                |
+| https://devemploy.com                |
 
 [⬆ back to top](#table-of-contents)
 
