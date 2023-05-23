@@ -335,6 +335,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Buddy](https://youtube.com/c/BuddyWorks)                                     |
 | [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)                                     |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
+| [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 
 [⬆ back to top](#table-of-contents)
 
