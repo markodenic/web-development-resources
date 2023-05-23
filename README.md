@@ -517,6 +517,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://graygrids.com        |
 | https://tailwindtemplates.co |
 | https://themeselection.com   |
+| [Web3Templates](https://web3templates.com)    |
 
 [⬆ back to top](#table-of-contents)
 
