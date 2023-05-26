@@ -505,20 +505,21 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## HTML/CSS/JavaScript templates:
 
-| Website                      |
-| ---------------------------- |
-| https://htmlrev.com          |
-| https://www.tooplate.com     |
-| https://html5up.net          |
-| https://templatemo.com       |
-| https://uideck.com           |
-| https://freehtml5.co         |
-| https://www.zerotheme.com    |
-| https://bootstrapmade.com    |
-| https://graygrids.com        |
-| https://tailwindtemplates.co |
-| https://themeselection.com   |
-| [Web3Templates](https://web3templates.com)    |
+| Website                       |
+| ----------------------------- |
+| https://htmlrev.com           |
+| https://www.tooplate.com      |
+| https://html5up.net           |
+| https://templatemo.com        |
+| https://uideck.com            |
+| https://freehtml5.co          |
+| https://www.zerotheme.com     |
+| https://bootstrapmade.com     |
+| https://graygrids.com         |
+| https://tailwindtemplates.co  |
+| https://themeselection.com    |
+| https://builtatlightspeed.com |
+| https://web3templates.com     |
 
 [⬆ back to top](#table-of-contents)
 
