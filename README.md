@@ -282,6 +282,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.iconspedia.com                |
 | https://favicons.beaubus.com/             |
 | https://www.3dicons.com/                  |
+| https://flowbite.com/icons/               |
 
 [⬆ back to top](#table-of-contents)
 
