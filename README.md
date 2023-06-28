@@ -255,6 +255,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                   |
 | ----------------------------------------- |
+| https://free-icons.github.io/free-icons   |
 | https://fontawesome.com                   |
 | https://flaticon.com                      |
 | https://icons8.com                        |
