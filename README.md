@@ -281,7 +281,9 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://react-icons.github.io/react-icons |
 | https://www.iconspedia.com                |
 | https://favicons.beaubus.com/             |
-| https://www.3dicons.com/                  |
+| https://www.3dicons.com/
+| https://lucide.dev/
+| https://devicon.dev/        |
 
 [⬆ back to top](#table-of-contents)
 
