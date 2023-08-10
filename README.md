@@ -108,7 +108,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://skillcombo.com/courses/development/web-development/free/ |
 | https://code.org/                                                |
 | https://www.interviewbit.com/                                    |
-| https://css-tricks.com/                                          |
+| https://css-tricks.com/     
+| https://www.w3schools.com/                                       |
 
 [⬆ back to top](#table-of-contents)
 
