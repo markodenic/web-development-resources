@@ -188,6 +188,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://startup.jobs/remote-jobs     |
 | https://remotescout.ch               |
 | https://devemploy.com                |
+| https://AiJobsTracker.com/remote     |
 
 [⬆ back to top](#table-of-contents)
 
