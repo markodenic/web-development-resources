@@ -48,23 +48,23 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Hosting:
 
-| Website                                       | Description                                                                                                                                                                                                                   |
-| --------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| https://netlify.com                           | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.                                                                              |
-| https://firebase.google.com                   | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                         |
-| https://aws.amazon.com                        | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                             |
-| https://pages.github.com                      | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                           |
-| https://vercel.com                            | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                |
-| https://surge.sh                              | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                          |
-| https://render.com                            | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                             |
+| Website                                        | Description                                                                                                                                                                                                                   |
+| ---------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| https://netlify.com                            | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.                                                                              |
+| https://firebase.google.com                    | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                         |
+| https://aws.amazon.com                         | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                             |
+| https://pages.github.com                       | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                           |
+| https://vercel.com                             | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                |
+| https://surge.sh                               | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                          |
+| https://render.com                             | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                             |
 | https://docs.gitlab.com/ee/user/project/pages/ | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                           |
-| https://stormkit.io                           | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                       |
-| https://www.digitalocean.com/                 | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results. |
-| https://www.000webhost.com/                   | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
-| https://infinityfree.net/                     | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                       |
-| https://pages.cloudflare.com/                 | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
-| https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
-| https://railway.app/                          | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.|
+| https://stormkit.io                            | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                       |
+| https://www.digitalocean.com/                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results. |
+| https://www.000webhost.com/                    | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
+| https://infinityfree.net/                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                       |
+| https://pages.cloudflare.com/                  | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
+| https://supabase.com                           | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                           |
+| https://railway.app/                           | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -109,6 +109,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://code.org/                                                |
 | https://www.interviewbit.com/                                    |
 | https://css-tricks.com/                                          |
+| https://linuxsurvival.com/                                       |
+| https://visualgo.net/en                                          |
 
 [⬆ back to top](#table-of-contents)
 
@@ -139,8 +141,9 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.w3schools.com/codegame |
 | https://edabit.com                 |
 | https://www.jschallenger.com       |
+
 | https://www.codingninjas.com
-| https://lab.reaal.me/jsrobot/       |
+| https://lab.reaal.me/jsrobot/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -165,30 +168,30 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Remote Jobs:
 
-| Website                              |
-| -------------------------------      |
-| https://www.showwcase.com/jobs       |
-| https://www.remotefrontendjobs.com/  |
-| https://jobboardsearch.com           |
-| https://www.flexjobs.com             |
-| https://remote.co/remote-jobs        |
-| https://justremote.co                |
-| https://weworkremotely.com           |
-| https://remoteok.io                  |
-| https://himalayas.app                |
-| https://jobspresso.co                |
-| https://wfh.io                       |
-| https://4dayweek.io                  |
-| https://www.hiretechladies.com       |
-| https://nowhiteboard.org             |
-| https://www.coolstartupjobs.com      |
-| https://wellfound.com/               |
-| https://www.smartremotejobs.com      |
-| https://www.remotehub.com            |
-| https://startup.jobs/remote-jobs     |
-| https://remotescout.ch               |
-| https://devemploy.com                |
-| https://www.remote.io                |
+| Website                             |
+| ----------------------------------- |
+| https://www.showwcase.com/jobs      |
+| https://www.remotefrontendjobs.com/ |
+| https://jobboardsearch.com          |
+| https://www.flexjobs.com            |
+| https://remote.co/remote-jobs       |
+| https://justremote.co               |
+| https://weworkremotely.com          |
+| https://remoteok.io                 |
+| https://himalayas.app               |
+| https://jobspresso.co               |
+| https://wfh.io                      |
+| https://4dayweek.io                 |
+| https://www.hiretechladies.com      |
+| https://nowhiteboard.org            |
+| https://www.coolstartupjobs.com     |
+| https://wellfound.com/              |
+| https://www.smartremotejobs.com     |
+| https://www.remotehub.com           |
+| https://startup.jobs/remote-jobs    |
+| https://remotescout.ch              |
+| https://devemploy.com               |
+| https://www.remote.io               |
 
 [⬆ back to top](#table-of-contents)
 
@@ -212,24 +215,23 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Videos:
 
-| Website                    |
-| -------------------------- |
-| https://dareful.com        |
-| https://www.videvo.net     |
-| https://www.videezy.com    |
-| https://pixabay.com/videos |
-| https://mixkit.co          |
-| https://www.vidsplay.com   |
-| https://mazwai.com         |
-| https://lifeofvids.com     |
-| https://www.pexels.com     |
-| https://coverr.co          |
-| https://www.splitshire.com |
+| Website                      |
+| ---------------------------- |
+| https://dareful.com          |
+| https://www.videvo.net       |
+| https://www.videezy.com      |
+| https://pixabay.com/videos   |
+| https://mixkit.co            |
+| https://www.vidsplay.com     |
+| https://mazwai.com           |
+| https://lifeofvids.com       |
+| https://www.pexels.com       |
+| https://coverr.co            |
+| https://www.splitshire.com   |
 | https://photostockeditor.com |
-| https://www.clipstill.com  |
+| https://www.clipstill.com    |
 
 [⬆ back to top](#table-of-contents)
-
 
 ## Illustrations:
 
@@ -283,13 +285,14 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.iconspedia.com                |
 | https://favicons.beaubus.com/             |
 | https://www.3dicons.com/                  |
+| https://iconbuddy.app/                    |
 
 [⬆ back to top](#table-of-contents)
 
 ## Fonts:
 
 | Website                      |
-| ------------------------     |
+| ---------------------------- |
 | https://fonts.google.com     |
 | https://fontspace.com        |
 | https://www.1001fonts.com    |
@@ -334,7 +337,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Fireship](https://www.youtube.com/c/Fireship)                                |
 | [Codevolution](https://www.youtube.com/c/Codevolution)                        |
 | [Buddy](https://youtube.com/c/BuddyWorks)                                     |
-| [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)                                     |
+| [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)             |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 
@@ -406,24 +409,24 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## UI Inspiration:
 
-| Website                     |
-| ------------------------    |
-| https://landingexam.com     |
-| https://uigarage.net        |
-| https://httpster.net        |
-| https://www.awwwards.com    |
-| https://dribbble.com        |
-| https://onepagelove.com     |
-| https://www.behance.net     |
-| https://tympanus.net/codrops|
-| https://landings.dev        |
+| Website                      |
+| ---------------------------- |
+| https://landingexam.com      |
+| https://uigarage.net         |
+| https://httpster.net         |
+| https://www.awwwards.com     |
+| https://dribbble.com         |
+| https://onepagelove.com      |
+| https://www.behance.net      |
+| https://tympanus.net/codrops |
+| https://landings.dev         |
 
 [⬆ back to top](#table-of-contents)
 
 ## Docs:
 
 | Website                              |
-| -----------------------------        |
+| ------------------------------------ |
 | https://developer.mozilla.org/en-US/ |
 | https://w3schools.com                |
 | https://w3docs.com                   |
@@ -471,23 +474,23 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Chrome Extensions:
 
-| Website                                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                          |
-| [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                                                  |
-| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                |
-| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                    |
-| [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en) |
-| [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                          |
-| [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)   |
-| [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)                            |
-| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                              |
-| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)                                                |
-| [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                       |
-| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                  |
-| [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)                                                |
-| [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                          |
-| [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)|
+| Website                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                           |
+| [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                                                   |
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                 |
+| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                     |
+| [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)  |
+| [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                           |
+| [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)    |
+| [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)                             |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                               |
+| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)                                                 |
+| [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                        |
+| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                   |
+| [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)                                                 |
+| [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                           |
+| [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -526,17 +529,17 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Newsletters:
 
-| Website                                                                          | Topics                                                          |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [Marko Tech Tips](https://markodenic.com/newsletter/)                            | Useful tech tips, directly to your inbox.                       |
-| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Front-end and UX.                                               |
-| [Frontend Focus](https://frontendfoc.us/)                                        | HTML, CSS, WebGL, Canvas, browser tech, and more.               |
-| [CSS Weekly](https://css-weekly.com/)                                            | CSS.                                                            |
-| [JavaScript Weekly](https://javascriptweekly.com/)                               | JavaScript.                                                     |
-| [Accessibility Weekly](https://a11yweekly.com/)                                  | Accessibility.                                                  |
-| [JAMstacked](https://jamstack.email/)                                            | JAMstack ecosystem.                                             |
-| [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/)                       | User Interface development.                                     |
-| [Go Make Things](https://gomakethings.com/)                                      | Daily Vanilla JavaScript.                                       |
+| Website                                                                                | Topics                                            |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Marko Tech Tips](https://markodenic.com/newsletter/)                                  | Useful tech tips, directly to your inbox.         |
+| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)       | Front-end and UX.                                 |
+| [Frontend Focus](https://frontendfoc.us/)                                              | HTML, CSS, WebGL, Canvas, browser tech, and more. |
+| [CSS Weekly](https://css-weekly.com/)                                                  | CSS.                                              |
+| [JavaScript Weekly](https://javascriptweekly.com/)                                     | JavaScript.                                       |
+| [Accessibility Weekly](https://a11yweekly.com/)                                        | Accessibility.                                    |
+| [JAMstacked](https://jamstack.email/)                                                  | JAMstack ecosystem.                               |
+| [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/) | User Interface development.                       |
+| [Go Make Things](https://gomakethings.com/)                                            | Daily Vanilla JavaScript.                         |
 
 [⬆ back to top](#table-of-contents)
 
@@ -566,7 +569,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                        |
 | [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                           |
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
-| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                 |
+| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                |
 | [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
 | [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
 | [tablebackend.com](https://tablebackend.com/)                                    | A backend for your simple projects using oowerful canvas-based data grid for handling millions of rows.      |
@@ -575,24 +578,24 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## UI Components:
 
-| Website                                  | Description                                                                                        |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Website                                  | Description                                                                                         |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
-| [CssLayout](https://csslayout.io/)       | A site with multiple css code snippets for very frequently used components in day to day web pages |
-| [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                      |
-| [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                 |
-| [UI Hut](https://www.uihut.com/home)     | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc..                 |
-| [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                          |
+| [CssLayout](https://csslayout.io/)       | A site with multiple css code snippets for very frequently used components in day to day web pages  |
+| [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                       |
+| [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                  |
+| [UI Hut](https://www.uihut.com/home)     | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc..                  |
+| [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                           |
 
 [⬆ back to top](#table-of-contents)
 
 ## Vue UI libraries:
 
-| Website                                    | Description                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Vuetify](https://vuetifyjs.com/)          | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features. |
-| [Vue Material](https://www.creative-tim.com/vuematerial/)    | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                |
-| [BootstrapVue](https://bootstrap-vue.org/) | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.                                                                                                                                         |
+| Website                                                   | Description                                                                                                                                                                                                                                                                                         |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Vuetify](https://vuetifyjs.com/)                         | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features. |
+| [Vue Material](https://www.creative-tim.com/vuematerial/) | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                |
+| [BootstrapVue](https://bootstrap-vue.org/)                | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.                                                                                                                                         |
 
 [⬆ back to top](#table-of-contents)
 
@@ -600,13 +603,13 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                               | Description                                                                                                                     |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [Material-UI](https://mui.com/core/)               | Simple and customizable component library to build faster, beautiful, and more accessible React applications.                   |
+| [Material-UI](https://mui.com/core/)                  | Simple and customizable component library to build faster, beautiful, and more accessible React applications.                   |
 | [Ant Design](https://ant.design/)                     | An enterprise-class UI design language and React UI library.                                                                    |
 | [React Bootstrap](https://react-bootstrap.github.io/) | Bootstrap components built with React.                                                                                          |
 | [Semantic UI React](https://react.semantic-ui.com/)   | Semantic UI React is the official React integration for Semantic UI .                                                           |
 | [Chakra UI](https://chakra-ui.com/)                   | A simple, modular and accessible component library that gives you the building blocks you need to build your React applications |
 | [NativeBase](https://nativebase.io/)                  | NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.    |
-| [Prime React](https://primereact.org/)                  | The ultimate collection of design-agnostic, flexible and accessible React UI Components.    |
+| [Prime React](https://primereact.org/)                | The ultimate collection of design-agnostic, flexible and accessible React UI Components.                                        |
 
 [⬆ back to top](#table-of-contents)
 
