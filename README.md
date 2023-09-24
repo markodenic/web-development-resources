@@ -337,6 +337,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)                                     |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
+| [Corey Schafer](https://www.youtube.com/@coreyms)         |
 
 [⬆ back to top](#table-of-contents)
 
