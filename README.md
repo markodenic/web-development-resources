@@ -4,7 +4,7 @@ This is an awesome project about Web Development resources. ⚡
 
 Resources are added frequently! ⚡
 
-Enjoy!
+Enjoy! :)
 
 If you like this repo, be sure to ⭐ it.
 
@@ -39,6 +39,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [Newsletters](#newsletters)
 - [CSS Generators](#css-generators)
+- [CSS Games 🎮](#css-games)
 - [Online Tools](#online-tools)
 - [UI Components](#ui-components)
 - [Vue UI libraries](#vue-ui-libraries)
@@ -136,11 +137,11 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://css-challenges.com         |
 | https://100dayscss.com             |
 | https://codepip.com                |
-| https://triplebyte.com             |
 | https://www.w3schools.com/codegame |
 | https://edabit.com                 |
 | https://www.jschallenger.com       |
-| https://www.codingninjas.com       |
+| https://www.codingninjas.com
+| https://lab.reaal.me/jsrobot/       |
 
 [⬆ back to top](#table-of-contents)
 
@@ -156,7 +157,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.envato.com     |
 | https://guru.com           |
 | https://fiverr.com         |
-| https://hireable.com       |
 | https://6nomads.com        |
 | https://www.truelancer.com |
 | https://gun.io             |
@@ -168,6 +168,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                              |
 | -------------------------------      |
+| https://www.showwcase.com/jobs       |
 | https://www.remotefrontendjobs.com/  |
 | https://jobboardsearch.com           |
 | https://www.flexjobs.com             |
@@ -182,30 +183,33 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.hiretechladies.com       |
 | https://nowhiteboard.org             |
 | https://www.coolstartupjobs.com      |
-| https://angel.co                     |
+| https://wellfound.com/               |
 | https://www.smartremotejobs.com      |
 | https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
 | https://remotescout.ch               |
 | https://jobstache.com                |
 | https://web3.career/remote-jobs      |
+| https://devemploy.com                |
+| https://www.remote.io                |
 
 [⬆ back to top](#table-of-contents)
 
 ## Photos:
 
-| Website                    |
-| -------------------------- |
-| https://unsplash.com       |
-| https://pixabay.com        |
-| https://pexels.com         |
-| https://reshot.com         |
-| https://librestock.com     |
-| https://visualhunt.com     |
-| https://freephotos.cc/en   |
-| https://picjumbo.com       |
-| https://www.pxfuel.com     |
-| https://www.splitshire.com |
+| Website                          |
+| -------------------------------- |
+| https://unsplash.com             |
+| https://pixabay.com              |
+| https://pexels.com               |
+| https://reshot.com               |
+| https://librestock.com           |
+| https://visualhunt.com           |
+| https://freephotos.cc/en         |
+| https://picjumbo.com             |
+| https://www.pxfuel.com           |
+| https://www.splitshire.com       |
+| https://freeforcommercialuse.net |
 
 [⬆ back to top](#table-of-contents)
 
@@ -224,8 +228,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.pexels.com     |
 | https://coverr.co          |
 | https://www.splitshire.com |
+| https://photostockeditor.com |
 | https://www.clipstill.com  |
-
 
 [⬆ back to top](#table-of-contents)
 
@@ -247,6 +251,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.manypixels.co/gallery          |
 | https://www.artify.co/illustrations-figma  |
 | https://www.artify.co/vector-illustrations |
+| https://cocomaterial.com/                  |
 
 [⬆ back to top](#table-of-contents)
 
@@ -258,14 +263,14 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://flaticon.com                      |
 | https://icons8.com                        |
 | https://www.iconfinder.com                |
-| https://material.io/resources/icons       |
+| https://fonts.google.com/icons            |
 | https://iconmonstr.com                    |
 | https://heroicons.com                     |
 | https://boxicons.com                      |
 | https://css.gg                            |
 | https://lineicons.com                     |
 | https://remixicon.com                     |
-| https://tablericons.com                   |
+| https://tabler-icons.io                   |
 | https://simpleicons.org                   |
 | https://feathericons.com                  |
 | https://svgrepo.com                       |
@@ -332,7 +337,9 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Fireship](https://www.youtube.com/c/Fireship)                                |
 | [Codevolution](https://www.youtube.com/c/Codevolution)                        |
 | [Buddy](https://youtube.com/c/BuddyWorks)                                     |
+| [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)                                     |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
+| [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 
 [⬆ back to top](#table-of-contents)
 
@@ -378,24 +385,25 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Color Palettes:
 
-| Website                     |
-| --------------------------- |
-| https://coolors.co          |
-| https://colorhunt.co        |
-| https://paletton.com        |
-| https://color-hex.com       |
-| https://mycolor.space       |
-| https://flatuicolors.com    |
-| https://color.adobe.com     |
-| https://htmlcolorcodes.com  |
-| https://colorsinspo.com     |
-| https://uigradients.com     |
-| https://www.colorion.co     |
-| https://www.gradientos.app  |
-| https://www.eggradients.com |
-| https://cssgradient.io      |
-| https://www.0to255.com      |
-| https://branition.com/colors|
+| Website                       |
+| ----------------------------- |
+| https://coolors.co            |
+| https://colorhunt.co          |
+| https://paletton.com          |
+| https://color-hex.com         |
+| https://mycolor.space         |
+| https://flatuicolors.com      |
+| https://color.adobe.com       |
+| https://htmlcolorcodes.com    |
+| https://colorsinspo.com       |
+| https://uigradients.com       |
+| https://www.colorion.co       |
+| https://www.gradientos.app    |
+| https://www.eggradients.com   |
+| https://cssgradient.io        |
+| https://www.0to255.com        |
+| https://branition.com/colors  |
+| https://materialui.co/colors/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -405,7 +413,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | ------------------------    |
 | https://landingexam.com     |
 | https://uigarage.net        |
-| https://collectui.com       |
 | https://httpster.net        |
 | https://www.awwwards.com    |
 | https://dribbble.com        |
@@ -448,6 +455,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Animista](https://animista.net/)                              |
 | [Lottie-Player](https://lottiefiles.com/web-player)            |
 | [Framer motion](https://www.framer.com/motion)                 |
+| [SwiperJS](https://swiperjs.com)                               |
 
 [⬆ back to top](#table-of-contents)
 
@@ -472,7 +480,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                                                  |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                |
 | [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                    |
-| [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)                      |
 | [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en) |
 | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                          |
 | [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)   |
@@ -483,6 +490,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                  |
 | [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)                                                |
 | [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                          |
+| [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -501,19 +509,21 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## HTML/CSS/JavaScript templates:
 
-| Website                      |
-| ---------------------------- |
-| https://htmlrev.com          |
-| https://www.tooplate.com     |
-| https://html5up.net          |
-| https://templatemo.com       |
-| https://uideck.com           |
-| https://freehtml5.co         |
-| https://www.zerotheme.com    |
-| https://bootstrapmade.com    |
-| https://graygrids.com        |
-| https://tailwindtemplates.co |
-| https://themeselection.com   |
+| Website                       |
+| ----------------------------- |
+| https://htmlrev.com           |
+| https://www.tooplate.com      |
+| https://html5up.net           |
+| https://templatemo.com        |
+| https://uideck.com            |
+| https://freehtml5.co          |
+| https://www.zerotheme.com     |
+| https://bootstrapmade.com     |
+| https://graygrids.com         |
+| https://tailwindtemplates.co  |
+| https://themeselection.com    |
+| https://builtatlightspeed.com |
+| https://web3templates.com     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -521,6 +531,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                                                          | Topics                                                          |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Marko Tech Tips](https://markodenic.com/newsletter/)                            | Useful tech tips, directly to your inbox.                       |
 | [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) | Front-end and UX.                                               |
 | [Frontend Focus](https://frontendfoc.us/)                                        | HTML, CSS, WebGL, Canvas, browser tech, and more.               |
 | [CSS Weekly](https://css-weekly.com/)                                            | CSS.                                                            |
@@ -547,6 +558,23 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Blobmaker](https://www.blobmaker.app/)                                               | Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.                                |
 | [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker)                  | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations.                                                                               |
 | [Neumorphism](https://neumorphism.io/)                                                | A free online tool for designing attractive UI with colors, gradients and shadows..                                                                                                   |
+| [Scrollbar.app](https://scrollbar.app/)                                               | A simple online tool for creating custom scrollbars for the web.                                                                                                                      |
+
+[⬆ back to top](#table-of-contents)
+
+## CSS Games:
+
+| Website                                                                               | Description                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Flexbox froggy](https://flexboxfroggy.com/) | Flexbox Froggy is an interactive game that helps users learn and practice the **CSS Flexbox layout**.                                                                                                            |
+| [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)                                           | Set of challenges where we must use **Flexbox properties** to position and align elements on the screen to complete a medieval-themed game layout.                                         |
+| [Grid garden](https://cssgridgarden.com/)                                        | A Grid Garden is an interactive game that helps users learn and practice the **CSS Grid layout**.                                                         |
+| [Grid attack](https://codingfantasy.com/games/css-grid-attack/play)                                     | Learn and practice the **CSS Grid layout**                                                                                                                           |
+| [CSS Diner](https://flukeout.github.io/)   | Fun and interactive way to learn how to select elements on a web page using CSS.  |
+| [Guess CSS](https://www.guess-css.app/)                                               | Another Fun and interactive way to learn CSS.                             |
+| [CSS Speedrun](https://css-speedrun.netlify.app/)                  | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                                                                             |
+
+[⬆ back to top](#table-of-contents)
 
 ## Online Tools:
 
@@ -557,8 +585,10 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                        |
 | [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                           |
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
-| [Codepng](https://www.codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
+| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                 |
+| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
 | [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
+| [tablebackend.com](https://tablebackend.com/)                                    | A backend for your simple projects using oowerful canvas-based data grid for handling millions of rows.      |
 
 [⬆ back to top](#table-of-contents)
 
@@ -595,6 +625,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Semantic UI React](https://react.semantic-ui.com/)   | Semantic UI React is the official React integration for Semantic UI .                                                           |
 | [Chakra UI](https://chakra-ui.com/)                   | A simple, modular and accessible component library that gives you the building blocks you need to build your React applications |
 | [NativeBase](https://nativebase.io/)                  | NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.    |
+| [Prime React](https://primereact.org/)                  | The ultimate collection of design-agnostic, flexible and accessible React UI Components.    |
 
 [⬆ back to top](#table-of-contents)
 
