@@ -337,8 +337,9 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Fireship](https://www.youtube.com/c/Fireship)                                |
 | [Codevolution](https://www.youtube.com/c/Codevolution)                        |
 | [Buddy](https://youtube.com/c/BuddyWorks)                                     |
-| [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)                                     |
+| [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)             |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
+| [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)                     |
 | [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 
