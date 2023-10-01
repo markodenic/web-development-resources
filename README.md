@@ -4,7 +4,7 @@ This is an awesome project about Web Development resources. ⚡
 
 Resources are added frequently! ⚡
 
-Enjoy!
+Enjoy! :)
 
 If you like this repo, be sure to ⭐ it.
 
@@ -39,6 +39,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [Newsletters](#newsletters)
 - [CSS Generators](#css-generators)
+- [CSS Games 🎮](#css-games)
 - [Online Tools](#online-tools)
 - [UI Components](#ui-components)
 - [Vue UI libraries](#vue-ui-libraries)
@@ -188,6 +189,9 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://startup.jobs/remote-jobs     |
 | https://remotescout.ch               |
 | https://jobstache.com                |
+| https://jobsinjs.com                 |
+| https://devemploy.com                |
+| https://www.remote.io                |
 
 [⬆ back to top](#table-of-contents)
 
@@ -336,6 +340,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)             |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
 | [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)                     |
+| [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
+| [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 
 [⬆ back to top](#table-of-contents)
 
@@ -486,6 +492,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                  |
 | [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)                                                |
 | [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                          |
+| [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -504,19 +511,21 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## HTML/CSS/JavaScript templates:
 
-| Website                      |
-| ---------------------------- |
-| https://htmlrev.com          |
-| https://www.tooplate.com     |
-| https://html5up.net          |
-| https://templatemo.com       |
-| https://uideck.com           |
-| https://freehtml5.co         |
-| https://www.zerotheme.com    |
-| https://bootstrapmade.com    |
-| https://graygrids.com        |
-| https://tailwindtemplates.co |
-| https://themeselection.com   |
+| Website                       |
+| ----------------------------- |
+| https://htmlrev.com           |
+| https://www.tooplate.com      |
+| https://html5up.net           |
+| https://templatemo.com        |
+| https://uideck.com            |
+| https://freehtml5.co          |
+| https://www.zerotheme.com     |
+| https://bootstrapmade.com     |
+| https://graygrids.com         |
+| https://tailwindtemplates.co  |
+| https://themeselection.com    |
+| https://builtatlightspeed.com |
+| https://web3templates.com     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -551,6 +560,23 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Blobmaker](https://www.blobmaker.app/)                                               | Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.                                |
 | [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker)                  | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations.                                                                               |
 | [Neumorphism](https://neumorphism.io/)                                                | A free online tool for designing attractive UI with colors, gradients and shadows..                                                                                                   |
+| [Scrollbar.app](https://scrollbar.app/)                                               | A simple online tool for creating custom scrollbars for the web.                                                                                                                      |
+
+[⬆ back to top](#table-of-contents)
+
+## CSS Games:
+
+| Website                                                                               | Description                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Flexbox froggy](https://flexboxfroggy.com/) | Flexbox Froggy is an interactive game that helps users learn and practice the **CSS Flexbox layout**.                                                                                                            |
+| [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)                                           | Set of challenges where we must use **Flexbox properties** to position and align elements on the screen to complete a medieval-themed game layout.                                         |
+| [Grid garden](https://cssgridgarden.com/)                                        | A Grid Garden is an interactive game that helps users learn and practice the **CSS Grid layout**.                                                         |
+| [Grid attack](https://codingfantasy.com/games/css-grid-attack/play)                                     | Learn and practice the **CSS Grid layout**                                                                                                                           |
+| [CSS Diner](https://flukeout.github.io/)   | Fun and interactive way to learn how to select elements on a web page using CSS.  |
+| [Guess CSS](https://www.guess-css.app/)                                               | Another Fun and interactive way to learn CSS.                             |
+| [CSS Speedrun](https://css-speedrun.netlify.app/)                  | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                                                                             |
+
+[⬆ back to top](#table-of-contents)
 
 ## Online Tools:
 
@@ -564,6 +590,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                 |
 | [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
 | [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
+| [tablebackend.com](https://tablebackend.com/)                                    | A backend for your simple projects using oowerful canvas-based data grid for handling millions of rows.      |
 
 [⬆ back to top](#table-of-contents)
 
@@ -600,6 +627,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Semantic UI React](https://react.semantic-ui.com/)   | Semantic UI React is the official React integration for Semantic UI .                                                           |
 | [Chakra UI](https://chakra-ui.com/)                   | A simple, modular and accessible component library that gives you the building blocks you need to build your React applications |
 | [NativeBase](https://nativebase.io/)                  | NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.    |
+| [Prime React](https://primereact.org/)                  | The ultimate collection of design-agnostic, flexible and accessible React UI Components.    |
 
 [⬆ back to top](#table-of-contents)
 
