@@ -192,6 +192,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://jobstache.com                |
 | https://jobsinjs.com                 |
 | https://devemploy.com                |
+| https://AiJobsTracker.com/remote     |
 | https://www.remote.io                |
 
 [⬆ back to top](#table-of-contents)
