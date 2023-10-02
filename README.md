@@ -347,6 +347,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)                     |
 | [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
+| [Corey Schafer](https://www.youtube.com/@coreyms)         |
 
 [⬆ back to top](#table-of-contents)
 
