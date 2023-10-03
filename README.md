@@ -195,6 +195,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://echojobs.io                  |
 | https://AiJobsTracker.com/remote     |
 | https://www.remote.io                |
+| https://web3.career/remote-jobs      |
 
 [⬆ back to top](#table-of-contents)
 
