@@ -466,6 +466,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Lottie-Player](https://lottiefiles.com/web-player)            |
 | [Framer motion](https://www.framer.com/motion)                 |
 | [SwiperJS](https://swiperjs.com)                               |
+| [Motion One](https://motion.dev)                               |
 
 [⬆ back to top](#table-of-contents)
 
