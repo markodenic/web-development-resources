@@ -515,6 +515,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Yslow](https://yslow.org/)                             |
 | [web.dev](https://web.dev/measure/)                     |
 | [Optimizilla](https://imagecompressor.com/)             |
+| [SEOTester](https://seotest.me/)                        |
 
 [⬆ back to top](#table-of-contents)
 
