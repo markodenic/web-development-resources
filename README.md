@@ -120,6 +120,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | ---------------------------------- |
 | https://www.codewars.com/          |
 | https://topcoder.com               |
+| https://dapp-world.com/problems    |
 | https://www.codingame.com/start    |
 | https://hackerrank.com             |
 | https://projecteuler.net           |
