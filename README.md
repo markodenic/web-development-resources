@@ -143,6 +143,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.jschallenger.com       |
 | https://www.codingninjas.com       |
 | https://lab.reaal.me/jsrobot/      |
+| https://divize.io/challenges       |
 | https://www.misterda.com           |
 
 [⬆ back to top](#table-of-contents)
@@ -466,6 +467,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Lottie-Player](https://lottiefiles.com/web-player)            |
 | [Framer motion](https://www.framer.com/motion)                 |
 | [SwiperJS](https://swiperjs.com)                               |
+| [Motion One](https://motion.dev)                               |
 
 [⬆ back to top](#table-of-contents)
 
@@ -514,6 +516,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Yslow](https://yslow.org/)                             |
 | [web.dev](https://web.dev/measure/)                     |
 | [Optimizilla](https://imagecompressor.com/)             |
+| [SEOTester](https://seotest.me/)                        |
 
 [⬆ back to top](#table-of-contents)
 
