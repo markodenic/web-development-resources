@@ -144,6 +144,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.codingninjas.com
 | https://lab.reaal.me/jsrobot/       |
 | https://divize.io/challenges       |
+| https://practice.geeksforgeeks.org/explore?page=1&sortBy=latest      |
 
 [⬆ back to top](#table-of-contents)
 
