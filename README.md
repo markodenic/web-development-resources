@@ -143,6 +143,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.jschallenger.com       |
 | https://www.codingninjas.com
 | https://lab.reaal.me/jsrobot/       |
+| https://divize.io/challenges       |
 
 [⬆ back to top](#table-of-contents)
 
@@ -465,6 +466,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Lottie-Player](https://lottiefiles.com/web-player)            |
 | [Framer motion](https://www.framer.com/motion)                 |
 | [SwiperJS](https://swiperjs.com)                               |
+| [Motion One](https://motion.dev)                               |
 
 [⬆ back to top](#table-of-contents)
 
@@ -498,9 +500,10 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                       |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                  |
 | [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)                                                |
-| [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                          |
+| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                    |
 | [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)|
 | [Motion DevTools](https://chrome.google.com/webstore/detail/motion-devtools/mnbliiaiiflhmnndmoidhddombbmgcdk) |
+| [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)   |
 
 [⬆ back to top](#table-of-contents)
 
@@ -514,6 +517,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Yslow](https://yslow.org/)                             |
 | [web.dev](https://web.dev/measure/)                     |
 | [Optimizilla](https://imagecompressor.com/)             |
+| [SEOTester](https://seotest.me/)                        |
 
 [⬆ back to top](#table-of-contents)
 
