@@ -107,7 +107,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://learn.microsoft.com/en-gb/training/                      |
 | https://www.codementor.io/events                                 |
 | https://eloquentjavascript.net/                                  |
-| https://skillcombo.com/courses/development/web-development/free/ |
 | https://code.org/                                                |
 | https://www.interviewbit.com/                                    |
 | https://css-tricks.com/                                          |
@@ -190,7 +189,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
 | https://remotescout.ch               |
-| https://jobstache.com                |
 | https://jobsinjs.com                 |
 | https://devemploy.com                |
 | https://echojobs.io                  |
@@ -499,7 +497,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)                                                |
 | [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                       |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                  |
-| [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)                                                |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                    |
 | [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)|
 | [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)   |
@@ -601,7 +598,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
 | [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                 |
 | [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
-| [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
 | [tablebackend.com](https://tablebackend.com/)                                    | A backend for your simple projects using oowerful canvas-based data grid for handling millions of rows.      |
 
 [⬆ back to top](#table-of-contents)
