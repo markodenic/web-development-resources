@@ -107,7 +107,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://learn.microsoft.com/en-gb/training/                      |
 | https://www.codementor.io/events                                 |
 | https://eloquentjavascript.net/                                  |
-| https://skillcombo.com/courses/development/web-development/free/ |
 | https://code.org/                                                |
 | https://www.interviewbit.com/                                    |
 | https://css-tricks.com/                                          |
@@ -143,6 +142,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.jschallenger.com       |
 | https://www.codingninjas.com
 | https://lab.reaal.me/jsrobot/       |
+| https://divize.io/challenges       |
 
 [⬆ back to top](#table-of-contents)
 
@@ -189,10 +189,12 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
 | https://remotescout.ch               |
-| https://jobstache.com                |
 | https://jobsinjs.com                 |
 | https://devemploy.com                |
+| https://echojobs.io                  |
+| https://AiJobsTracker.com/remote     |
 | https://www.remote.io                |
+| https://web3.career/remote-jobs      |
 
 [⬆ back to top](#table-of-contents)
 
@@ -260,6 +262,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                   |
 | ----------------------------------------- |
+| https://svgmix.com                        | 
+| https://free-icons.github.io/free-icons   |
 | https://fontawesome.com                   |
 | https://flaticon.com                      |
 | https://icons8.com                        |
@@ -344,6 +348,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)                     |
 | [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
+| [Corey Schafer](https://www.youtube.com/@coreyms)         |
 
 [⬆ back to top](#table-of-contents)
 
@@ -460,6 +465,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Lottie-Player](https://lottiefiles.com/web-player)            |
 | [Framer motion](https://www.framer.com/motion)                 |
 | [SwiperJS](https://swiperjs.com)                               |
+| [Motion One](https://motion.dev)                               |
 
 [⬆ back to top](#table-of-contents)
 
@@ -491,9 +497,10 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                              |
 | [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)                                                |
 | [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                       |
-| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                                     |
-| [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                          |
+| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                  |
+| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                    |
 | [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)|
+| [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)   |
 
 [⬆ back to top](#table-of-contents)
 
@@ -507,6 +514,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Yslow](https://yslow.org/)                             |
 | [web.dev](https://web.dev/measure/)                     |
 | [Optimizilla](https://imagecompressor.com/)             |
+| [SEOTester](https://seotest.me/)                        |
 
 [⬆ back to top](#table-of-contents)
 
@@ -562,6 +570,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker)                  | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations.                                                                               |
 | [Neumorphism](https://neumorphism.io/)                                                | A free online tool for designing attractive UI with colors, gradients and shadows..                                                                                                   |
 | [Scrollbar.app](https://scrollbar.app/)                                               | A simple online tool for creating custom scrollbars for the web.                                                                                                                      |
+| [Code Magic](https://code-magic.vercel.app/)                                                   | A free tool to make CSS easier by generating Tailwind and CSS code for effects, gradients and inputs |
 
 [⬆ back to top](#table-of-contents)
 
@@ -614,6 +623,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Vuetify](https://vuetifyjs.com/)          | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features. |
 | [Vue Material](https://www.creative-tim.com/vuematerial/)    | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                |
 | [BootstrapVue](https://bootstrap-vue.org/) | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.                                                                                                                                         |
+| [Quasar framework](https://quasar.dev/) | Quasar is an MIT licensed open-source Vue.js based framework. It enables web developers to create responsive++ websites/apps in various formats: SPAs, SSR (+ optional PWA client takeover), PWAs, BEX, Mobile Apps (Android, iOS, etc.), and Multi-platform Desktop Apps (using Electron). Quasar's motto is "write code once, deploy it as a website, Mobile App, and/or Electron App." It provides a state-of-the-art CLI and efficient Quasar web components, eliminating the need for additional heavy libraries like Hammer.js, Moment.js, or Bootstrap.                                                                                                                                         |
 
 [⬆ back to top](#table-of-contents)
 
@@ -633,10 +643,11 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Angular UI libraries:
 
-| Website                                        | Description                                                                                                        |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [Taiga UI](https://taiga-ui.dev/)              | A powerful set of open source components for Angular                                                               |
-| [PrimeNG](https://www.primefaces.org/primeng/) | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
+| Website                                           | Description                                                                                                        |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [Taiga UI](https://taiga-ui.dev/)                 | A powerful set of open source components for Angular                                                               |
+| [PrimeNG](https://www.primefaces.org/primeng/)    | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
+| [Angular Material](https://material.angular.io/)  | Angular Material is a UI library component developed by Google in 2014.                                            |
 
 [⬆ back to top](#table-of-contents)
 
