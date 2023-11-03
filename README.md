@@ -169,6 +169,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                              |
 | -------------------------------      |
+| https://workremote.cc/               |
 | https://www.showwcase.com/jobs       |
 | https://www.remotefrontendjobs.com/  |
 | https://jobboardsearch.com           |
@@ -611,7 +612,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CssLayout](https://csslayout.io/)       | A site with multiple css code snippets for very frequently used components in day to day web pages |
 | [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                      |
 | [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                 |
-| [UI Hut](https://www.uihut.com/home)     | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc..                 |
 | [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                          |
 
 [⬆ back to top](#table-of-contents)
