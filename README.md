@@ -262,6 +262,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                   |
 | ----------------------------------------- |
+| https://svgmix.com                        | 
 | https://free-icons.github.io/free-icons   |
 | https://fontawesome.com                   |
 | https://flaticon.com                      |
