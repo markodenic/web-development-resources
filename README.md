@@ -67,6 +67,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
 | https://railway.app/                          | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.|
 | https://fly.io/                               | **Fly** is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great. |
+| https://www.freehostia.com/                              | **Freehostia** is free lifetime hosting with 10 GB disk space, unmetered bandwidth, and supports hosting of your own domain. It operates on a Linux OS, uses cPanel, and ensures an ad-free hosting environment. |
+
 
 [⬆ back to top](#table-of-contents)
 
@@ -143,6 +145,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.codingninjas.com
 | https://lab.reaal.me/jsrobot/       |
 | https://divize.io/challenges       |
+| https://www.geeksforgeeks.org/       |
 
 [⬆ back to top](#table-of-contents)
 
