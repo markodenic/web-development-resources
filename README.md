@@ -67,6 +67,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
 | https://railway.app/                          | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.|
 | https://fly.io/                               | **Fly** is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great. |
+| https://fleek.co/                             | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers. |
 
 [⬆ back to top](#table-of-contents)
 
