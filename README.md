@@ -16,36 +16,38 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Table of Contents
 
-- [Hosting](#hosting)
-- [Learning Platforms](#learning-platforms)
-- [Coding Challenge Platforms](#coding-challenge-platforms)
-- [Freelancing platforms](#freelancing-platforms)
-- [Remote Jobs](#remote-jobs)
-- [Photos](#photos)
-- [Videos](#videos)
-- [Illustrations](#illustrations)
-- [Icons](#icons)
-- [Fonts](#fonts)
-- [Youtube Channels](#youtube-channels)
-- [Podcasts](#podcasts)
-- [Code Editors](#code-editors)
-- [Color Palettes](#color-palettes)
-- [UI Inspiration](#ui-inspiration)
-- [Docs](#docs)
-- [Animation Libraries](#animation-libraries)
-- [Charts](#charts)
-- [Chrome Extensions](#chrome-extensions)
-- [Website Optimization Tools](#website-optimization-tools)
-- [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
-- [Newsletters](#newsletters)
-- [CSS Generators](#css-generators)
-- [CSS Games 🎮](#css-games)
-- [Online Tools](#online-tools)
-- [UI Components](#ui-components)
-- [Vue UI libraries](#vue-ui-libraries)
-- [React UI libraries](#react-ui-libraries)
-- [Angular UI libraries](#angular-ui-libraries)
-- [Others](#others)
+- [Awesome Web Development Resources ](#awesome-web-development-resources-)
+  - [Table of Contents](#table-of-contents)
+  - [Hosting:](#hosting)
+  - [Learning Platforms:](#learning-platforms)
+  - [Coding Challenge Platforms:](#coding-challenge-platforms)
+  - [Freelancing platforms:](#freelancing-platforms)
+  - [Remote Jobs:](#remote-jobs)
+  - [Photos:](#photos)
+  - [Videos:](#videos)
+  - [Illustrations:](#illustrations)
+  - [Icons:](#icons)
+  - [Fonts:](#fonts)
+  - [Youtube Channels:](#youtube-channels)
+  - [Podcasts:](#podcasts)
+  - [Code Editors:](#code-editors)
+  - [Color Palettes:](#color-palettes)
+  - [UI Inspiration:](#ui-inspiration)
+  - [Docs:](#docs)
+  - [Animation Libraries:](#animation-libraries)
+  - [Charts:](#charts)
+  - [Chrome Extensions:](#chrome-extensions)
+  - [Website Optimization Tools:](#website-optimization-tools)
+  - [HTML/CSS/JavaScript templates:](#htmlcssjavascript-templates)
+  - [Newsletters:](#newsletters)
+  - [CSS Generators:](#css-generators)
+  - [CSS Games:](#css-games)
+  - [Online Tools:](#online-tools)
+  - [UI Components:](#ui-components)
+  - [Vue UI libraries:](#vue-ui-libraries)
+  - [React UI libraries:](#react-ui-libraries)
+  - [Angular UI libraries:](#angular-ui-libraries)
+  - [Others:](#others)
 
 ## Hosting:
 
@@ -351,7 +353,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)                     |
 | [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
-| [Corey Schafer](https://www.youtube.com/@coreyms)         |
+| [Corey Schafer](https://www.youtube.com/@coreyms)                             |
+| [Code with Harry](https://www.youtube.com/@CodeWithHarry)                     |
 
 [⬆ back to top](#table-of-contents)
 
