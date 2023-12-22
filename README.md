@@ -164,6 +164,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.truelancer.com |
 | https://gun.io             |
 | https://www.refrens.com    |
+| https://dailyremote.com/?utm_source=freelancinghacks&utm_medium=blog  |
 
 [⬆ back to top](#table-of-contents)
 
