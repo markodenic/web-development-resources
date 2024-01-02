@@ -603,6 +603,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                 |
 | [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
 | [tablebackend.com](https://tablebackend.com/)                                    | A backend for your simple projects using oowerful canvas-based data grid for handling millions of rows.      |
+[ [Markdown Tools(https://markdowntools.com)                                    | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                  |
 
 [⬆ back to top](#table-of-contents)
 
