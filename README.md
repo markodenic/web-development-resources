@@ -350,7 +350,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)                     |
 | [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
-| [Corey Schafer](https://www.youtube.com/@coreyms)         |
+| [Corey Schafer](https://www.youtube.com/@coreyms)                             |
+| [Tech With Tim](https://www.youtube.com/@TechWithTim)                         |
 
 [⬆ back to top](#table-of-contents)
 
