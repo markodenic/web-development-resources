@@ -352,6 +352,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 | [Corey Schafer](https://www.youtube.com/@coreyms)                             |
 | [Tech With Tim](https://www.youtube.com/@TechWithTim)                         |
+| [ForrestKnight](https://www.youtube.com/@fknight)                             |
 
 [⬆ back to top](#table-of-contents)
 
