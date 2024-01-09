@@ -391,6 +391,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Emacs](https://www.gnu.org/software/emacs/) |
 | [Neovim](https://neovim.io/)                 |
 | [Fleet](https://www.jetbrains.com/fleet/)    |
+| [CodeLobster](https://codelobster.com/)    |
 
 [⬆ back to top](#table-of-contents)
 
