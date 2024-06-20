@@ -145,6 +145,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.codingninjas.com
 | https://lab.reaal.me/jsrobot/       |
 | https://divize.io/challenges       |
+| https://www.interviewbit.com/      |
 
 [⬆ back to top](#table-of-contents)
 
