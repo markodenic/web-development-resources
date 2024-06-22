@@ -171,6 +171,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                              |
 | -------------------------------      |
+| https://www.realworkfromanywhere.com |
+| https://www.moaijobs.com/location/remote-ai-jobs |
 | https://workremote.cc/               |
 | https://www.showwcase.com/jobs       |
 | https://www.remotefrontendjobs.com/  |
