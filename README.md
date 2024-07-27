@@ -656,17 +656,19 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Others:
 
-| Website                                                         | Description                                                                                        |
-| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [MDB: Markdwon Badges](https://mdb.pushkaryadav.in/)            | Generate amazing svg markdown badges within few clicks                                             |
-| [Markdown Preview](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS.                                             |
-| [JavaScript Quiz](https://javascriptquiz.com)                   | JavaScript Quiz - Check your knowledge by having fun.                                              |
-| [CookieBubble](https://cookiebubble.netlify.app)                | The easy way to inform users that your website is using cookies.                                   |
-| [Developer Updates](https://www.developerupdates.com)           | Keeps you updated one everything going on in the software developement world                       |
-| [Boxy SVG Editor](https://boxy-svg.com/)                        | SVG Editing Tool - Here you can easily edit and save any SVG file                                  |
-| [Cssrepo](https://cssrepo.com/)                                 | A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
-| [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                              |
-| [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
+| Website                                                         | Description                                                                                                            |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [MDB: Markdwon Badges](https://mdb.pushkaryadav.in/)            | Generate amazing svg markdown badges within few clicks                                                                 |
+| [Markdown Preview](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS.                                                                 |
+| [JavaScript Quiz](https://javascriptquiz.com)                   | JavaScript Quiz - Check your knowledge by having fun.                                                                  |
+| [CookieBubble](https://cookiebubble.netlify.app)                | The easy way to inform users that your website is using cookies.                                                       |
+| [Developer Updates](https://www.developerupdates.com)           | Keeps you updated one everything going on in the software developement world                                           |
+| [Boxy SVG Editor](https://boxy-svg.com/)                        | SVG Editing Tool - Here you can easily edit and save any SVG file                                                      |
+| [Cssrepo](https://cssrepo.com/)                                 | A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS                     |
+| [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                                                  |
+| [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                                      |
+| [ApexToWWW](https://www.apextowww.com/)                         | Redirect your Apex (aka naked) domain to www-subdomain. Supporting both HTTP and HTTPS, HTTP/3 and both IPv4 and IPv6  |
+
 
 [⬆ back to top](#table-of-contents)
 
