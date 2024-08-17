@@ -16,36 +16,38 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Table of Contents
 
-- [Hosting](#hosting)
-- [Learning Platforms](#learning-platforms)
-- [Coding Challenge Platforms](#coding-challenge-platforms)
-- [Freelancing platforms](#freelancing-platforms)
-- [Remote Jobs](#remote-jobs)
-- [Photos](#photos)
-- [Videos](#videos)
-- [Illustrations](#illustrations)
-- [Icons](#icons)
-- [Fonts](#fonts)
-- [Youtube Channels](#youtube-channels)
-- [Podcasts](#podcasts)
-- [Code Editors](#code-editors)
-- [Color Palettes](#color-palettes)
-- [UI Inspiration](#ui-inspiration)
-- [Docs](#docs)
-- [Animation Libraries](#animation-libraries)
-- [Charts](#charts)
-- [Chrome Extensions](#chrome-extensions)
-- [Website Optimization Tools](#website-optimization-tools)
-- [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
-- [Newsletters](#newsletters)
-- [CSS Generators](#css-generators)
-- [CSS Games 🎮](#css-games)
-- [Online Tools](#online-tools)
-- [UI Components](#ui-components)
-- [Vue UI libraries](#vue-ui-libraries)
-- [React UI libraries](#react-ui-libraries)
-- [Angular UI libraries](#angular-ui-libraries)
-- [Others](#others)
+- [Awesome Web Development Resources ](#awesome-web-development-resources-)
+  - [Table of Contents](#table-of-contents)
+  - [Hosting:](#hosting)
+  - [Learning Platforms:](#learning-platforms)
+  - [Coding Challenge Platforms:](#coding-challenge-platforms)
+  - [Freelancing platforms:](#freelancing-platforms)
+  - [Remote Jobs:](#remote-jobs)
+  - [Photos:](#photos)
+  - [Videos:](#videos)
+  - [Illustrations:](#illustrations)
+  - [Icons:](#icons)
+  - [Fonts:](#fonts)
+  - [Youtube Channels:](#youtube-channels)
+  - [Podcasts:](#podcasts)
+  - [Code Editors:](#code-editors)
+  - [Color Palettes:](#color-palettes)
+  - [UI Inspiration:](#ui-inspiration)
+  - [Docs:](#docs)
+  - [Animation Libraries:](#animation-libraries)
+  - [Charts:](#charts)
+  - [Chrome Extensions:](#chrome-extensions)
+  - [Website Optimization Tools:](#website-optimization-tools)
+  - [HTML/CSS/JavaScript templates:](#htmlcssjavascript-templates)
+  - [Newsletters:](#newsletters)
+  - [CSS Generators:](#css-generators)
+  - [CSS Games:](#css-games)
+  - [Online Tools:](#online-tools)
+  - [UI Components:](#ui-components)
+  - [Vue UI libraries:](#vue-ui-libraries)
+  - [React UI libraries:](#react-ui-libraries)
+  - [Angular UI libraries:](#angular-ui-libraries)
+  - [Others:](#others)
 
 ## Hosting:
 
@@ -67,6 +69,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://supabase.com                          | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
 | https://railway.app/                          | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.|
 | https://fly.io/                               | **Fly** is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great. |
+| https://kinsta.com/static-site-hosting/       | **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare.  |
 | https://fleek.co/                             | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers. |
 
 [⬆ back to top](#table-of-contents)
@@ -197,6 +200,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://AiJobsTracker.com/remote     |
 | https://www.remote.io                |
 | https://web3.career/remote-jobs      |
+| https://okjob.io/remote-4-day-work-week/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -350,7 +354,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)                     |
 | [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
-| [Corey Schafer](https://www.youtube.com/@coreyms)         |
+| [Corey Schafer](https://www.youtube.com/@coreyms)                             |
+| [Code with Harry](https://www.youtube.com/@CodeWithHarry)                     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -603,7 +608,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                 |
 | [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
 | [tablebackend.com](https://tablebackend.com/)                                    | A backend for your simple projects using oowerful canvas-based data grid for handling millions of rows.      |
-[ [Markdown Tools(https://markdowntools.com)                                    | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                  |
+| [Markdown Tools](https://markdowntools.com)                                      | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                  |
+| [OnlineInterview.io](https://onlineinterview.io/)                                | Free interviewing platform with shared code editor, drawing board and video chat.                            |
 
 [⬆ back to top](#table-of-contents)
 
@@ -667,7 +673,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Cssrepo](https://cssrepo.com/)                                 | A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
 | [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                              |
 | [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
-| [PerfectBugReport.io](https://perfectbugreport.io/)                               | A simple checklist of the essential items to include in bug reports.  |
+| [PerfectBugReport.io](https://perfectbugreport.io/)             | A simple checklist of the essential items to include in bug reports.                               |
+| [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)    | an interactive cheatsheet of Vue, Vue Router, and Pinia.                                           |
 
 [⬆ back to top](#table-of-contents)
 
