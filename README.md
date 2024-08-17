@@ -200,6 +200,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://AiJobsTracker.com/remote     |
 | https://www.remote.io                |
 | https://web3.career/remote-jobs      |
+| https://okjob.io/remote-4-day-work-week/ |
 
 [⬆ back to top](#table-of-contents)
 
