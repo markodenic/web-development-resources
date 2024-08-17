@@ -424,7 +424,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                      |
 |------------------------------|
-| https://landingexam.com      |
+| https://websitevice.com/     |
 | https://httpster.net         |
 | https://www.awwwards.com     |
 | https://dribbble.com         |
