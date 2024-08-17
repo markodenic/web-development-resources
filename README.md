@@ -623,6 +623,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                 |
 | [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                          |
 | [shadcn/ui](https://ui.shadcn.com/)      | Open-Source UI components for React projects, that you can easily copy and paste into your apps. |
+| [Headless UI](https://headlessui.com/)   | Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS.      |
 
 [⬆ back to top](#table-of-contents)
 
