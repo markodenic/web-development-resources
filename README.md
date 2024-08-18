@@ -352,6 +352,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 | [Corey Schafer](https://www.youtube.com/@coreyms)                             |
 | [Code with Harry](https://www.youtube.com/@CodeWithHarry)                     |
+| [Edureka](https://www.youtube.com/@edurekaIN)                                 |
+| [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)                  |
 
 [⬆ back to top](#table-of-contents)
 
