@@ -170,35 +170,36 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Remote Jobs:
 
-| Website                              |
-|--------------------------------------|
-| https://workremote.cc/               |
-| https://www.showwcase.com/jobs       |
-| https://www.remotefrontendjobs.com/  |
-| https://jobboardsearch.com           |
-| https://www.flexjobs.com             |
-| https://remote.co/remote-jobs        |
-| https://justremote.co                |
-| https://weworkremotely.com           |
-| https://remoteok.io                  |
-| https://himalayas.app                |
-| https://jobspresso.co                |
-| https://4dayweek.io                  |
-| https://www.hiretechladies.com       |
-| https://nowhiteboard.org             |
-| https://www.coolstartupjobs.com      |
-| https://wellfound.com/               |
-| https://www.smartremotejobs.com      |
-| https://www.remotehub.com            |
-| https://startup.jobs/remote-jobs     |
-| https://jobsinjs.com                 | 
-| https://echojobs.io                  |
-| https://AiJobsTracker.com/remote     |
-| https://www.remote.io                |
-| https://web3.career/remote-jobs      |
-| https://okjob.io                     |
-| https://www.realworkfromanywhere.com |   
-| https://www.moaijobs.com             |          
+| Website                                                |
+|--------------------------------------------------------|
+| https://workremote.cc/                                 |
+| https://www.showwcase.com/jobs                         |
+| https://www.remotefrontendjobs.com/                    |
+| https://jobboardsearch.com                             |
+| https://www.flexjobs.com                               |
+| https://remote.co/remote-jobs                          |
+| https://justremote.co                                  |
+| https://weworkremotely.com                             |
+| https://remoteok.io                                    |
+| https://himalayas.app                                  |
+| https://jobspresso.co                                  |
+| https://4dayweek.io                                    |
+| https://www.hiretechladies.com                         |
+| https://nowhiteboard.org                               |
+| https://www.coolstartupjobs.com                        |
+| https://wellfound.com/                                 |
+| https://www.smartremotejobs.com                        |
+| https://www.remotehub.com                              |
+| https://startup.jobs/remote-jobs                       |
+| https://jobsinjs.com                                   | 
+| https://echojobs.io                                    |
+| https://AiJobsTracker.com/remote                       |
+| https://www.remote.io                                  |
+| https://web3.career/remote-jobs                        |
+| https://okjob.io                                       |
+| https://www.realworkfromanywhere.com                   |   
+| https://www.moaijobs.com                               |
+| https://www.christiantechjobs.io/christian-remote-jobs |          
 
 [⬆ back to top](#table-of-contents)
 
