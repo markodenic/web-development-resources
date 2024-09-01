@@ -172,6 +172,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                              |
 |--------------------------------------|
+| https://jobscollider.com/remote-jobs |
 | https://workremote.cc/               |
 | https://www.showwcase.com/jobs       |
 | https://www.remotefrontendjobs.com/  |
@@ -188,10 +189,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://nowhiteboard.org             |
 | https://www.coolstartupjobs.com      |
 | https://wellfound.com/               |
-| https://www.smartremotejobs.com      |
 | https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
-| https://jobsinjs.com                 | 
 | https://echojobs.io                  |
 | https://AiJobsTracker.com/remote     |
 | https://www.remote.io                |
