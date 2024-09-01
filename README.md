@@ -188,7 +188,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://nowhiteboard.org             |
 | https://www.coolstartupjobs.com      |
 | https://wellfound.com/               |
-| https://www.smartremotejobs.com      |
 | https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
 | https://jobsinjs.com                 | 
