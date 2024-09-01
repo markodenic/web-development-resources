@@ -190,7 +190,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://wellfound.com/               |
 | https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
-| https://jobsinjs.com                 | 
 | https://echojobs.io                  |
 | https://AiJobsTracker.com/remote     |
 | https://www.remote.io                |
