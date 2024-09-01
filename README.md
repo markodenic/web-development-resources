@@ -172,6 +172,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                              |
 |--------------------------------------|
+| https://jobscollider.com/remote-jobs |
 | https://workremote.cc/               |
 | https://www.showwcase.com/jobs       |
 | https://www.remotefrontendjobs.com/  |
