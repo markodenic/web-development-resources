@@ -412,7 +412,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://uigradients.com       |
 | https://www.colorion.co       |
 | https://www.colorhub.app      |
-| https://www.canva.com/colors/ |
 | https://www.gradientos.app    |
 | https://www.eggradients.com   |
 | https://cssgradient.io        |
