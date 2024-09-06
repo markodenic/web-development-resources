@@ -257,6 +257,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.artify.co/illustrations-figma  |
 | https://www.artify.co/vector-illustrations |
 | https://cocomaterial.com/                  |
+| https://www.openpeeps.com/                 |
+| https://www.overflow.design/ec.html        |
 
 [⬆ back to top](#table-of-contents)
 
