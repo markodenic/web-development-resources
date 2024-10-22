@@ -402,6 +402,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 |-------------------------------|
 | https://coolors.co            |
 | https://colorhunt.co          |
+| https://chromapalette.in/     |
 | https://paletton.com          |
 | https://color-hex.com         |
 | https://mycolor.space         |
