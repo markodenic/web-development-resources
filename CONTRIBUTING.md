@@ -12,4 +12,6 @@ Thank you for contributing to our awesome resources.
 
 - The resource **must** be completely free or to have a free tier.
 
+- If a category consists of 10 or more resources, don't submit any new resources to this category. Consider contributing to other categories instead.
+
 ## Thank you! ❤️
