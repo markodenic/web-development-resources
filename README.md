@@ -197,7 +197,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://web3.career/remote-jobs      |
 | https://okjob.io                     |
 | https://www.realworkfromanywhere.com |   
-| https://www.moaijobs.com             |          
+| https://www.moaijobs.com    
+| https://foundthejob.com/             |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -216,6 +217,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.pxfuel.com           |
 | https://www.splitshire.com       |
 | https://freeforcommercialuse.net |
+| https://foundthejob.com          |
 
 [⬆ back to top](#table-of-contents)
 
