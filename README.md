@@ -143,7 +143,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://edabit.com                 |
 | https://www.jschallenger.com       |
 | https://www.codingninjas.com       |
-| https://lab.reaal.me/jsrobot/      |
 | https://divize.io/challenges       |
 
 [⬆ back to top](#table-of-contents)
@@ -413,7 +412,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.eggradients.com   |
 | https://cssgradient.io        |
 | https://www.0to255.com        |
-| https://branition.com/colors  |
 | https://materialui.co/colors/ |
 
 [⬆ back to top](#table-of-contents)
