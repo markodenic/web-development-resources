@@ -609,6 +609,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 |------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
 | [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                       |
+| [FlyonUI](https://flyonui.com/)          | The Easiest Components Library For Tailwind CSS.                                                    |
 | [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                  |
 | [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                           |
 | [shadcn/ui](https://ui.shadcn.com/)      | Open-Source UI components for React projects, that you can easily copy and paste into your apps.    |
