@@ -583,6 +583,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CSS Diner](https://flukeout.github.io/)                                              | Fun and interactive way to learn how to select elements on a web page using CSS.                                                                                                      |
 | [Guess CSS](https://www.guess-css.app/)                                               | Another Fun and interactive way to learn CSS.                                                                                                                                         |
 | [CSS Speedrun](https://css-speedrun.netlify.app/)                                     | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                                                             |
+| [Anchoreum](https://anchoreum.com/)                                                   | A game for learning CSS anchor positioning.                                                                                                                                           |
 
 [⬆ back to top](#table-of-contents)
 
