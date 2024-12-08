@@ -197,6 +197,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://okjob.io                     |
 | https://www.realworkfromanywhere.com |   
 | https://www.moaijobs.com             |          
+| https://startups.gallery/            |
 
 [⬆ back to top](#table-of-contents)
 
