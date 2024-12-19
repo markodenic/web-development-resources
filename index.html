@@ -6,21 +6,82 @@
     <meta charset="UTF-8">
     <title>Free Web Development Resources</title>
     <meta name="description" content="This is a list of awesome web development resources. Add more!">
-    <link rel="canonical" href="https://web-dev-resources.com/" />
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+    <link rel="canonical" href="https://web-dev-resources.com/"/>
+
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            text-align: center;
+            font-family: sans-serif;
+            font-size: 1.2em;
+            line-height: 1.2em;
+            color: #333;
+        }
+
+        header {
+            padding: 20px;
+        }
+
+        main {
+            flex: 1;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            line-height: 1.5em;
+        }
+
+        footer {
+            padding: 20px;
+        }
+
+        h1 {
+            margin-bottom: 15px;
+            line-height: 1.4em;
+            background-image: linear-gradient(45deg, #ff0a78, #43f);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        a {
+            color: #333;
+        }
+    </style>
 </head>
 <body>
-<noscript>
-    This page requires JavaScript to work, please enable it or just read it on <a href="https://github.com/markodenic/web-development-resources">Here</a>.
-</noscript>
-<div id="app">Loading...</div>
-<script>
-    window.$docsify = {
-        name: 'Web Development Resources',
-        repo: 'markodenic/web-development-resources',
-    }
-</script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<header>
+    <h1>
+        Web Development Resources
+    </h1>
 
+    <p>
+        This is a list of web developments resources with a free tier.
+    </p>
+</header>
+
+<main>
+    <p>
+        Currently more than 200 resources listed.
+    </p>
+
+    <a href="/list">
+        Take me to the list!
+    </a>
+</main>
+
+<footer>
+    Made by <a href="https://markodenic.com">Marko</a> and contributors. <br>
+    <a href="https://javascriptquiz.com">JavaScript Quiz</a> | <a href="https://freecodetools.org">Free Code Tools</a> |
+    <a href="https://tech-blogs.dev">Tech Blogs</a>
+</footer>
 </body>
 </html>
