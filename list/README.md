@@ -112,6 +112,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://code.org/                              |
 | https://www.interviewbit.com/                  |
 | https://css-tricks.com/                        |
+| https://labex.io/                              |
 
 [⬆ back to top](#table-of-contents)
 
@@ -145,6 +146,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.jschallenger.com       |
 | https://www.codingninjas.com       |
 | https://divize.io/challenges       |
+| https://labex.io/interview-questions |
 
 [⬆ back to top](#table-of-contents)
 
