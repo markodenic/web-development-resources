@@ -350,7 +350,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 | [Corey Schafer](https://www.youtube.com/@coreyms)                             |
-| [Code with Harry](https://www.youtube.com/@CodeWithHarry)                     |
+| [Code with Harry](https://www.youtube.com/@CodeWithHarry)  
+| [ColorCode](https://www.youtube.com/@ColorCode-io)                            |
 
 [⬆ back to top](#table-of-contents)
 
