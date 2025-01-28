@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -12,6 +12,7 @@
         * {
             padding: 0;
             margin: 0;
+            box-sizing: border-box;
         }
 
         body {
@@ -21,36 +22,89 @@
             flex-direction: column;
             min-height: 100vh;
             text-align: center;
-            font-family: sans-serif;
-            font-size: 1.2em;
-            line-height: 1.2em;
-            color: #333;
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f4f8;
         }
 
         header {
             padding: 20px;
         }
 
+        h1 {
+            margin-bottom: 15px;
+            font-size: 2.5em;
+            background-image: linear-gradient(45deg, #ff0a78, #43f);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        p {
+            color: #555;
+            margin-bottom: 20px;
+        }
+
         main {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
             padding: 20px;
-            line-height: 1.5em;
+        }
+
+        .card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            padding: 20px;
+            width: 250px;
+            text-align: center;
+            transition: transform 0.2s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card h2 {
+            font-size: 2em;
+            margin-bottom: 10px;
+            color: #ff0a78;
+        }
+
+        .card p {
+            color: #666;
+        }
+
+        .cta-button {
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            text-decoration: none;
+            margin-top: 20px;
+            transition: background-color 0.3s;
+        }
+
+        .cta-button:hover {
+            background-color: #3bc411;
         }
 
         footer {
             padding: 20px;
-        }
-
-        h1 {
-            margin-bottom: 15px;
-            line-height: 1.4em;
-            background-image: linear-gradient(45deg, #ff0a78, #43f);
-            background-clip: text;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+            margin-top: auto;
+            color: #777;
         }
 
         a {
             color: #333;
+            text-decoration: none;
+        }
+
+        .footer-links {
+            margin-top: 10px;
         }
     </style>
 </head>
@@ -59,26 +113,36 @@
     <h1>
         Web Development Resources
     </h1>
-
     <p>
-        This is a list of web developments resources with a free tier.
+        This is a list of web development resources with a free tier.
     </p>
 </header>
 
 <main>
-    <p>
-        Currently more than 200 resources listed.
-    </p>
-
-    <a href="/list/">
-        Take me to the list!
-    </a>
+    <div class="card">
+        <h2>200</h2>
+        <p>Resources Listed</p>
+        <p>And growing every day</p>
+    </div>
+    <div class="card">
+        <h2>Free Code Tools</h2>
+        <p>Premium tools at no cost</p>
+    </div>
+    <div class="card">
+        <h2>Tech Blogs</h2>
+        <p>Latest tech insights</p>
+    </div>
 </main>
+
+<a class="cta-button" href="/list/">Take me to the list!</a>
 
 <footer>
     Made by <a href="https://markodenic.com">Marko</a> and contributors. <br>
-    <a href="https://javascriptquiz.com">JavaScript Quiz</a> | <a href="https://freecodetools.org">Free Code Tools</a> |
-    <a href="https://tech-blogs.dev">Tech Blogs</a>
+    <div class="footer-links">
+        <a href="https://javascriptquiz.com">JavaScript Quiz</a> | 
+        <a href="https://freecodetools.org">Free Code Tools</a> | 
+        <a href="https://tech-blogs.dev">Tech Blogs</a>
+    </div>
 </footer>
 </body>
 </html>
