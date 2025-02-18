@@ -80,6 +80,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | Website                                        |
 |------------------------------------------------|
 | https://www.freecodecamp.org/                  |
+| https://university.alchemy.com/                |
+| https://www.cyfrin.io/updraft                  |
 | https://www.lambdatest.com/learning-hub/       |
 | https://codecademy.com                         |
 | https://javascript30.com                       |
