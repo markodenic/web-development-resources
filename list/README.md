@@ -515,6 +515,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [web.dev](https://web.dev/measure/)                     |
 | [Optimizilla](https://imagecompressor.com/)             |
 | [SEOTester](https://seotest.me/)                        |
+| [CORS-Tester](https://cors-error.dev/cors-tester/)      |
 
 [⬆ back to top](#table-of-contents)
 
