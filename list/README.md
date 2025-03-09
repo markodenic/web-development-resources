@@ -414,6 +414,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://cssgradient.io        |
 | https://www.0to255.com        |
 | https://materialui.co/colors/ |
+| https://uicolors.app          |
 
 [⬆ back to top](#table-of-contents)
 
