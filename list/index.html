@@ -8,12 +8,168 @@
     <meta name="description" content="This is a list of awesome web development resources. Add more!">
     <link rel="canonical" href="https://web-dev-resources.com/" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+    <style>
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 90px;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: none;
+            background: #000000;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.6s ease;
+            z-index: 1000;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+            transform-style: preserve-3d;
+            perspective: 1000px;
+        }
+        .theme-toggle svg {
+            width: 24px;
+            height: 24px;
+            fill: #ffffff;
+            transition: all 0.8s ease;
+            transform: rotate(0deg) scale(1);
+        }
+        .dark-mode {
+            background-color: #1a1a1a;
+            color: #918f8f;
+        }
+        .dark-mode .theme-toggle {
+            background: #ffffff;
+            box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
+            transform: rotateY(180deg);
+        }
+        .dark-mode .theme-toggle svg {
+            fill: #000000;
+        }
+        /* Improve heading visibility in dark mode */
+        .dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6 {
+            color: #FF8C00 !important;
+            text-shadow: 0 0 3px rgba(255, 140, 0, 0.3);
+            font-weight: 700;
+            letter-spacing: 0.5px;
+        }
+        .dark-mode h1, .markdown-section strong  {
+            color: #16cd7a !important;
+        }
+        .dark-mode .anchor span{
+            color: #f75106 !important;
+        }
+        
+        
+        /* Improve link visibility in dark mode */
+        .dark-mode a:not(.anchor),.markdown-section strong {
+            color: #5af !important;
+            text-decoration: none;
+        }
+        .dark-mode a:hover {
+            text-decoration: underline;
+            opacity: 0.9;
+        }
+        /* Improve table visibility in dark mode */
+        .dark-mode table {
+            background-color: #2a2a2a;
+            border-color: #444;
+        }
+        .dark-mode th, .dark-mode td {
+            border-color: #444;
+        }
+        .dark-mode th {
+            background-color: #333;
+            color: #fff;
+        }
+        /* Improve code block visibility */
+        .dark-mode pre, .dark-mode code {
+            background-color: #2d2d2d !important;
+            color: #eee !important;
+        }
+        /* Improve text visibility in dark mode */
+        .dark-mode p, .dark-mode li, .dark-mode div {
+            color: #ffffff !important;
+        }
+        .dark-mode .content {
+            color: #7d7a7a !important;
+        }
+        /* Add background contrast to important content */
+        .dark-mode .markdown-section p {
+            background-color: rgba(40, 40, 40, 0.6);
+            padding: 4px 8px;
+            border-radius: 4px;
+            margin: 8px 0;
+        }
+        .dark-mode .markdown-section li {
+            margin: 8px 0;
+            line-height: 1.6;
+        }
+        
+        
+    </style>
 </head>
 <body>
+<button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
+    <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <circle cx="12" cy="12" r="5" fill="#ffffff" />
+        <path stroke="#ffffff" stroke-width="2" stroke-linecap="round" d="M12 2v3M12 19v3M2 12h3M19 12h3M4.93 4.93l2.12 2.12M16.95 16.95l2.12 2.12M4.93 19.07l2.12-2.12M16.95 7.05l2.12-2.12" />
+    </svg>
+</button>
 <noscript>
     This page requires JavaScript to work, please enable it or just read it on <a href="https://github.com/markodenic/web-development-resources">Here</a>.
 </noscript>
-<a href="/">Home</a>
+<a href="/" class="home-button" aria-label="Go to home page">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+        <path class="home-icon-path" fill="#ffffff" d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
+    </svg>
+</a>
+
+<style>
+    .home-button {
+        position: fixed;
+        top: 20px;
+        right: 150px;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: none;
+        background: #000000;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.6s ease;
+        z-index: 1000;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+        overflow: hidden;
+        transform-style: preserve-3d;
+        perspective: 1000px;
+    }
+    .home-button svg {
+        width: 24px;
+        height: 24px;
+        transition: all 0.4s ease;
+    }
+    .home-button .home-icon-path {
+        transition: fill 0.6s ease;
+    }
+    .home-button:hover {
+        transform: scale(1.1);
+    }
+    .home-button:hover svg {
+        transform: scale(1.2);
+    }
+    .dark-mode .home-button {
+        background: #ffffff;
+        box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
+    }
+    .dark-mode .home-button svg {
+        fill: #000000;
+    }
+</style>
 <div id="app">Loading...</div>
 <script>
     window.$docsify = {
@@ -22,6 +178,141 @@
     }
 </script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-
+<script>
+    function toggleTheme() {
+        const body = document.body;
+        const button = document.querySelector('.theme-toggle');
+        const sunIcon = button.querySelector('svg');
+        const homeIconPath = document.querySelector('.home-icon-path');
+        const homeButton = document.querySelector('.home-button');
+        
+        body.classList.toggle('dark-mode');
+        const isDarkMode = body.classList.contains('dark-mode');
+        
+        // Simple transition effects
+        sunIcon.style.opacity = '0';
+        sunIcon.style.transform = isDarkMode ? 'rotate(180deg) scale(0.5)' : 'rotate(-180deg) scale(0.5)';
+        
+        // Change button background with transition
+        button.style.transition = 'all 0.3s ease';
+        button.style.background = isDarkMode ? '#ffffff' : '#000000';
+        
+        // Update home button and icon with transition
+        if (homeButton) {
+            homeButton.style.transition = 'all 0.6s ease';
+            homeButton.style.background = isDarkMode ? '#ffffff' : '#000000';
+            homeButton.style.boxShadow = isDarkMode ? 
+                '0 4px 15px rgba(255, 255, 255, 0.3)' : 
+                '0 4px 15px rgba(0, 0, 0, 0.3)';
+        }
+        
+        // Update home icon color with transition
+        if (homeIconPath) {
+            // Apply transition before changing fill to ensure smooth color change
+            homeIconPath.style.transition = 'fill 0.6s ease';
+            homeIconPath.setAttribute('fill', isDarkMode ? '#000000' : '#ffffff');
+        }
+        
+        // Create a ripple effect
+        const ripple = document.createElement('div');
+        ripple.style.position = 'absolute';
+        ripple.style.width = '10px';
+        ripple.style.height = '10px';
+        ripple.style.borderRadius = '50%';
+        ripple.style.backgroundColor = 'rgba(255, 255, 255, 0.7)';
+        ripple.style.transform = 'scale(1)';
+        ripple.style.opacity = '1';
+        ripple.style.transition = 'all 0.9s cubic-bezier(0.4, 0, 0.2, 1)';
+        button.appendChild(ripple);
+        
+        // Animate the ripple
+        setTimeout(() => {
+            ripple.style.transform = 'scale(15)';
+            ripple.style.opacity = '0';
+            setTimeout(() => ripple.remove(), 900);
+        }, 10);
+        
+        setTimeout(() => {
+            if (isDarkMode) {
+                // Simple black moon icon
+                sunIcon.innerHTML = `
+                    <path fill="#000000" d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-3.03 0-5.5-2.47-5.5-5.5 0-1.82.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z" transform="scale(-1, 1) translate(-24, 0)"/>
+                `;
+            } else {
+                // Simple white sun icon
+                sunIcon.innerHTML = `
+                    <circle cx="12" cy="12" r="5" fill="#ffffff" />
+                    <path stroke="#ffffff" stroke-width="2" stroke-linecap="round" d="M12 2v3M12 19v3M2 12h3M19 12h3M4.93 4.93l2.12 2.12M16.95 16.95l2.12 2.12M4.93 19.07l2.12-2.12M16.95 7.05l2.12-2.12" />
+                `;
+            }
+            
+            // Simple animation for icon reappearance
+            setTimeout(() => {
+                sunIcon.style.opacity = '1';
+                sunIcon.style.transform = 'rotate(0deg) scale(1)';
+            }, 50);
+        }, 200);
+        
+        // Save preference
+        localStorage.setItem('darkMode', isDarkMode);
+    }
+    
+    // No JavaScript-based service styling - using CSS only
+    // The service styling is now handled by CSS classes in the stylesheet
+    
+    // Check for saved theme preference
+    window.addEventListener('load', () => {
+        const isDarkMode = localStorage.getItem('darkMode') === 'true';
+        const button = document.querySelector('.theme-toggle');
+        const sunIcon = document.querySelector('.theme-toggle svg');
+        const homeButton = document.querySelector('.home-button');
+        const homeIconPath = document.querySelector('.home-icon-path');
+        
+        if (isDarkMode) {
+            document.body.classList.add('dark-mode');
+            
+            // Apply black and white theme for theme toggle
+            button.style.background = '#ffffff';
+            button.style.boxShadow = '0 4px 15px rgba(255, 255, 255, 0.3)';
+            button.style.transform = 'rotateY(180deg)';
+            
+            // Update home button if it exists
+            if (homeButton) {
+                homeButton.style.background = '#ffffff';
+                homeButton.style.boxShadow = '0 4px 15px rgba(255, 255, 255, 0.3)';
+            }
+            
+            // Ensure home icon path is properly set
+            if (homeIconPath) {
+                homeIconPath.setAttribute('fill', '#000000');
+            }
+            
+            // Simple black moon icon
+            sunIcon.innerHTML = `
+                <path fill="#000000" d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-3.03 0-5.5-2.47-5.5-5.5 0-1.82.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z" transform="scale(-1, 1) translate(-24, 0)"/>
+            `;
+            
+            // Add a simple entrance animation
+            button.animate([
+                { transform: 'rotateY(180deg) scale(0.9)', opacity: 0.7 },
+                { transform: 'rotateY(180deg) scale(1)', opacity: 1 }
+            ], {
+                duration: 400,
+                easing: 'cubic-bezier(0.34, 1.56, 0.64, 1)'
+            });
+        } else {
+            // Ensure home icon path is properly set for light mode
+            if (homeIconPath) {
+                homeIconPath.setAttribute('fill', '#ffffff');
+            }
+        }
+    });
+    
+    // Apply styling when docsify finishes loading
+    document.addEventListener('DOMContentLoaded', () => {
+        // Dark mode styling is now handled by CSS classes
+        // No JavaScript-based styling needed
+    });
+</script>
 </body>
 </html>

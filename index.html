@@ -71,6 +71,12 @@
             margin-bottom: 10px;
             color: #ff0a78;
         }
+        
+        .dark-mode .card h2 {
+            color: #ff5a98;
+            text-shadow: 0 0 3px rgba(255, 90, 152, 0.5);
+            letter-spacing: 0.5px;
+        }
 
         .card p {
             color: #666;
@@ -106,9 +112,145 @@
         .footer-links {
             margin-top: 10px;
         }
+        
+        /* Dark mode styles */
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: none;
+            background: #000000;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.6s ease;
+            z-index: 1000;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+            transform-style: preserve-3d;
+            perspective: 1000px;
+        }
+        .theme-toggle svg {
+            width: 24px;
+            height: 24px;
+            fill: #ffffff;
+            transition: all 0.8s ease;
+            transform: rotate(0deg) scale(1);
+        }
+        .dark-mode {
+            background-color: #1a1a1a;
+            color: #fff;
+        }
+        .dark-mode .theme-toggle {
+            background: #ffffff;
+            box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
+            transform: rotateY(180deg);
+        }
+        .dark-mode .theme-toggle svg {
+            fill: #000000;
+        }
+        .dark-mode h1 {
+            background-image: linear-gradient(45deg, #ff5a98, #8af);
+            text-shadow: 0 0 3px rgba(255, 255, 255, 0.3);
+            font-weight: 700;
+        }
+        .dark-mode p {
+            color: #ffffff;
+            text-shadow: 0 0 1px rgba(255, 255, 255, 0.2);
+        }
+        .dark-mode .card {
+            background: #2a2a2a;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .dark-mode .card p {
+            color: #ffffff;
+            background-color: rgba(40, 40, 40, 0.6);
+            padding: 4px 8px;
+            border-radius: 4px;
+            margin: 8px 0;
+        }
+        .dark-mode footer {
+            color: #ffffff;
+            text-shadow: 0 0 1px rgba(255, 255, 255, 0.2);
+        }
+        .dark-mode a {
+            color: #5af;
+            text-decoration: none;
+        }
+        .dark-mode a:hover {
+            text-decoration: underline;
+            opacity: 0.9;
+        }
+        
+        .dark-mode .cta-button {
+            background-color: #444;
+            color: #ddd;
+        }
+        
+        .dark-mode .cta-button:hover {
+            background-color: #555;
+            color: #ffffff;
+        }
+        /* Enhanced styling for service names */
+        .dark-mode .netlify {
+            color: #00FFE0 !important;
+            font-weight: bold;
+            text-shadow: 0 0 4px rgba(0, 255, 224, 0.5);
+            background-color: rgba(0, 173, 159, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            display: inline-block;
+        }
+        .dark-mode .firebase {
+            color: #FFDD4A !important;
+            font-weight: bold;
+            text-shadow: 0 0 4px rgba(255, 221, 74, 0.5);
+            background-color: rgba(255, 202, 40, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            display: inline-block;
+        }
+        .dark-mode .aws {
+            color: #FFBB4A !important;
+            font-weight: bold;
+            text-shadow: 0 0 4px rgba(255, 187, 74, 0.5);
+            background-color: rgba(255, 153, 0, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            display: inline-block;
+        }
+        .dark-mode .github {
+            color: #8DF57A !important;
+            font-weight: bold;
+            text-shadow: 0 0 4px rgba(141, 245, 122, 0.5);
+            background-color: rgba(108, 198, 68, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            display: inline-block;
+        }
+        .dark-mode .vercel {
+            color: #7DBAFF !important;
+            font-weight: bold;
+            text-shadow: 0 0 4px rgba(125, 186, 255, 0.5);
+            background-color: rgba(95, 158, 249, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            display: inline-block;
+        }
     </style>
 </head>
 <body>
+<button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
+    <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <circle cx="12" cy="12" r="5" fill="#ffffff" />
+        <path stroke="#ffffff" stroke-width="2" stroke-linecap="round" d="M12 2v3M12 19v3M2 12h3M19 12h3M4.93 4.93l2.12 2.12M16.95 16.95l2.12 2.12M4.93 19.07l2.12-2.12M16.95 7.05l2.12-2.12" />
+    </svg>
+</button>
 <header>
     <h1>
         Web Development Resources
@@ -144,5 +286,95 @@
         <a href="https://tech-blogs.dev">Tech Blogs</a>
     </div>
 </footer>
+
+<script>
+    function toggleTheme() {
+        const body = document.body;
+        const button = document.querySelector('.theme-toggle');
+        const sunIcon = button.querySelector('svg');
+        
+        body.classList.toggle('dark-mode');
+        const isDarkMode = body.classList.contains('dark-mode');
+        
+        // Simple transition effects
+        sunIcon.style.opacity = '0';
+        sunIcon.style.transform = isDarkMode ? 'rotate(180deg) scale(0.5)' : 'rotate(-180deg) scale(0.5)';
+        
+        // Change button background with transition
+        button.style.transition = 'all 0.3s ease';
+        button.style.background = isDarkMode ? '#ffffff' : '#000000';
+        
+        // Create a ripple effect
+        const ripple = document.createElement('div');
+        ripple.style.position = 'absolute';
+        ripple.style.width = '10px';
+        ripple.style.height = '10px';
+        ripple.style.borderRadius = '50%';
+        ripple.style.backgroundColor = 'rgba(255, 255, 255, 0.7)';
+        ripple.style.transform = 'scale(1)';
+        ripple.style.opacity = '1';
+        ripple.style.transition = 'all 0.9s cubic-bezier(0.4, 0, 0.2, 1)';
+        button.appendChild(ripple);
+        
+        // Animate the ripple
+        setTimeout(() => {
+            ripple.style.transform = 'scale(15)';
+            ripple.style.opacity = '0';
+            setTimeout(() => ripple.remove(), 900);
+        }, 10);
+        
+        setTimeout(() => {
+            if (isDarkMode) {
+                // Simple black moon icon
+                sunIcon.innerHTML = `
+                    <path fill="#000000" d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-3.03 0-5.5-2.47-5.5-5.5 0-1.82.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z" transform="scale(-1, 1) translate(-24, 0)"/>
+                `;
+            } else {
+                // Simple white sun icon
+                sunIcon.innerHTML = `
+                    <circle cx="12" cy="12" r="5" fill="#ffffff" />
+                    <path stroke="#ffffff" stroke-width="2" stroke-linecap="round" d="M12 2v3M12 19v3M2 12h3M19 12h3M4.93 4.93l2.12 2.12M16.95 16.95l2.12 2.12M4.93 19.07l2.12-2.12M16.95 7.05l2.12-2.12" />
+                `;
+            }
+            
+            // Simple animation for icon reappearance
+            setTimeout(() => {
+                sunIcon.style.opacity = '1';
+                sunIcon.style.transform = 'rotate(0deg) scale(1)';
+            }, 50);
+        }, 200); // Reduced delay
+        
+        localStorage.setItem('darkMode', isDarkMode);
+    }
+    
+    // Check for saved theme preference
+    window.addEventListener('load', () => {
+        const isDarkMode = localStorage.getItem('darkMode') === 'true';
+        if (isDarkMode) {
+            document.body.classList.add('dark-mode');
+            const button = document.querySelector('.theme-toggle');
+            const sunIcon = document.querySelector('.theme-toggle svg');
+            
+            // Apply black and white theme
+            button.style.background = '#ffffff';
+            button.style.boxShadow = '0 4px 15px rgba(255, 255, 255, 0.3)';
+            button.style.transform = 'rotateY(180deg)';
+            
+            // Simple black moon icon
+            sunIcon.innerHTML = `
+                <path fill="#000000" d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-3.03 0-5.5-2.47-5.5-5.5 0-1.82.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z" transform="scale(-1, 1) translate(-24, 0)"/>
+            `;
+            
+            // Add a simple entrance animation
+            button.animate([
+                { transform: 'rotateY(180deg) scale(0.9)', opacity: 0.7 },
+                { transform: 'rotateY(180deg) scale(1)', opacity: 1 }
+            ], {
+                duration: 400,
+                easing: 'cubic-bezier(0.34, 1.56, 0.64, 1)'
+            });
+        }
+    });
+</script>
 </body>
 </html>
