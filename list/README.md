@@ -72,6 +72,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://fly.io/                                | **Fly** is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                            |
 | https://kinsta.com/static-site-hosting/        | **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare. |
 | https://fleek.co/                              | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |
+| https://edgeone.ai/products/pages              | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                  |
 
 [⬆ back to top](#table-of-contents)
 
