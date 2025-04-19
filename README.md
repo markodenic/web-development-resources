@@ -294,6 +294,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://favicons.beaubus.com/             |
 | https://www.3dicons.com/                  |
 | https://flowbite.com/icons/               |
+| https://icon-sets.iconify.design/         |
 
 [⬆ back to top](#table-of-contents)
 
@@ -574,6 +575,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Neumorphism](https://neumorphism.io/)                                                | A free online tool for designing attractive UI with colors, gradients and shadows..                                                                                                   |
 | [Scrollbar.app](https://scrollbar.app/)                                               | A simple online tool for creating custom scrollbars for the web.                                                                                                                      |
 | [Code Magic](https://code-magic.vercel.app/)                                          | A free tool to make CSS easier by generating Tailwind and CSS code for effects, gradients and inputs                                                                                  |
+| [DevTools](https://tools.webdevpuneet.com/)                                          | A Free Online Web Development Tools                                                                               |
 
 [⬆ back to top](#table-of-contents)
 
