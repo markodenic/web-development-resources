@@ -8,6 +8,8 @@ Enjoy! :)
 
 If you like this repo, be sure to ⭐ it.
 
+hello world!
+
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 Initially created by [Marko](https://markodenic.com) at [Web Development Resources](https://markodenic.com/free-web-development-resources/).
