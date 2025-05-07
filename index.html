@@ -22,7 +22,7 @@
             flex-direction: column;
             min-height: 100vh;
             text-align: center;
-            font-family: 'Arial', sans-serif;
+            font-family: 'Segoe UI', sans-serif;
             background-color: #f0f4f8;
         }
 
@@ -40,52 +40,31 @@
         }
 
         p {
-            color: #555;
             margin-bottom: 20px;
+            font-size: 20px;
         }
 
         main {
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
+            align-items: center;
             padding: 20px;
-        }
-
-        .card {
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-            margin: 10px;
-            padding: 20px;
-            width: 250px;
-            text-align: center;
-            transition: transform 0.2s;
-        }
-
-        .card:hover {
-            transform: translateY(-5px);
-        }
-
-        .card h2 {
-            font-size: 2em;
-            margin-bottom: 10px;
-            color: #ff0a78;
-        }
-
-        .card p {
-            color: #666;
+            flex: 1;
         }
 
         .cta-button {
+            display: inline-block;
             background-color: #333;
             color: white;
             padding: 10px 20px;
             border: none;
-            border-radius: 20px;
+            border-radius: 6px;
             cursor: pointer;
             text-decoration: none;
             margin-top: 20px;
             transition: background-color 0.3s;
+            font-size: 16px;
         }
 
         .cta-button:hover {
@@ -109,38 +88,26 @@
     </style>
 </head>
 <body>
-<header>
-    <h1>
-        Web Development Resources
-    </h1>
-    <p>
-        This is a list of web development resources with a free tier.
-    </p>
-</header>
-
 <main>
-    <div class="card">
-        <h2>200</h2>
-        <p>Resources Listed</p>
-        <p>And growing every day</p>
-    </div>
-    <div class="card">
-        <h2>Free Code Tools</h2>
-        <p>Premium tools at no cost</p>
-    </div>
-    <div class="card">
-        <h2>Tech Blogs</h2>
-        <p>Latest tech insights</p>
+    <div>
+        <h1>
+            Web Development Resources
+        </h1>
+
+        <p>
+            This is a list of web development resources with a free tier. <br>
+
+            <a class="cta-button" href="/list/">Take me to the list!</a>
+        </p>
     </div>
 </main>
-
-<a class="cta-button" href="/list/">Take me to the list!</a>
 
 <footer>
     Made by <a href="https://markodenic.com">Marko</a> and contributors. <br>
     <div class="footer-links">
-        <a href="https://javascriptquiz.com">JavaScript Quiz</a> | 
-        <a href="https://freecodetools.org">Free Code Tools</a> | 
+        <a href="https://techwithmarko.com">Tech with Marko</a> |
+        <a href="https://javascriptquiz.com">JavaScript Quiz</a> |
+        <a href="https://freecodetools.org">Free Code Tools</a> |
         <a href="https://tech-blogs.dev">Tech Blogs</a>
     </div>
 </footer>
