@@ -53,7 +53,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Hosting:
 
 | Website                                        | Description                                                                                                                                                                                                                                    |
-|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | https://netlify.com                            | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.                                                                                               |
 | https://firebase.google.com                    | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                                          |
 | https://aws.amazon.com                         | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                                              |
@@ -67,19 +67,19 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.000webhost.com/                    | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                                               |
 | https://infinityfree.net/                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                        |
 | https://pages.cloudflare.com/                  | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                                    |
-| https://supabase.com                           | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime                                                                                                       |subscriptions and Storage.                                                                            
+| https://supabase.com                           | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime                                                                                                       | subscriptions and Storage. |
 | https://railway.app/                           | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                      |
 | https://fly.io/                                | **Fly** is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                            |
 | https://kinsta.com/static-site-hosting/        | **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare. |
 | https://fleek.co/                              | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |
-| https://edgeone.ai/products/pages              | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                  |
+| https://edgeone.ai/products/pages              | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                                              |
 
 [⬆ back to top](#table-of-contents)
 
 ## Learning Platforms:
 
 | Website                                        |
-|------------------------------------------------|
+| ---------------------------------------------- |
 | https://www.freecodecamp.org/                  |
 | https://www.lambdatest.com/learning-hub/       |
 | https://codecademy.com                         |
@@ -119,7 +119,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Coding Challenge Platforms:
 
 | Website                            |
-|------------------------------------|
+| ---------------------------------- |
 | https://www.codewars.com/          |
 | https://topcoder.com               |
 | https://dapp-world.com/problems    |
@@ -152,7 +152,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Freelancing platforms:
 
 | Website                    |
-|----------------------------|
+| -------------------------- |
 | https://toptal.com         |
 | https://upwork.com         |
 | https://www.freelancer.com |
@@ -171,7 +171,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Remote Jobs:
 
 | Website                              |
-|--------------------------------------|
+| ------------------------------------ |
 | https://workremote.cc/               |
 | https://www.showwcase.com/jobs       |
 | https://www.remotefrontendjobs.com/  |
@@ -191,21 +191,21 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.smartremotejobs.com      |
 | https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
-| https://jobsinjs.com                 | 
+| https://jobsinjs.com                 |
 | https://echojobs.io                  |
 | https://AiJobsTracker.com/remote     |
 | https://www.remote.io                |
 | https://web3.career/remote-jobs      |
 | https://okjob.io                     |
-| https://www.realworkfromanywhere.com |   
-| https://www.moaijobs.com             |          
+| https://www.realworkfromanywhere.com |
+| https://www.moaijobs.com             |
 
 [⬆ back to top](#table-of-contents)
 
 ## Photos:
 
 | Website                          |
-|----------------------------------|
+| -------------------------------- |
 | https://unsplash.com             |
 | https://pixabay.com              |
 | https://pexels.com               |
@@ -223,7 +223,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Videos:
 
 | Website                      |
-|------------------------------|
+| ---------------------------- |
 | https://dareful.com          |
 | https://www.videvo.net       |
 | https://www.videezy.com      |
@@ -239,11 +239,10 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 [⬆ back to top](#table-of-contents)
 
-
 ## Illustrations:
 
 | Website                                    |
-|--------------------------------------------|
+| ------------------------------------------ |
 | https://icons8.com/illustrations           |
 | https://www.opendoodles.com                |
 | https://undraw.co/illustrations            |
@@ -263,8 +262,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Icons:
 
 | Website                                   |
-|-------------------------------------------|
-| https://svgmix.com                        | 
+| ----------------------------------------- |
+| https://svgmix.com                        |
 | https://free-icons.github.io/free-icons   |
 | https://fontawesome.com                   |
 | https://flaticon.com                      |
@@ -300,7 +299,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Fonts:
 
 | Website                      |
-|------------------------------|
+| ---------------------------- |
 | https://fonts.google.com     |
 | https://fontspace.com        |
 | https://www.1001fonts.com    |
@@ -316,7 +315,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Youtube Channels:
 
 | Website                                                                       |
-|-------------------------------------------------------------------------------|
+| ----------------------------------------------------------------------------- |
 | [Traversy Media](https://www.youtube.com/c/TraversyMedia)                     |
 | [freeCodeCamp.org](https://www.youtube.com/c/FreeCodeCamp)                    |
 | [The Net Ninja](https://youtube.com/c/TheNetNinja)                            |
@@ -358,7 +357,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Podcasts:
 
 | Website                                                                     |
-|-----------------------------------------------------------------------------|
+| --------------------------------------------------------------------------- |
 | [Syntax](https://syntax.fm/)                                                |
 | [Fullstack radio](https://fullstackradio.com)                               |
 | [The Changelog](https://changelog.com/)                                     |
@@ -382,7 +381,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Code Editors:
 
 | Website                                      |
-|----------------------------------------------|
+| -------------------------------------------- |
 | [VS Code](https://code.visualstudio.com/)    |
 | [Sublime Text](https://www.sublimetext.com/) |
 | [Brackets](http://brackets.io/)              |
@@ -399,7 +398,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Color Palettes:
 
 | Website                       |
-|-------------------------------|
+| ----------------------------- |
 | https://coolors.co            |
 | https://colorhunt.co          |
 | https://paletton.com          |
@@ -422,7 +421,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## UI Inspiration:
 
 | Website                      |
-|------------------------------|
+| ---------------------------- |
 | https://websitevice.com/     |
 | https://httpster.net         |
 | https://www.awwwards.com     |
@@ -437,7 +436,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Docs:
 
 | Website                              |
-|--------------------------------------|
+| ------------------------------------ |
 | https://developer.mozilla.org/en-US/ |
 | https://w3schools.com                |
 | https://w3docs.com                   |
@@ -448,7 +447,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Animation Libraries:
 
 | Website                                                        |
-|----------------------------------------------------------------|
+| -------------------------------------------------------------- |
 | [CSShake](https://elrumordelaluz.github.io/csshake/)           |
 | [Animate.css](https://animate.style/)                          |
 | [AnimeJS](https://animejs.com/)                                |
@@ -474,7 +473,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Charts:
 
 | Website                                |
-|----------------------------------------|
+| -------------------------------------- |
 | [Chart.js](https://www.chartjs.org/)   |
 | [D3.js](https://d3js.org/)             |
 | [three.js](https://threejs.org/)       |
@@ -486,30 +485,30 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Chrome Extensions:
 
-| Website                                                                                                                                            |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                          |
-| [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                                                  |
-| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                |
-| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                    |
-| [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en) |
-| [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                          |
-| [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)   |
-| [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)                            |
-| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                              |
-| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)                                                 |
-| [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                       |
-| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                  |
-| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                    |
+| Website                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                           |
+| [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                                                   |
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                 |
+| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                     |
+| [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)  |
+| [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                           |
+| [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)    |
+| [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)                             |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                               |
+| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)                                                         |
+| [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                        |
+| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                   |
+| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                     |
 | [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) |
-| [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                   |
+| [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                    |
 
 [⬆ back to top](#table-of-contents)
 
 ## Website Optimization Tools:
 
 | Website                                                 |
-|---------------------------------------------------------|
+| ------------------------------------------------------- |
 | [Google PageSpeed Insights](https://pagespeed.web.dev/) |
 | [GTmetrix](https://gtmetrix.com/)                       |
 | [WebPageTest](https://www.webpagetest.org)              |
@@ -524,7 +523,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## HTML/CSS/JavaScript templates:
 
 | Website                       |
-|-------------------------------|
+| ----------------------------- |
 | https://htmlrev.com           |
 | https://www.tooplate.com      |
 | https://html5up.net           |
@@ -542,24 +541,24 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Newsletters:
 
-| Website                                                                                | Topics                                                          |
-|----------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| [Marko Tech Tips](https://markodenic.com/newsletter/)                                  | Useful tech tips, directly to your inbox.                       |
-| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)       | Front-end and UX.                                               |
-| [Frontend Focus](https://frontendfoc.us/)                                              | HTML, CSS, WebGL, Canvas, browser tech, and more.               |
-| [CSS Weekly](https://css-weekly.com/)                                                  | CSS.                                                            |
-| [JavaScript Weekly](https://javascriptweekly.com/)                                     | JavaScript.                                                     |
-| [Accessibility Weekly](https://a11yweekly.com/)                                        | Accessibility.                                                  |
-| [JAMstacked](https://jamstack.email/)                                                  | JAMstack ecosystem.                                             |
-| [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/) | User Interface development.                                     |
-| [Go Make Things](https://gomakethings.com/)                                            | Daily Vanilla JavaScript.                                       |
+| Website                                                                                | Topics                                            |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Marko Tech Tips](https://markodenic.com/newsletter/)                                  | Useful tech tips, directly to your inbox.         |
+| [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)       | Front-end and UX.                                 |
+| [Frontend Focus](https://frontendfoc.us/)                                              | HTML, CSS, WebGL, Canvas, browser tech, and more. |
+| [CSS Weekly](https://css-weekly.com/)                                                  | CSS.                                              |
+| [JavaScript Weekly](https://javascriptweekly.com/)                                     | JavaScript.                                       |
+| [Accessibility Weekly](https://a11yweekly.com/)                                        | Accessibility.                                    |
+| [JAMstacked](https://jamstack.email/)                                                  | JAMstack ecosystem.                               |
+| [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/) | User Interface development.                       |
+| [Go Make Things](https://gomakethings.com/)                                            | Daily Vanilla JavaScript.                         |
 
 [⬆ back to top](#table-of-contents)
 
 ## CSS Generators:
 
 | Website                                                                               | Description                                                                                                                                                                           |
-|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Glassmorphism Generators](https://markodenic.com/tools/glassmorphism-css-generator/) | Use Glassmorphism Generator to create a stunning effect for your projects.                                                                                                            |
 | [Buttons Generator](https://markodenic.com/tools/buttons-generator/)                  | An online gallery of 100+ button designs you can easily copy and use in your projects.                                                                                                |
 | [Layoutit Grid](https://grid.layoutit.com/)                                           | Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.                                         |
@@ -578,41 +577,43 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## CSS Games:
 
-| Website                                                                               | Description                                                                                                                                                                           |
-|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Flexbox froggy](https://flexboxfroggy.com/)                                          | Flexbox Froggy is an interactive game that helps users learn and practice the **CSS Flexbox layout**.                                                                                 |
-| [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)                 | Set of challenges where we must use **Flexbox properties** to position and align elements on the screen to complete a medieval-themed game layout.                                    |
-| [Grid garden](https://cssgridgarden.com/)                                             | A Grid Garden is an interactive game that helps users learn and practice the **CSS Grid layout**.                                                                                     |
-| [Grid attack](https://codingfantasy.com/games/css-grid-attack/play)                   | Learn and practice the **CSS Grid layout**                                                                                                                                            |
-| [CSS Diner](https://flukeout.github.io/)                                              | Fun and interactive way to learn how to select elements on a web page using CSS.                                                                                                      |
-| [Guess CSS](https://www.guess-css.app/)                                               | Another Fun and interactive way to learn CSS.                                                                                                                                         |
-| [CSS Speedrun](https://css-speedrun.netlify.app/)                                     | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                                                             |
-| [Anchoreum](https://anchoreum.com/)                                                   | A game for learning CSS anchor positioning.                                                                                                                                           |
+| Website                                                               | Description                                                                                                                                        |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Flexbox froggy](https://flexboxfroggy.com/)                          | Flexbox Froggy is an interactive game that helps users learn and practice the **CSS Flexbox layout**.                                              |
+| [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/) | Set of challenges where we must use **Flexbox properties** to position and align elements on the screen to complete a medieval-themed game layout. |
+| [Grid garden](https://cssgridgarden.com/)                             | A Grid Garden is an interactive game that helps users learn and practice the **CSS Grid layout**.                                                  |
+| [Grid attack](https://codingfantasy.com/games/css-grid-attack/play)   | Learn and practice the **CSS Grid layout**                                                                                                         |
+| [CSS Diner](https://flukeout.github.io/)                              | Fun and interactive way to learn how to select elements on a web page using CSS.                                                                   |
+| [Guess CSS](https://www.guess-css.app/)                               | Another Fun and interactive way to learn CSS.                                                                                                      |
+| [CSS Speedrun](https://css-speedrun.netlify.app/)                     | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                          |
+| [Anchoreum](https://anchoreum.com/)                                   | A game for learning CSS anchor positioning.                                                                                                        |
 
 [⬆ back to top](#table-of-contents)
 
 ## Online Tools:
 
-| Website                                                                          | Description                                                                                                  |
-|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| [PRM](https://prm.pushkaryadav.in/)                                              | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile |
-| [QR Code Generator](https://markodenic.com/tools/qr-code-generator/)             | Use QR code generator to easily create a QR code for your project.                                           |
-| [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                        |
-| [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                           |
-| [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
-| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                |
-| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
-| [JSONing](https://jsoning.com/)                                                  | A suite of JSON tools, including a formatter, validator, converter, generator, merger, and Mock API          |
-| [Markdown Tools](https://markdowntools.com)                                      | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                  |
-| [OnlineInterview.io](https://onlineinterview.io/)                                | Free interviewing platform with shared code editor, drawing board and video chat.                            |
-| [Rtcd.io](https://rtcd.io/)                                                      | A simple yet powerful online toolbox for encoding, encryption, data conversion, image processing and more.   |
-| [Alphavids.io](https://alphavids.io/)                                            | Transparent WEBM to MP4 converter.                                                                           |
+| Website                                                                          | Description                                                                                                               |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [PRM](https://prm.pushkaryadav.in/)                                              | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile              |
+| [QR Code Generator](https://markodenic.com/tools/qr-code-generator/)             | Use QR code generator to easily create a QR code for your project.                                                        |
+| [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                                     |
+| [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                                        |
+| [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                                |
+| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                             |
+| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                                    |
+| [JSONing](https://jsoning.com/)                                                  | A suite of JSON tools, including a formatter, validator, converter, generator, merger, and Mock API                       |
+| [Markdown Tools](https://markdowntools.com)                                      | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                               |
+| [OnlineInterview.io](https://onlineinterview.io/)                                | Free interviewing platform with shared code editor, drawing board and video chat.                                         |
+| [Rtcd.io](https://rtcd.io/)                                                      | A simple yet powerful online toolbox for encoding, encryption, data conversion, image processing and more.                |
+| [Alphavids.io](https://alphavids.io/)                                            | Transparent WEBM to MP4 converter.                                                                                        |
+| [StyleShift](https://alphavids.io/)                                              | CSS to Tailwind converter, designed to seamlessly transform your custom CSS into efficient, responsive Tailwind CSS code. |
+
 [⬆ back to top](#table-of-contents)
 
 ## UI Components:
 
 | Website                                  | Description                                                                                         |
-|------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
 | [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                       |
 | [FlyonUI](https://flyonui.com/)          | The Easiest Components Library For Tailwind CSS.                                                    |
@@ -626,7 +627,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Vue UI libraries:
 
 | Website                                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Vuetify](https://vuetifyjs.com/)                         | Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features.                                                                                                                                                                                                                                                            |
 | [Vue Material](https://www.creative-tim.com/vuematerial/) | Simple, lightweight and built exactly according to the Google Material Design specs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | [BootstrapVue](https://bootstrap-vue.org/)                | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -637,7 +638,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## React UI libraries:
 
 | Website                                               | Description                                                                                                                     |
-|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [Material-UI](https://mui.com/core/)                  | Simple and customizable component library to build faster, beautiful, and more accessible React applications.                   |
 | [Ant Design](https://ant.design/)                     | An enterprise-class UI design language and React UI library.                                                                    |
 | [React Bootstrap](https://react-bootstrap.github.io/) | Bootstrap components built with React.                                                                                          |
@@ -650,33 +651,32 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Angular UI libraries:
 
-| Website                                           | Description                                                                                                        |
-|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [Taiga UI](https://taiga-ui.dev/)                 | A powerful set of open source components for Angular                                                               |
-| [PrimeNG](https://www.primefaces.org/primeng/)    | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
-| [Angular Material](https://material.angular.io/)  | Angular Material is a UI library component developed by Google in 2014.                                            |
+| Website                                          | Description                                                                                                        |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| [Taiga UI](https://taiga-ui.dev/)                | A powerful set of open source components for Angular                                                               |
+| [PrimeNG](https://www.primefaces.org/primeng/)   | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
+| [Angular Material](https://material.angular.io/) | Angular Material is a UI library component developed by Google in 2014.                                            |
 
 [⬆ back to top](#table-of-contents)
 
 ## Sustainability
 
-| Website                                                                     | Description                                                                                                        |
-|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [Beacon](https://digitalbeacon.co)                                          | Web page carbon calculator to help estimate and lower the carbon emissions of web pages
-| [Website Carbon](https://websitecarbon.com)                                 | The first web page carbon calculator
-| [Ecograder](https://ecograder.com)                                          | Web page carbon calculator with additional information on UX
-| [Web Sustainability Guidelines](https://w3c.github.io/sustainableweb-wsg/)  | Sustainable design guidelines produced by W3C
-| [Sustainable Web Design](https://sustainablewebdesign.org/)                 | Design guidelines put together by a community of designers lead by Wholegrain Digital and MightyBytes
-| [The Green Web Foundation](https://www.thegreenwebfoundation.org/)          | A database of web hosts that use renewable energy or are carbon neutral through offsets also authors of CO2.js
-| [Tech Carbon Standard](https://www.techcarbonstandard.org/)                 | A standardised model of tech emissions to help map out emissions created by tech within an organisation - touches on web and Saas
-
+| Website                                                                    | Description                                                                                                                       |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [Beacon](https://digitalbeacon.co)                                         | Web page carbon calculator to help estimate and lower the carbon emissions of web pages                                           |
+| [Website Carbon](https://websitecarbon.com)                                | The first web page carbon calculator                                                                                              |
+| [Ecograder](https://ecograder.com)                                         | Web page carbon calculator with additional information on UX                                                                      |
+| [Web Sustainability Guidelines](https://w3c.github.io/sustainableweb-wsg/) | Sustainable design guidelines produced by W3C                                                                                     |
+| [Sustainable Web Design](https://sustainablewebdesign.org/)                | Design guidelines put together by a community of designers lead by Wholegrain Digital and MightyBytes                             |
+| [The Green Web Foundation](https://www.thegreenwebfoundation.org/)         | A database of web hosts that use renewable energy or are carbon neutral through offsets also authors of CO2.js                    |
+| [Tech Carbon Standard](https://www.techcarbonstandard.org/)                | A standardised model of tech emissions to help map out emissions created by tech within an organisation - touches on web and Saas |
 
 [⬆ back to top](#table-of-contents)
 
 ## Others:
 
 | Website                                                         | Description                                                                                        |
-|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [MDB: Markdwon Badges](https://mdb.pushkaryadav.in/)            | Generate amazing svg markdown badges within few clicks                                             |
 | [URL Shortener](https://cliow.com)                              | URL shortener. No login required.                                                                  |
 | [Markdown Preview](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS.                                             |
