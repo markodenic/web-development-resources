@@ -607,6 +607,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [OnlineInterview.io](https://onlineinterview.io/)                                | Free interviewing platform with shared code editor, drawing board and video chat.                            |
 | [Rtcd.io](https://rtcd.io/)                                                      | A simple yet powerful online toolbox for encoding, encryption, data conversion, image processing and more.   |
 | [Alphavids.io](https://alphavids.io/)                                            | Transparent WEBM to MP4 converter.                                                                           |
+| [StyleShift](https://styleshift.shefali.dev/)                                            | CSS to Tailwind converter, designed to seamlessly transform your custom CSS into efficient, responsive Tailwind CSS code.                                                                        |
 [⬆ back to top](#table-of-contents)
 
 ## UI Components:
