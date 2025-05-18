@@ -1,5 +1,5 @@
 # Awesome Web Development Resources ![Awesome][awesome-badge]
-
+o
 This is an awesome project about Web Development resources. ⚡
 
 Resources are added frequently! ⚡
