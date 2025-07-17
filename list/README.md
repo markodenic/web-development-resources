@@ -443,8 +443,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://wave.webaim.org/                                      |
 | https://accessibilityinsights.io/                              |
 | https://developers.google.com/web/tools/lighthouse             |
-| https://khan.github.io/tota11y/                               |
-| https://arc.nttdata.com/toolkit                               |
 | https://pa11y.org/                                            |
 | https://webaim.org/resources/contrastchecker/                 |
 | https://abc.useallfive.com/                                   |
