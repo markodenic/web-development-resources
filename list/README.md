@@ -32,6 +32,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
   - [Podcasts:](#podcasts)
   - [Code Editors:](#code-editors)
   - [Color Palettes:](#color-palettes)
+  - [Web Accessibility Tools](#web-accessibility-tools)
   - [UI Inspiration:](#ui-inspiration)
   - [Docs:](#docs)
   - [Animation Libraries:](#animation-libraries)
@@ -432,6 +433,21 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.behance.net      |
 | https://tympanus.net/codrops |
 | https://landings.dev         |
+
+[⬆ back to top](#table-of-contents)
+
+## Web Accessibility Tools:
+
+| Website                                                       |
+|---------------------------------------------------------------|
+| https://wave.webaim.org/                                      |
+| https://accessibilityinsights.io/                              |
+| https://developers.google.com/web/tools/lighthouse             |
+| https://pa11y.org/                                            |
+| https://webaim.org/resources/contrastchecker/                 |
+| https://abc.useallfive.com/                                   |
+| https://contrast-ratio.com/                                   |
+| https://tabindex.dev/                                         |
 
 [⬆ back to top](#table-of-contents)
 
