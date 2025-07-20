@@ -67,8 +67,11 @@
             font-size: 16px;
         }
 
-        .cta-button:hover {
+        .cta-button:hover,
+        .cta-button:focus {
             background-color: #3bc411;
+            outline: 2px solid #333;
+            outline-offset: 2px;
         }
 
         footer {
@@ -85,10 +88,26 @@
         .footer-links {
             margin-top: 10px;
         }
+        .skip-link {
+            position: absolute;
+            top: -40px;
+            left: 6px;
+            background: #333;
+            color: white;
+            padding: 8px;
+            text-decoration: none;
+            border-radius: 4px;
+            z-index: 100;
+        }
+        
+        .skip-link:focus {
+            top: 6px;
+        }
     </style>
 </head>
 <body>
-<main>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<main id="main-content">
     <div>
         <h1>
             Web Development Resources
@@ -97,18 +116,18 @@
         <p>
             This is a list of web development resources with a free tier. <br>
 
-            <a class="cta-button" href="/list/">Take me to the list!</a>
+            <a class="cta-button" href="/list/" aria-label="Navigate to the complete list of web development resources">Take me to the list!</a>
         </p>
     </div>
 </main>
 
 <footer>
-    Made by <a href="https://markodenic.com">Marko</a> and contributors. <br>
+    Made by <a href="https://markodenic.com" aria-label="Visit Marko's website">Marko</a> and contributors. <br>
     <div class="footer-links">
-        <a href="https://markodenic.tech/html-ebook/">HTML eBook</a> |
-        <a href="https://javascriptquiz.com">JavaScript Quiz</a> |
-        <a href="https://freecodetools.org">Free Code Tools</a> |
-        <a href="https://tech-blogs.dev">Tech Blogs</a>
+        <a href="https://markodenic.tech/html-ebook/" aria-label="HTML eBook">HTML eBook</a> |
+        <a href="https://javascriptquiz.com" aria-label="JavaScript Quiz">JavaScript Quiz</a> |
+        <a href="https://freecodetools.org" aria-label="Free Code Tools">Free Code Tools</a> |
+        <a href="https://tech-blogs.dev" aria-label="Tech Blogs">Tech Blogs</a>
     </div>
 </footer>
 </body>

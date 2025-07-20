@@ -387,7 +387,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 |----------------------------------------------|
 | [VS Code](https://code.visualstudio.com/)    |
 | [Sublime Text](https://www.sublimetext.com/) |
-| [Brackets](http://brackets.io/)              |
+| [Brackets](https://brackets.io/)              |
 | [emacs](https://www.gnu.org/software/emacs/) |
 | [Vim](https://www.vim.org/)                  |
 | [Spacemacs](https://www.spacemacs.org/)      |
@@ -474,12 +474,12 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Hover css](https://ianlunn.github.io/Hover/)                  |
 | [AniJS](https://anijs.github.io/)                              |
 | [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/) |
-| [Tuesday](http://shakrmedia.github.io/tuesday/)                |
+| [Tuesday](https://shakrmedia.github.io/tuesday/)                |
 | [Mo.js](https://mojs.github.io/)                               |
 | [AOS](https://michalsnik.github.io/aos/)                       |
-| [Velocity.js](http://velocityjs.org/)                          |
+| [Velocity.js](https://velocityjs.org/)                          |
 | [Popmotion](https://popmotion.io/)                             |
-| [Snap.svg](http://snapsvg.io/)                                 |
+| [Snap.svg](https://snapsvg.io/)                                 |
 | [Animista](https://animista.net/)                              |
 | [Lottie-Player](https://lottiefiles.com/web-player)            |
 | [Framer motion](https://www.framer.com/motion)                 |
@@ -714,4 +714,4 @@ Made by [Marko](https://markodenic.com).
 
 Similar amazing projects: [Public APIs](https://publicapis.dev) - [Dev Resources](https://devresourc.es)
 
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-badge]: https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
