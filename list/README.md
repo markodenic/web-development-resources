@@ -354,6 +354,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 | [Corey Schafer](https://www.youtube.com/@coreyms)                             |
 | [Code with Harry](https://www.youtube.com/@CodeWithHarry)                     |
+| [Harkirat Singh](https://www.youtube.com/@harkirat1)                     |
 
 [⬆ back to top](#table-of-contents)
 
