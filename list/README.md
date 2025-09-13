@@ -554,7 +554,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://themeselection.com    |
 | https://builtatlightspeed.com |
 | https://web3templates.com     |
-| https://themefisher.com       |
+| https://themefisher.com/free-bootstrap-templates|
 
 [⬆ back to top](#table-of-contents)
 
