@@ -634,6 +634,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                  | Description                                                                                         |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| [Nextbunny](https://nextbunny.co/)       | Free Next.js Drag & Drop Builder - Export clean Nextjs code styled with shadcn & framer motion      |
 | [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
 | [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                       |
 | [FlyonUI](https://flyonui.com/)          | The Easiest Components Library For Tailwind CSS.                                                    |
