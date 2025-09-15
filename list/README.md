@@ -710,6 +710,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
 | [PerfectBugReport.io](https://perfectbugreport.io/)             | A simple checklist of the essential items to include in bug reports.                               |
 | [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)    | an interactive cheatsheet of Vue, Vue Router, and Pinia.                                           |
+| [ConvertHub API](https://converthub.com/api)                    | File Conversion API for Developers                                                                 |
 
 [⬆ back to top](#table-of-contents)
 
