@@ -627,6 +627,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Alphavids.io](https://alphavids.io/)                                            | Transparent WEBM to MP4 converter.                                                                           |
 | [StyleShift](https://styleshift.shefali.dev/)                                            | CSS to Tailwind converter, designed to seamlessly transform your custom CSS into efficient, responsive Tailwind CSS code.                                                                        |
 | [10015.io](https://10015.io/)                                                    | All-in-one toolbox to make life easier. Includes CSS generators, AI palette generator, and much more.        |
+| [ToolsChimp.com](https://toolschimp.com/)                                                    | 1000+ Free Online tools. No Signup, No Paywall. Color Converters, Image Tools, Video Tools, etc.,        |
 
 [⬆ back to top](#table-of-contents)
 
