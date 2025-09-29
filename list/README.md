@@ -108,7 +108,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://upskillcourses.com/courses             |
 | https://www.geeksforgeeks.org/web-development/ |
 | https://hackdesign.org/lessons                 |
-| https://javatpoint.com                         |
 | https://learn.microsoft.com/en-gb/training/    |
 | https://www.codementor.io/events               |
 | https://eloquentjavascript.net/                |
@@ -166,7 +165,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://6nomads.com        |
 | https://www.truelancer.com |
 | https://gun.io             |
-| https://www.refrens.com    |
 
 [⬆ back to top](#table-of-contents)
 
@@ -175,7 +173,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | Website                              |
 |--------------------------------------|
 | https://workremote.cc/               |
-| https://www.showwcase.com/jobs       |
 | https://www.remotefrontendjobs.com/  |
 | https://jobboardsearch.com           |
 | https://www.flexjobs.com             |
@@ -195,7 +192,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://startup.jobs/remote-jobs     |
 | https://jobsinjs.com                 | 
 | https://echojobs.io                  |
-| https://AiJobsTracker.com/remote     |
 | https://www.remote.io                |
 | https://web3.career/remote-jobs      |
 | https://okjob.io                     |
@@ -224,20 +220,20 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Videos:
 
-| Website                      |
-|------------------------------|
-| https://dareful.com          |
-| https://www.videvo.net       |
-| https://www.videezy.com      |
-| https://pixabay.com/videos   |
-| https://mixkit.co            |
-| https://www.vidsplay.com     |
-| https://mazwai.com           |
-| https://www.pexels.com       |
-| https://coverr.co            |
-| https://www.splitshire.com   |
-| https://photostockeditor.com |
-| https://www.clipstill.com    |
+| Website                         |
+|---------------------------------|
+| https://dareful.com             |
+| https://www.videvo.net          |
+| https://www.videezy.com         |
+| https://pixabay.com/videos      |
+| https://mixkit.co               |
+| https://www.vidsplay.com        |
+| https://www.freepik.com/videos  |
+| https://www.pexels.com          |
+| https://coverr.co               |
+| https://www.splitshire.com      |
+| https://photostockeditor.com    |
+| https://www.clipstill.com       |
 
 [⬆ back to top](#table-of-contents)
 
@@ -266,8 +262,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                   |
 |-------------------------------------------|
-| https://svgmix.com                        | 
-| https://free-icons.github.io/free-icons   |
+| https://svgmix.com                        |
 | https://fontawesome.com                   |
 | https://flaticon.com                      |
 | https://icons8.com                        |
@@ -292,7 +287,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://ionic.io/ionicons                 |
 | https://icons.getbootstrap.com            |
 | https://react-icons.github.io/react-icons |
-| https://www.iconspedia.com                |
 | https://favicons.beaubus.com/             |
 | https://www.3dicons.com/                  |
 | https://flowbite.com/icons/               |
@@ -388,13 +382,11 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [VS Code](https://code.visualstudio.com/)    |
 | [Sublime Text](https://www.sublimetext.com/) |
 | [Brackets](http://brackets.io/)              |
-| [emacs](https://www.gnu.org/software/emacs/) |
 | [Vim](https://www.vim.org/)                  |
 | [Spacemacs](https://www.spacemacs.org/)      |
 | [Emacs](https://www.gnu.org/software/emacs/) |
 | [Neovim](https://neovim.io/)                 |
 | [Fleet](https://www.jetbrains.com/fleet/)    |
-| [CodeLobster](https://codelobster.com/)      |
 
 [⬆ back to top](#table-of-contents)
 
@@ -482,7 +474,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Snap.svg](http://snapsvg.io/)                                 |
 | [Animista](https://animista.net/)                              |
 | [Lottie-Player](https://lottiefiles.com/web-player)            |
-| [Framer motion](https://www.framer.com/motion)                 |
 | [SwiperJS](https://swiperjs.com)                               |
 | [Motion One](https://motion.dev)                               |
 
@@ -503,23 +494,21 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Chrome Extensions:
 
-| Website                                                                                                                                            |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                          |
-| [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)                                                  |
-| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                |
-| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                    |
-| [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en) |
-| [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                          |
-| [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)   |
-| [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)                            |
-| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                              |
-| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)                                                 |
-| [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                       |
-| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                  |
-| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                    |
+| Website                                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                           |
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                 |
+| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                     |
+| [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)  |
+| [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                           |
+| [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)    |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                               |
+| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)                                                         |
+| [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                        |
+| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                   |
+| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                     |
 | [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) |
-| [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                   |
+| [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                    |
 
 [⬆ back to top](#table-of-contents)
 
@@ -531,7 +520,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [GTmetrix](https://gtmetrix.com/)                       |
 | [WebPageTest](https://www.webpagetest.org)              |
 | [Yslow](https://yslow.org/)                             |
-| [web.dev](https://web.dev/measure/)                     |
 | [Optimizilla](https://imagecompressor.com/)             |
 | [SEOTester](https://seotest.me/)                        |
 | [CORS-Tester](https://cors-error.dev/cors-tester/)      |
@@ -540,21 +528,20 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## HTML/CSS/JavaScript templates:
 
-| Website                       |
-|-------------------------------|
-| https://htmlrev.com           |
-| https://www.tooplate.com      |
-| https://html5up.net           |
-| https://templatemo.com        |
-| https://uideck.com            |
-| https://freehtml5.co          |
-| https://bootstrapmade.com     |
-| https://graygrids.com         |
-| https://tailwindtemplates.co  |
-| https://themeselection.com    |
-| https://builtatlightspeed.com |
-| https://web3templates.com     |
-| https://themefisher.com/free-bootstrap-templates|
+| Website                                          |
+|--------------------------------------------------|
+| https://htmlrev.com                              |
+| https://www.tooplate.com                         |
+| https://html5up.net                              |
+| https://templatemo.com                           |
+| https://uideck.com                               |
+| https://freehtml5.co                             |
+| https://bootstrapmade.com                        |
+| https://graygrids.com                            |
+| https://themeselection.com                       |
+| https://builtatlightspeed.com                    |
+| https://web3templates.com                        |
+| https://themefisher.com/free-bootstrap-templates |
 
 [⬆ back to top](#table-of-contents)
 
@@ -706,7 +693,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CookieBubble](https://cookiebubble.netlify.app)                | The easy way to inform users that your website is using cookies.                                   |
 | [Developer Updates](https://www.developerupdates.com)           | Keeps you updated one everything going on in the software developement world                       |
 | [Boxy SVG Editor](https://boxy-svg.com/)                        | SVG Editing Tool - Here you can easily edit and save any SVG file                                  |
-| [Cssrepo](https://cssrepo.com/)                                 | A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
 | [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                              |
 | [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
 | [PerfectBugReport.io](https://perfectbugreport.io/)             | A simple checklist of the essential items to include in bug reports.                               |
