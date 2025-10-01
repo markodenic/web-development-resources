@@ -698,6 +698,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [PerfectBugReport.io](https://perfectbugreport.io/)             | A simple checklist of the essential items to include in bug reports.                               |
 | [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)    | an interactive cheatsheet of Vue, Vue Router, and Pinia.                                           |
 | [ConvertHub API](https://converthub.com/api)                    | File Conversion API for Developers                                                                 |
+| [DevTool](https://devtool.io)                                   | Curated directory of tools for frontend, backend, DevOps, AI, and more.                            |
 
 [⬆ back to top](#table-of-contents)
 
