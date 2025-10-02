@@ -67,14 +67,14 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.digitalocean.com/                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.                  |
 | https://www.000webhost.com/                    | **000webhostapp** is zero-cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                                               |
 | https://infinityfree.net/                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                        |
-| https://pages.cloudflare.com/                  | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth. 
-| https://sevalla.com/static-site-hosting/       | **Sevalla** is a PaaS platform for your applications, databases and static sites. It allows you to create up to 100 free static sites including 600 free build minutes and 100GB bandwidth/mo.|
+| https://pages.cloudflare.com/                  | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                                    |
+| https://sevalla.com/static-site-hosting/       | **Sevalla** is a PaaS platform for your applications, databases and static sites. It allows you to create up to 100 free static sites including 600 free build minutes and 100GB bandwidth/mo.                                                 |
 | https://supabase.com                           | **Supabase** is an open-source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime                                                                                                       |subscriptions and Storage.                                                                            
 | https://railway.app/                           | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                      |
 | https://fly.io/                                | **Fly** is a platform for running full-stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                            |
 | https://kinsta.com/static-site-hosting/        | **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare. |
 | https://fleek.co/                              | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |
-| https://edgeone.ai/products/pages              | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                  |
+| https://edgeone.ai/products/pages              | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                                              |
 
 [⬆ back to top](#table-of-contents)
 
@@ -430,16 +430,16 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Web Accessibility Tools:
 
-| Website                                                       |
-|---------------------------------------------------------------|
-| https://wave.webaim.org/                                      |
-| https://accessibilityinsights.io/                              |
-| https://developers.google.com/web/tools/lighthouse             |
-| https://pa11y.org/                                            |
-| https://webaim.org/resources/contrastchecker/                 |
-| https://abc.useallfive.com/                                   |
-| https://contrast-ratio.com/                                   |
-| https://tabindex.dev/                                         |
+| Website                                            |
+|----------------------------------------------------|
+| https://wave.webaim.org/                           |
+| https://accessibilityinsights.io/                  |
+| https://developers.google.com/web/tools/lighthouse |
+| https://pa11y.org/                                 |
+| https://webaim.org/resources/contrastchecker/      |
+| https://abc.useallfive.com/                        |
+| https://contrast-ratio.com/                        |
+| https://tabindex.dev/                              |
 
 [⬆ back to top](#table-of-contents)
 
@@ -598,23 +598,23 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Online Tools:
 
-| Website                                                                          | Description                                                                                                  |
-|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| [PRM](https://prm.pushkaryadav.in/)                                              | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile |
-| [QR Code Generator](https://markodenic.com/tools/qr-code-generator/)             | Use QR code generator to easily create a QR code for your project.                                           |
-| [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                        |
-| [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                           |
-| [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
-| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                |
-| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
-| [JSONing](https://jsoning.com/)                                                  | A suite of JSON tools, including a formatter, validator, converter, generator, merger, and Mock API          |
-| [Markdown Tools](https://markdowntools.com)                                      | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                  |
-| [OnlineInterview.io](https://onlineinterview.io/)                                | Free interviewing platform with shared code editor, drawing board and video chat.                            |
-| [Rtcd.io](https://rtcd.io/)                                                      | A simple yet powerful online toolbox for encoding, encryption, data conversion, image processing and more.   |
-| [Alphavids.io](https://alphavids.io/)                                            | Transparent WEBM to MP4 converter.                                                                           |
-| [StyleShift](https://styleshift.shefali.dev/)                                            | CSS to Tailwind converter, designed to seamlessly transform your custom CSS into efficient, responsive Tailwind CSS code.                                                                        |
-| [10015.io](https://10015.io/)                                                    | All-in-one toolbox to make life easier. Includes CSS generators, AI palette generator, and much more.        |
-| [ToolsChimp.com](https://toolschimp.com/)                                                    | 1000+ Free Online tools. No Signup, No Paywall. Color Converters, Image Tools, Video Tools, etc.,        |
+| Website                                                                          | Description                                                                                                               |
+|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| [PRM](https://prm.pushkaryadav.in/)                                              | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile              |
+| [QR Code Generator](https://markodenic.com/tools/qr-code-generator/)             | Use QR code generator to easily create a QR code for your project.                                                        |
+| [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                                     |
+| [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                                        |
+| [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                                |
+| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                             |
+| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                                    |
+| [JSONing](https://jsoning.com/)                                                  | A suite of JSON tools, including a formatter, validator, converter, generator, merger, and Mock API                       |
+| [Markdown Tools](https://markdowntools.com)                                      | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                               |
+| [OnlineInterview.io](https://onlineinterview.io/)                                | Free interviewing platform with shared code editor, drawing board and video chat.                                         |
+| [Rtcd.io](https://rtcd.io/)                                                      | A simple yet powerful online toolbox for encoding, encryption, data conversion, image processing and more.                |
+| [Alphavids.io](https://alphavids.io/)                                            | Transparent WEBM to MP4 converter.                                                                                        |
+| [StyleShift](https://styleshift.shefali.dev/)                                    | CSS to Tailwind converter, designed to seamlessly transform your custom CSS into efficient, responsive Tailwind CSS code. |
+| [10015.io](https://10015.io/)                                                    | All-in-one toolbox to make life easier. Includes CSS generators, AI palette generator, and much more.                     |
+| [ToolsChimp.com](https://toolschimp.com/)                                        | 1000+ Free Online tools. No Signup, No Paywall. Color Converters, Image Tools, Video Tools, etc.,                         |
 
 [⬆ back to top](#table-of-contents)
 
@@ -669,36 +669,37 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Sustainability
 
-| Website                                                                     | Description                                                                                                        |
-|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [Beacon](https://digitalbeacon.co)                                          | Web page carbon calculator to help estimate and lower the carbon emissions of web pages
-| [Website Carbon](https://websitecarbon.com)                                 | The first web page carbon calculator
-| [Ecograder](https://ecograder.com)                                          | Web page carbon calculator with additional information on UX
-| [Web Sustainability Guidelines](https://w3c.github.io/sustainableweb-wsg/)  | Sustainable design guidelines produced by W3C
-| [Sustainable Web Design](https://sustainablewebdesign.org/)                 | Design guidelines put together by a community of designers lead by Wholegrain Digital and MightyBytes
-| [The Green Web Foundation](https://www.thegreenwebfoundation.org/)          | A database of web hosts that use renewable energy or are carbon neutral through offsets also authors of CO2.js
-| [Tech Carbon Standard](https://www.techcarbonstandard.org/)                 | A standardised model of tech emissions to help map out emissions created by tech within an organisation - touches on web and Saas
+| Website                                                                    | Description                                                                                                                       |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| [Beacon](https://digitalbeacon.co)                                         | Web page carbon calculator to help estimate and lower the carbon emissions of web pages                                           |
+| [Website Carbon](https://websitecarbon.com)                                | The first web page carbon calculator                                                                                              |
+| [Ecograder](https://ecograder.com)                                         | Web page carbon calculator with additional information on UX                                                                      |
+| [Web Sustainability Guidelines](https://w3c.github.io/sustainableweb-wsg/) | Sustainable design guidelines produced by W3C                                                                                     |
+| [Sustainable Web Design](https://sustainablewebdesign.org/)                | Design guidelines put together by a community of designers lead by Wholegrain Digital and MightyBytes                             |
+| [The Green Web Foundation](https://www.thegreenwebfoundation.org/)         | A database of web hosts that use renewable energy or are carbon neutral through offsets also authors of CO2.js                    |
+| [Tech Carbon Standard](https://www.techcarbonstandard.org/)                | A standardised model of tech emissions to help map out emissions created by tech within an organisation - touches on web and Saas |
 
 
 [⬆ back to top](#table-of-contents)
 
 ## Others:
 
-| Website                                                         | Description                                                                                        |
-|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [MDB: Markdwon Badges](https://mdb.pushkaryadav.in/)            | Generate amazing svg markdown badges within few clicks                                             |
-| [URL Shortener](https://cliow.com)                              | URL shortener. No login required.                                                                  |
-| [Markdown Preview](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS.                                             |
-| [JavaScript Quiz](https://javascriptquiz.com)                   | JavaScript Quiz - Check your knowledge by having fun.                                              |
-| [CookieBubble](https://cookiebubble.netlify.app)                | The easy way to inform users that your website is using cookies.                                   |
-| [Developer Updates](https://www.developerupdates.com)           | Keeps you updated one everything going on in the software developement world                       |
-| [Boxy SVG Editor](https://boxy-svg.com/)                        | SVG Editing Tool - Here you can easily edit and save any SVG file                                  |
-| [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                              |
-| [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
-| [PerfectBugReport.io](https://perfectbugreport.io/)             | A simple checklist of the essential items to include in bug reports.                               |
-| [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)    | an interactive cheatsheet of Vue, Vue Router, and Pinia.                                           |
-| [ConvertHub API](https://converthub.com/api)                    | File Conversion API for Developers                                                                 |
-| [DevTool](https://devtool.io)                                   | Curated directory of tools for frontend, backend, DevOps, AI, and more.                            |
+| Website                                                         | Description                                                                  |
+|-----------------------------------------------------------------|------------------------------------------------------------------------------|
+| [MDB: Markdwon Badges](https://mdb.pushkaryadav.in/)            | Generate amazing svg markdown badges within few clicks                       |
+| [URL Shortener](https://cliow.com)                              | URL shortener. No login required.                                            |
+| [Markdown Preview](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS.                       |
+| [JavaScript Quiz](https://javascriptquiz.com)                   | JavaScript Quiz - Check your knowledge by having fun.                        |
+| [CookieBubble](https://cookiebubble.netlify.app)                | The easy way to inform users that your website is using cookies.             |
+| [Developer Updates](https://www.developerupdates.com)           | Keeps you updated one everything going on in the software developement world |
+| [Boxy SVG Editor](https://boxy-svg.com/)                        | SVG Editing Tool - Here you can easily edit and save any SVG file            |
+| [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                        |
+| [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                            |
+| [PerfectBugReport.io](https://perfectbugreport.io/)             | A simple checklist of the essential items to include in bug reports.         |
+| [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)    | an interactive cheatsheet of Vue, Vue Router, and Pinia.                     |
+| [ConvertHub API](https://converthub.com/api)                    | File Conversion API for Developers                                           |
+| [Tech Terms](https://techterms.io/)                             | A beginner-friendly glossary built by the community, for the community       |
+| [DevTool](https://devtool.io)                                   | Curated directory of tools for frontend, backend, DevOps, AI, and more.      |
 
 [⬆ back to top](#table-of-contents)
 
