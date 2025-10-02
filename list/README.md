@@ -699,6 +699,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)    | an interactive cheatsheet of Vue, Vue Router, and Pinia.                     |
 | [ConvertHub API](https://converthub.com/api)                    | File Conversion API for Developers                                           |
 | [Tech Terms](https://techterms.io/)                             | A beginner-friendly glossary built by the community, for the community       |
+| [DevTool](https://devtool.io)                                   | Curated directory of tools for frontend, backend, DevOps, AI, and more.      |
 
 [⬆ back to top](#table-of-contents)
 
