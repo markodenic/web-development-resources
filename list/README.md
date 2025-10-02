@@ -114,6 +114,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://code.org/                              |
 | https://www.interviewbit.com/                  |
 | https://css-tricks.com/                        |
+| https://learnify.shefali.dev/                        |
 
 [⬆ back to top](#table-of-contents)
 
