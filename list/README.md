@@ -631,6 +631,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                           |
 | [shadcn/ui](https://ui.shadcn.com/)      | Open-Source UI components for React projects, that you can easily copy and paste into your apps.    |
 | [Headless UI](https://headlessui.com/)   | Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS.       |
+| [UI Kits](https://uikits.design)  | All the best UI kits & component libraries in one place. |
 
 [⬆ back to top](#table-of-contents)
 
