@@ -160,7 +160,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.freelancer.com |
 | https://peopleperhour.com  |
 | https://simplyhired.com    |
-| https://www.envato.com     |
 | https://guru.com           |
 | https://fiverr.com         |
 | https://6nomads.com        |
@@ -189,7 +188,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://www.coolstartupjobs.com      |
 | https://wellfound.com/               |
 | https://www.smartremotejobs.com      |
-| https://www.remotehub.com            |
 | https://startup.jobs/remote-jobs     |
 | https://jobsinjs.com                 | 
 | https://echojobs.io                  |
@@ -214,7 +212,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://freephotos.cc/en         |
 | https://picjumbo.com             |
 | https://www.pxfuel.com           |
-| https://www.splitshire.com       |
 | https://freeforcommercialuse.net |
 
 [⬆ back to top](#table-of-contents)
@@ -254,7 +251,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://themeisle.com/illustrations        |
 | https://www.manypixels.co/gallery          |
 | https://www.artify.co/illustrations-figma  |
-| https://www.artify.co/vector-illustrations |
 | https://cocomaterial.com/                  |
 
 [⬆ back to top](#table-of-contents)
@@ -263,7 +259,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                   |
 |-------------------------------------------|
-| https://svgmix.com                        |
 | https://fontawesome.com                   |
 | https://flaticon.com                      |
 | https://icons8.com                        |
@@ -440,7 +435,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://webaim.org/resources/contrastchecker/      |
 | https://abc.useallfive.com/                        |
 | https://contrast-ratio.com/                        |
-| https://tabindex.dev/                              |
 
 [⬆ back to top](#table-of-contents)
 
