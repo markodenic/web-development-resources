@@ -313,7 +313,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [freeCodeCamp.org](https://www.youtube.com/c/FreeCodeCamp)                    |
 | [The Net Ninja](https://youtube.com/c/TheNetNinja)                            |
 | [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers)  |
-| [Derek Banas](https://www.youtube.com/c/derekbanas)                           |
 | [Academind](https://www.youtube.com/c/Academind)                              |
 | [CodingTech](https://www.youtube.com/c/CodingTech)                            |
 | [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw)    |
@@ -324,7 +323,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Kevin Powell](https://youtube.com/kepowob)                                   |
 | [Code with Ania Kubów](https://youtube.com/c/AniaKub%C3%B3w)                  |
 | [The Coding Train](https://www.youtube.com/c/TheCodingTrain/)                 |
-| [kudvenkat](https://www.youtube.com/user/kudvenkat)                           |
 | [Program With Erik](https://www.youtube.com/c/ProgramWithErik)                |
 | [Coder Coder](https://www.youtube.com/c/TheCoderCoder)                        |
 | [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
@@ -336,12 +334,10 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh)          |
 | [Fireship](https://www.youtube.com/c/Fireship)                                |
 | [Codevolution](https://www.youtube.com/c/Codevolution)                        |
-| [Buddy](https://youtube.com/c/BuddyWorks)                                     |
 | [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)             |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
 | [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)                     |
 | [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
-| [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 | [Corey Schafer](https://www.youtube.com/@coreyms)                             |
 | [Code with Harry](https://www.youtube.com/@CodeWithHarry)                     |
 
