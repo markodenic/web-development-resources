@@ -348,18 +348,13 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | Website                                                                     |
 |-----------------------------------------------------------------------------|
 | [Syntax](https://syntax.fm/)                                                |
-| [Fullstack radio](https://fullstackradio.com)                               |
 | [The Changelog](https://changelog.com/)                                     |
 | [The Laracasts Snippet](https://laracasts.com/podcast)                      |
 | [Front End Happy Hour](https://frontendhappyhour.com/)                      |
 | [JavaScript Jabber](https://javascriptjabber.com/)                          |
-| [Commit Your Code!](https://anchor.fm/commityourcode)                       |
 | [Shop Talk](https://shoptalkshow.com/)                                      |
 | [Ladybug Podcast](https://www.ladybug.dev/)                                 |
 | [CodePen Radio](https://blog.codepen.io/radio/)                             |
-| [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) |
-| [DevDiscuss](https://dev.to/devdiscuss)                                     |
-| [DevNews](https://dev.to/devnews)                                           |
 | [React Native Radio](https://reactnativeradio.com/)                         |
 | [Html All The Things](https://podcast.htmlallthethings.com/)                |
 | [The CSS Podcast](https://thecsspodcast.libsyn.com/)                        |
