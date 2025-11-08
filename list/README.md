@@ -302,6 +302,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://urbanfonts.com       |
 | https://www.fontpair.co      |
 | https://fonts.bunny.net      |
+| https://fonts.adobe.com/     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -373,6 +374,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Spacemacs](https://www.spacemacs.org/)      |
 | [Emacs](https://www.gnu.org/software/emacs/) |
 | [Neovim](https://neovim.io/)                 |
+| [Fleet](https://www.jetbrains.com/fleet/)    |
 | [Fleet](https://www.jetbrains.com/fleet/)    |
 
 [⬆ back to top](#table-of-contents)
