@@ -302,7 +302,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://urbanfonts.com       |
 | https://www.fontpair.co      |
 | https://fonts.bunny.net      |
-| https://fonts.adobe.com/     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -439,6 +438,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://w3schools.com                |
 | https://w3docs.com                   |
 | https://devdocs.io                   |
+| https://www.php.net/docs.php         |
 
 [⬆ back to top](#table-of-contents)
 
