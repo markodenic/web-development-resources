@@ -618,6 +618,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [shadcn/ui](https://ui.shadcn.com/)      | Open-Source UI components for React projects, that you can easily copy and paste into your apps.    |
 | [Headless UI](https://headlessui.com/)   | Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS.       |
 | [UI Kits](https://uikits.design)  | All the best UI kits & component libraries in one place. |
+| [8bitcn](https://8bitcn.com/)     | Retro 8-bit styled UI component library with accessible and customizable components for a nostalgic aesthetic |
 
 [⬆ back to top](#table-of-contents)
 
