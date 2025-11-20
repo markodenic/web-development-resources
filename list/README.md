@@ -603,6 +603,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [ToolsChimp.com](https://toolschimp.com/)                                        | 1000+ Free Online tools. No Signup, No Paywall. Color Converters, Image Tools, Video Tools, etc.,                         |
 | [volumeshaderbm.org](https://volumeshaderbm.org)                                 | A browser-based volume shader benchmark with interactive kernels and reproducible presets.                                |
 | [Format JSON Online](https://formatjsononline.com)                                 | A Complete Toolkit for JSON & Data Processing.|
+| [WordToTime](https://wordtotime.org)                                             | A browser-based calculator that estimates speaking/reading time for scripts, documentation, and content. Useful for podcasts, videos, tutorials, and technical presentations.  |
 
 [⬆ back to top](#table-of-contents)
 
