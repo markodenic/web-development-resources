@@ -620,6 +620,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Headless UI](https://headlessui.com/)   | Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS.       |
 | [UI Kits](https://uikits.design)  | All the best UI kits & component libraries in one place. |
 | [8bitcn](https://8bitcn.com/)     | Retro 8-bit styled UI component library with accessible and customizable components for a nostalgic aesthetic |
+| [Tailkits UI](https://tailkits.com/ui/) | Tailwind Components with Native MCP Support |
 
 [⬆ back to top](#table-of-contents)
 
