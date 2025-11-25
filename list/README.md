@@ -604,6 +604,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [volumeshaderbm.org](https://volumeshaderbm.org)                                 | A browser-based volume shader benchmark with interactive kernels and reproducible presets.                                |
 | [Format JSON Online](https://formatjsononline.com)                                 | A Complete Toolkit for JSON & Data Processing.|
 | [WordToTime](https://wordtotime.org)                                             | A browser-based calculator that estimates speaking/reading time for scripts, documentation, and content. Useful for podcasts, videos, tutorials, and technical presentations.  |
+| [ToolZack](https://toolzack.com)                                                 | A friendly web toolkit for converting, encoding, formatting and styling text. Over 120 free tools.                        |
 
 [⬆ back to top](#table-of-contents)
 
