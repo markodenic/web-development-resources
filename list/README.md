@@ -607,6 +607,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Format JSON Online](https://formatjsononline.com)                                 | A Complete Toolkit for JSON & Data Processing.|
 | [WordToTime](https://wordtotime.org)                                             | A browser-based calculator that estimates speaking/reading time for scripts, documentation, and content. Useful for podcasts, videos, tutorials, and technical presentations.  |
 | [ToolZack](https://toolzack.com)                                                 | A friendly web toolkit for converting, encoding, formatting and styling text. Over 120 free tools.                        |
+| [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                     |
 
 [⬆ back to top](#table-of-contents)
 
