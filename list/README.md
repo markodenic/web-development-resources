@@ -428,7 +428,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | https://webaim.org/resources/contrastchecker/      |
 | https://abc.useallfive.com/                        |
 | https://contrast-ratio.com/                        |
-| https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker/ |
+| [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker/) |
 
 [⬆ back to top](#table-of-contents)
 
