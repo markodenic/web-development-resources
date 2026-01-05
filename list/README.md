@@ -123,34 +123,35 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Coding Challenge Platforms:
 
-| Website                            |
-|------------------------------------|
-| https://www.codewars.com/          |
-| https://topcoder.com               |
-| https://dapp-world.com/problems    |
-| https://www.codingame.com/start    |
-| https://hackerrank.com             |
-| https://projecteuler.net           |
-| https://coderbyte.com              |
-| https://codechef.com               |
-| https://exercism.org               |
-| https://leetcode.com               |
-| https://spoj.com                   |
-| https://codeforces.com             |
-| https://codesignal.com             |
-| https://frontendmentor.io          |
-| https://devchallenges.io           |
-| https://www.hackerearth.com        |
-| https://www.frontendpractice.com   |
-| https://www.codementor.io/projects |
-| https://css-challenges.com         |
-| https://100dayscss.com             |
-| https://codepip.com                |
-| https://www.w3schools.com/codegame |
-| https://edabit.com                 |
-| https://www.jschallenger.com       |
-| https://www.codingninjas.com       |
-| https://divize.io/challenges       |
+| Website                                                   |
+|-----------------------------------------------------------|
+| [Codewars](https://www.codewars.com/)                     |
+| [TopCoder](https://topcoder.com)                          |
+| [Dapp World](https://dapp-world.com/problems)             |
+| [CodinGame](https://www.codingame.com/start)              |
+| [HackerRank](https://hackerrank.com)                      |
+| [Project Euler](https://projecteuler.net)                 |
+| [Coderbyte](https://coderbyte.com)                        |
+| [CodeChef](https://codechef.com)                          |
+| [Exercism](https://exercism.org)                          |
+| [LeetCode](https://leetcode.com)                          |
+| [SPOJ](https://spoj.com)                                  |
+| [Codeforces](https://codeforces.com)                      |
+| [CodeSignal](https://codesignal.com)                      |
+| [Frontend Mentor](https://frontendmentor.io)              |
+| [Dev Challenges](https://devchallenges.io)                |
+| [HackerEarth](https://www.hackerearth.com)                |
+| [Frontend Practice](https://www.frontendpractice.com)     |
+| [Codementor Projects](https://www.codementor.io/projects) |
+| [CSS Challenges](https://css-challenges.com)              |
+| [100 Days CSS](https://100dayscss.com)                    |
+| [Codepip](https://codepip.com)                            |
+| [W3Schools Code Game](https://www.w3schools.com/codegame) |
+| [Edabit](https://edabit.com)                              |
+| [JS Challenger](https://www.jschallenger.com)             |
+| [Coding Ninjas](https://www.codingninjas.com)             |
+| [Divize](https://divize.io/challenges)                    |
+
 
 [⬆ back to top](#table-of-contents)
 
