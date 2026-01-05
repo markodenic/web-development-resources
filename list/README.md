@@ -53,70 +53,71 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Hosting:
 
-| Website                                                        | Description                                                                                                                                                                                                                                  |
-| -------------------------------------------------------------- | -------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Netlify](https://netlify.com)                                 | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high-performance sites and apps.                                                                                             |
-| [Firebase](https://firebase.google.com)                        | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                                        |
-| [Amazon Web Services](https://aws.amazon.com)                  | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                                            |
-| [GitHub Pages](https://pages.github.com)                       | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                                          |
-| [Vercel](https://vercel.com)                                   | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                               |
-| [Surge](https://surge.sh)                                      | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                                         |
-| [Render](https://render.com)                                   | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                                            |
-| [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                                          |
-| [Stormkit](https://stormkit.io)                                | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                                      |
-| [DigitalOcean](https://www.digitalocean.com/)                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.                |
-| [000webhost](https://www.000webhost.com/)                      | **000webhostapp** is zero-cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                                             |
-| [InfinityFree](https://infinityfree.net/)                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                      |
-| [Cloudflare Pages](https://pages.cloudflare.com/)              | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                                  |
-| [Sevalla](https://sevalla.com/static-site-hosting/)            | **Sevalla** is a PaaS platform for your applications, databases and static sites. It allows you to create up to 100 free static sites including 600 free build minutes and 100GB bandwidth/mo.                                               |
-| [Supabase](https://supabase.com)                               | **Supabase** is an open-source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                          |
-| [Railway](https://railway.app/)                                | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                    |
-| [Fly](https://fly.io/)                                         | **Fly** is a platform for running full-stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                          |
+| Website                                                        | Description                                                                                                                                                                                                                                    |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Netlify](https://netlify.com)                                 | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high-performance sites and apps.                                                                                               |
+| [Firebase](https://firebase.google.com)                        | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                                          |
+| [Amazon Web Services](https://aws.amazon.com)                  | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                                              |
+| [GitHub Pages](https://pages.github.com)                       | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                                            |
+| [Vercel](https://vercel.com)                                   | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                                 |
+| [Surge](https://surge.sh)                                      | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                                           |
+| [Render](https://render.com)                                   | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                                              |
+| [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                                            |
+| [Stormkit](https://stormkit.io)                                | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                                        |
+| [DigitalOcean](https://www.digitalocean.com/)                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.                  |
+| [000webhost](https://www.000webhost.com/)                      | **000webhostapp** is zero-cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                                               |
+| [InfinityFree](https://infinityfree.net/)                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                        |
+| [Cloudflare Pages](https://pages.cloudflare.com/)              | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                                    |
+| [Sevalla](https://sevalla.com/static-site-hosting/)            | **Sevalla** is a PaaS platform for your applications, databases and static sites. It allows you to create up to 100 free static sites including 600 free build minutes and 100GB bandwidth/mo.                                                 |
+| [Supabase](https://supabase.com)                               | **Supabase** is an open-source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                            |
+| [Railway](https://railway.app/)                                | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                      |
+| [Fly](https://fly.io/)                                         | **Fly** is a platform for running full-stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                            |
 | [Kinsta](https://kinsta.com/static-site-hosting/)              | **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare. |
-| [Fleek](https://fleek.co/)                                     | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                |
-| [EdgeOne Pages](https://edgeone.ai/products/pages)             | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                                            |
-| [Juno](https://juno.build/)                                    | **Juno** is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.                                                        |
+| [Fleek](https://fleek.co/)                                     | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |
+| [EdgeOne Pages](https://edgeone.ai/products/pages)             | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                                              |
+| [Juno](https://juno.build/)                                    | **Juno** is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.                                                          |
 
 
 [⬆ back to top](#table-of-contents)
 
 ## Learning Platforms:
 
-| Website                                        |
-|------------------------------------------------|
-| https://www.freecodecamp.org/                  |
-| https://www.lambdatest.com/learning-hub/       |
-| https://codecademy.com                         |
-| https://javascript30.com                       |
-| https://www.frontendmentor.io                  |
-| https://testautomationu.applitools.com         |
-| https://www.coursera.org                       |
-| https://www.edx.org/                           |
-| https://khanacademy.org                        |
-| https://sololearn.com                          |
-| https://www.scaler.com/topics/                 |
-| https://www.theodinproject.com                 |
-| https://javascript.info/                       |
-| https://vueschool.io/                          |
-| https://www.guru99.com/                        |
-| https://trailhead.salesforce.com/              |
-| https://ocw.mit.edu/                           |
-| https://web.dev/                               |
-| https://scrimba.com                            |
-| https://thegymnasium.com                       |
-| https://www.amigoscode.com                     |
-| https://cssbattle.dev/                         |
-| https://fullstackopen.com/en/                  |
-| https://upskillcourses.com/courses             |
-| https://www.geeksforgeeks.org/web-development/ |
-| https://hackdesign.org/lessons                 |
-| https://learn.microsoft.com/en-gb/training/    |
-| https://www.codementor.io/events               |
-| https://eloquentjavascript.net/                |
-| https://code.org/                              |
-| https://www.interviewbit.com/                  |
-| https://css-tricks.com/                        |
-| https://learnify.shefali.dev/                        |
+| Website                                                                           |
+|-----------------------------------------------------------------------------------|
+| [freeCodeCamp](https://www.freecodecamp.org/)                                     |
+| [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/)               |
+| [Codecademy](https://codecademy.com)                                              |
+| [JavaScript30](https://javascript30.com)                                          |
+| [Frontend Mentor](https://www.frontendmentor.io)                                  |
+| [Test Automation University](https://testautomationu.applitools.com)              |
+| [Coursera](https://www.coursera.org)                                              |
+| [edX](https://www.edx.org/)                                                       |
+| [Khan Academy](https://khanacademy.org)                                           |
+| [SoloLearn](https://sololearn.com)                                                |
+| [Scaler Topics](https://www.scaler.com/topics/)                                   |
+| [The Odin Project](https://www.theodinproject.com)                                |
+| [javascript.info](https://javascript.info/)                                       |
+| [Vue School](https://vueschool.io/)                                               |
+| [Guru99](https://www.guru99.com/)                                                 |
+| [Salesforce Trailhead](https://trailhead.salesforce.com/)                         |
+| [MIT OpenCourseWare](https://ocw.mit.edu/)                                        |
+| [web.dev](https://web.dev/)                                                       |
+| [Scrimba](https://scrimba.com)                                                    |
+| [The Gymnasium](https://thegymnasium.com)                                         |
+| [Amigoscode](https://www.amigoscode.com/)                                         |
+| [CSSBattle](https://cssbattle.dev/)                                               |
+| [Full Stack Open](https://fullstackopen.com/en/)                                  |
+| [Upskill Courses](https://upskillcourses.com/courses)                             |
+| [GeeksforGeeks – Web Development](https://www.geeksforgeeks.org/web-development/) |
+| [Hack Design](https://hackdesign.org/lessons)                                     |
+| [Microsoft Learn](https://learn.microsoft.com/en-gb/training/)                    |
+| [Codementor Events](https://www.codementor.io/events)                             |
+| [Eloquent JavaScript](https://eloquentjavascript.net/)                            |
+| [Code.org](https://code.org/)                                                     |
+| [InterviewBit](https://www.interviewbit.com/)                                     |
+| [CSS-Tricks](https://css-tricks.com/)                                             |
+| [Learnify](https://learnify.shefali.dev/)                                         |
+
 
 [⬆ back to top](#table-of-contents)
 
