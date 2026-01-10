@@ -424,15 +424,15 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Web Accessibility Tools:
 
-| Website                                            |
-|----------------------------------------------------|
-| https://wave.webaim.org/                           |
-| https://accessibilityinsights.io/                  |
-| https://developers.google.com/web/tools/lighthouse |
-| https://pa11y.org/                                 |
-| https://webaim.org/resources/contrastchecker/      |
-| https://abc.useallfive.com/                        |
-| https://contrast-ratio.com/                        |
+| Website                                                                  |
+|--------------------------------------------------------------------------|
+| [WAVE](https://wave.webaim.org/)                                         |
+| [Accessibility Insights](https://accessibilityinsights.io/)              |
+| [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)  |
+| [Pa11y](https://pa11y.org/)                                              |
+| [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) |
+| [ABC Use All Five](https://abc.useallfive.com/)                          |
+| [Contrast Ratio](https://contrast-ratio.com/)                            |
 
 [⬆ back to top](#table-of-contents)
 
