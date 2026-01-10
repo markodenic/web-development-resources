@@ -157,18 +157,19 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Freelancing platforms:
 
-| Website                    |
-|----------------------------|
-| https://toptal.com         |
-| https://upwork.com         |
-| https://www.freelancer.com |
-| https://peopleperhour.com  |
-| https://simplyhired.com    |
-| https://guru.com           |
-| https://fiverr.com         |
-| https://6nomads.com        |
-| https://www.truelancer.com |
-| https://gun.io             |
+| Website                                    |
+|--------------------------------------------|
+| [Toptal](https://toptal.com)               |
+| [Upwork](https://upwork.com)               |
+| [Freelancer](https://www.freelancer.com)   |
+| [PeoplePerHour](https://peopleperhour.com) |
+| [SimplyHired](https://simplyhired.com)     |
+| [Guru](https://guru.com)                   |
+| [Fiverr](https://fiverr.com)               |
+| [6nomads](https://6nomads.com)             |
+| [Truelancer](https://www.truelancer.com)   |
+| [Gun.io](https://gun.io)                   |
+
 
 [⬆ back to top](#table-of-contents)
 
