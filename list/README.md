@@ -438,13 +438,13 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Docs:
 
-| Website                              |
-|--------------------------------------|
-| https://developer.mozilla.org/en-US/ |
-| https://w3schools.com                |
-| https://w3docs.com                   |
-| https://devdocs.io                   |
-| https://www.php.net/docs.php         |
+| Website                                              |
+|------------------------------------------------------|
+| [MDN Web Docs](https://developer.mozilla.org/en-US/) |
+| [W3Schools](https://w3schools.com)                   |
+| [W3Docs](https://w3docs.com)                         |
+| [DevDocs](https://devdocs.io)                        |
+| [PHP.net](https://www.php.net/docs.php)              |
 
 [⬆ back to top](#table-of-contents)
 
@@ -522,20 +522,20 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## HTML/CSS/JavaScript templates:
 
-| Website                                          |
-|--------------------------------------------------|
-| https://htmlrev.com                              |
-| https://www.tooplate.com                         |
-| https://html5up.net                              |
-| https://templatemo.com                           |
-| https://uideck.com                               |
-| https://freehtml5.co                             |
-| https://bootstrapmade.com                        |
-| https://graygrids.com                            |
-| https://themeselection.com                       |
-| https://builtatlightspeed.com                    |
-| https://web3templates.com                        |
-| https://themefisher.com/free-bootstrap-templates |
+| Website                                                                                  |
+|------------------------------------------------------------------------------------------|
+| [HTMLRev](https://htmlrev.com)                                                           |
+| [TooPlate](https://www.tooplate.com)                                                     |
+| [HTML5 UP](https://html5up.net)                                                          |
+| [TemplateMo](https://templatemo.com)                                                     |
+| [UIDeck](https://uideck.com)                                                             |
+| [FreeHTML5](https://freehtml5.co)                                                        |
+| [BootstrapMade](https://bootstrapmade.com)                                               |
+| [GrayGrids](https://graygrids.com)                                                       |
+| [ThemeSelection](https://themeselection.com)                                             |
+| [Built at LightSpeed](https://builtatlightspeed.com)                                     |
+| [Web3Templates](https://web3templates.com)                                               |
+| [ThemeFisher Free Bootstrap Templates](https://themefisher.com/free-bootstrap-templates) |
 
 [⬆ back to top](#table-of-contents)
 
