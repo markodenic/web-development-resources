@@ -224,20 +224,20 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Videos:
 
-| Website                         |
-|---------------------------------|
-| https://dareful.com             |
-| https://www.videvo.net          |
-| https://www.videezy.com         |
-| https://pixabay.com/videos      |
-| https://mixkit.co               |
-| https://www.vidsplay.com        |
-| https://www.freepik.com/videos  |
-| https://www.pexels.com          |
-| https://coverr.co               |
-| https://www.splitshire.com      |
-| https://photostockeditor.com    |
-| https://www.clipstill.com       |
+| Website                                          |
+|--------------------------------------------------|
+| [Dareful](https://dareful.com)                   |
+| [Videvo](https://www.videvo.net)                 |
+| [Videezy](https://www.videezy.com)               |
+| [Pixabay Videos](https://pixabay.com/videos)     |
+| [Mixkit](https://mixkit.co)                      |
+| [Vidsplay](https://www.vidsplay.com)             |
+| [Freepik Videos](https://www.freepik.com/videos) |
+| [Pexels](https://www.pexels.com)                 |
+| [Coverr](https://coverr.co)                      |
+| [Splitshire](https://www.splitshire.com)         |
+| [PhotoStockEditor](https://photostockeditor.com) |
+| [Clipstill](https://www.clipstill.com)           |
 
 [⬆ back to top](#table-of-contents)
 
