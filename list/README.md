@@ -206,18 +206,19 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Photos:
 
-| Website                          |
-|----------------------------------|
-| https://unsplash.com             |
-| https://pixabay.com              |
-| https://pexels.com               |
-| https://reshot.com               |
-| https://librestock.com           |
-| https://visualhunt.com           |
-| https://freephotos.cc/en         |
-| https://picjumbo.com             |
-| https://www.pxfuel.com           |
-| https://freeforcommercialuse.net |
+| Website                                                     |
+|-------------------------------------------------------------|
+| [Unsplash](https://unsplash.com)                            |
+| [Pixabay](https://pixabay.com)                              |
+| [Pexels](https://pexels.com)                                |
+| [Reshot](https://reshot.com)                                |
+| [LibreStock](https://librestock.com)                        |
+| [Visual Hunt](https://visualhunt.com)                       |
+| [FreePhotos](https://freephotos.cc/en)                      |
+| [Picjumbo](https://picjumbo.com)                            |
+| [PxFuel](https://www.pxfuel.com)                            |
+| [Free for Commercial Use](https://freeforcommercialuse.net) |
+
 
 [⬆ back to top](#table-of-contents)
 
