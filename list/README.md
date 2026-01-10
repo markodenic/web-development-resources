@@ -263,35 +263,36 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Icons:
 
-| Website                                   |
-|-------------------------------------------|
-| https://fontawesome.com                   |
-| https://flaticon.com                      |
-| https://icons8.com                        |
-| https://www.iconfinder.com                |
-| https://fonts.google.com/icons            |
-| https://iconmonstr.com                    |
-| https://heroicons.com                     |
-| https://boxicons.com                      |
-| https://css.gg                            |
-| https://lineicons.com                     |
-| https://remixicon.com                     |
-| https://tabler-icons.io                   |
-| https://simpleicons.org                   |
-| https://feathericons.com                  |
-| https://svgrepo.com                       |
-| https://iconic.app                        |
-| https://icomoon.io                        |
-| https://iconscout.com/unicons             |
-| https://icons.holasvg.com                 |
-| https://fontello.com                      |
-| https://fontastic.me                      |
-| https://ionic.io/ionicons                 |
-| https://icons.getbootstrap.com            |
-| https://react-icons.github.io/react-icons |
-| https://favicons.beaubus.com/             |
-| https://www.3dicons.com/                  |
-| https://flowbite.com/icons/               |
+| Website                                                  |
+|----------------------------------------------------------|
+| [Font Awesome](https://fontawesome.com)                  |
+| [Flaticon](https://flaticon.com)                         |
+| [Icons8](https://icons8.com)                             |
+| [Iconfinder](https://www.iconfinder.com)                 |
+| [Google Material Icons](https://fonts.google.com/icons)  |
+| [Iconmonstr](https://iconmonstr.com)                     |
+| [Heroicons](https://heroicons.com)                       |
+| [Boxicons](https://boxicons.com)                         |
+| [css.gg](https://css.gg)                                 |
+| [Lineicons](https://lineicons.com)                       |
+| [Remix Icon](https://remixicon.com)                      |
+| [Tabler Icons](https://tabler-icons.io)                  |
+| [Simple Icons](https://simpleicons.org)                  |
+| [Feather Icons](https://feathericons.com)                |
+| [SVG Repo](https://svgrepo.com)                          |
+| [Iconic](https://iconic.app)                             |
+| [IcoMoon](https://icomoon.io)                            |
+| [IconScout Unicons](https://iconscout.com/unicons)       |
+| [HolaSVG Icons](https://icons.holasvg.com)               |
+| [Fontello](https://fontello.com)                         |
+| [Fontastic](https://fontastic.me)                        |
+| [Ionicons](https://ionic.io/ionicons)                    |
+| [Bootstrap Icons](https://icons.getbootstrap.com)        |
+| [React Icons](https://react-icons.github.io/react-icons) |
+| [Favicons by Beau Bus](https://favicons.beaubus.com/)    |
+| [3D Icons](https://www.3dicons.com/)                     |
+| [Flowbite Icons](https://flowbite.com/icons/)            |
+
 
 [⬆ back to top](#table-of-contents)
 
