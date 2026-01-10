@@ -175,32 +175,32 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Remote Jobs:
 
-| Website                              |
-|--------------------------------------|
-| https://workremote.cc/               |
-| https://www.remotefrontendjobs.com/  |
-| https://jobboardsearch.com           |
-| https://www.flexjobs.com             |
-| https://remote.co/remote-jobs        |
-| https://justremote.co                |
-| https://weworkremotely.com           |
-| https://remoteok.io                  |
-| https://himalayas.app                |
-| https://jobspresso.co                |
-| https://4dayweek.io                  |
-| https://www.hiretechladies.com       |
-| https://nowhiteboard.org             |
-| https://www.coolstartupjobs.com      |
-| https://wellfound.com/               |
-| https://www.smartremotejobs.com      |
-| https://startup.jobs/remote-jobs     |
-| https://jobsinjs.com                 | 
-| https://echojobs.io                  |
-| https://www.remote.io                |
-| https://web3.career/remote-jobs      |
-| https://okjob.io                     |
-| https://www.realworkfromanywhere.com |   
-| https://www.moaijobs.com             |          
+| Website                                                         |
+|-----------------------------------------------------------------|
+| [WorkRemote](https://workremote.cc/)                            |
+| [Remote Frontend Jobs](https://www.remotefrontendjobs.com/)     |
+| [Job Board Search](https://jobboardsearch.com)                  |
+| [FlexJobs](https://www.flexjobs.com)                            |
+| [Remote.co](https://remote.co/remote-jobs)                      |
+| [JustRemote](https://justremote.co)                             |
+| [We Work Remotely](https://weworkremotely.com)                  |
+| [Remote OK](https://remoteok.io)                                |
+| [Himalayas](https://himalayas.app)                              |
+| [Jobspresso](https://jobspresso.co)                             |
+| [4 Day Week](https://4dayweek.io)                               |
+| [Hire Tech Ladies](https://www.hiretechladies.com)              |
+| [No Whiteboard](https://nowhiteboard.org)                       |
+| [Cool Startup Jobs](https://www.coolstartupjobs.com)            |
+| [Wellfound](https://wellfound.com/)                             |
+| [Smart Remote Jobs](https://www.smartremotejobs.com)            |
+| [Startup Jobs](https://startup.jobs/remote-jobs)                |
+| [Jobs in JS](https://jobsinjs.com)                              |
+| [EchoJobs](https://echojobs.io)                                 |
+| [Remote.io](https://www.remote.io)                              |
+| [Web3 Career](https://web3.career/remote-jobs)                  |
+| [OKJob](https://okjob.io)                                       |
+| [Real Work From Anywhere](https://www.realworkfromanywhere.com) |
+| [MoaiJobs](https://www.moaijobs.com)                            |
 
 [⬆ back to top](#table-of-contents)
 
