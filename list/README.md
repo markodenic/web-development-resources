@@ -53,256 +53,262 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Hosting:
 
-| Website                                        | Description                                                                                                                                                                                                                                    |
-|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| https://netlify.com                            | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high-performance sites and apps.                                                                                               |
-| https://firebase.google.com                    | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                                          |
-| https://aws.amazon.com                         | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                                              |
-| https://pages.github.com                       | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                                            |
-| https://vercel.com                             | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                                 |
-| https://surge.sh                               | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                                           |
-| https://render.com                             | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                                              |
-| https://docs.gitlab.com/ee/user/project/pages/ | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                                            |
-| https://stormkit.io                            | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                                        |
-| https://www.digitalocean.com/                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.                  |
-| https://www.000webhost.com/                    | **000webhostapp** is zero-cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                                               |
-| https://infinityfree.net/                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                        |
-| https://pages.cloudflare.com/                  | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                                    |
-| https://sevalla.com/static-site-hosting/       | **Sevalla** is a PaaS platform for your applications, databases and static sites. It allows you to create up to 100 free static sites including 600 free build minutes and 100GB bandwidth/mo.                                                 |
-| https://supabase.com                           | **Supabase** is an open-source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                            |                                                                            
-| https://railway.app/                           | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                      |
-| https://fly.io/                                | **Fly** is a platform for running full-stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                            |
-| https://kinsta.com/static-site-hosting/        | **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare. |
-| https://fleek.co/                              | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |
-| https://edgeone.ai/products/pages              | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                                              |
-| https://juno.build/                            | **Juno** is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.                                                          |
+| Website                                                        | Description                                                                                                                                                                                                                                    |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Netlify](https://netlify.com)                                 | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high-performance sites and apps.                                                                                               |
+| [Firebase](https://firebase.google.com)                        | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                                          |
+| [Amazon Web Services](https://aws.amazon.com)                  | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                                              |
+| [GitHub Pages](https://pages.github.com)                       | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                                            |
+| [Vercel](https://vercel.com)                                   | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                                 |
+| [Surge](https://surge.sh)                                      | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                                           |
+| [Render](https://render.com)                                   | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                                              |
+| [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                                            |
+| [Stormkit](https://stormkit.io)                                | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                                        |
+| [DigitalOcean](https://www.digitalocean.com/)                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.                  |
+| [000webhost](https://www.000webhost.com/)                      | **000webhostapp** is zero-cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                                               |
+| [InfinityFree](https://infinityfree.net/)                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                        |
+| [Cloudflare Pages](https://pages.cloudflare.com/)              | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                                    |
+| [Sevalla](https://sevalla.com/static-site-hosting/)            | **Sevalla** is a PaaS platform for your applications, databases and static sites. It allows you to create up to 100 free static sites including 600 free build minutes and 100GB bandwidth/mo.                                                 |
+| [Supabase](https://supabase.com)                               | **Supabase** is an open-source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                            |
+| [Railway](https://railway.app/)                                | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                      |
+| [Fly](https://fly.io/)                                         | **Fly** is a platform for running full-stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                            |
+| [Kinsta](https://kinsta.com/static-site-hosting/)              | **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare. |
+| [Fleek](https://fleek.co/)                                     | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |
+| [EdgeOne Pages](https://edgeone.ai/products/pages)             | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                                              |
+| [Juno](https://juno.build/)                                    | **Juno** is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.                                                          |
+
 
 [⬆ back to top](#table-of-contents)
 
 ## Learning Platforms:
 
-| Website                                        |
-|------------------------------------------------|
-| https://www.freecodecamp.org/                  |
-| https://www.lambdatest.com/learning-hub/       |
-| https://codecademy.com                         |
-| https://javascript30.com                       |
-| https://www.frontendmentor.io                  |
-| https://testautomationu.applitools.com         |
-| https://www.coursera.org                       |
-| https://www.edx.org/                           |
-| https://khanacademy.org                        |
-| https://sololearn.com                          |
-| https://www.scaler.com/topics/                 |
-| https://www.theodinproject.com                 |
-| https://javascript.info/                       |
-| https://vueschool.io/                          |
-| https://www.guru99.com/                        |
-| https://trailhead.salesforce.com/              |
-| https://ocw.mit.edu/                           |
-| https://web.dev/                               |
-| https://scrimba.com                            |
-| https://thegymnasium.com                       |
-| https://www.amigoscode.com                     |
-| https://cssbattle.dev/                         |
-| https://fullstackopen.com/en/                  |
-| https://upskillcourses.com/courses             |
-| https://www.geeksforgeeks.org/web-development/ |
-| https://hackdesign.org/lessons                 |
-| https://learn.microsoft.com/en-gb/training/    |
-| https://www.codementor.io/events               |
-| https://eloquentjavascript.net/                |
-| https://code.org/                              |
-| https://www.interviewbit.com/                  |
-| https://css-tricks.com/                        |
-| https://learnify.shefali.dev/                        |
+| Website                                                                           |
+|-----------------------------------------------------------------------------------|
+| [freeCodeCamp](https://www.freecodecamp.org/)                                     |
+| [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/)               |
+| [Codecademy](https://codecademy.com)                                              |
+| [JavaScript30](https://javascript30.com)                                          |
+| [Frontend Mentor](https://www.frontendmentor.io)                                  |
+| [Test Automation University](https://testautomationu.applitools.com)              |
+| [Coursera](https://www.coursera.org)                                              |
+| [edX](https://www.edx.org/)                                                       |
+| [Khan Academy](https://khanacademy.org)                                           |
+| [SoloLearn](https://sololearn.com)                                                |
+| [Scaler Topics](https://www.scaler.com/topics/)                                   |
+| [The Odin Project](https://www.theodinproject.com)                                |
+| [javascript.info](https://javascript.info/)                                       |
+| [Vue School](https://vueschool.io/)                                               |
+| [Guru99](https://www.guru99.com/)                                                 |
+| [Salesforce Trailhead](https://trailhead.salesforce.com/)                         |
+| [MIT OpenCourseWare](https://ocw.mit.edu/)                                        |
+| [web.dev](https://web.dev/)                                                       |
+| [Scrimba](https://scrimba.com)                                                    |
+| [The Gymnasium](https://thegymnasium.com)                                         |
+| [Amigoscode](https://www.amigoscode.com/)                                         |
+| [CSSBattle](https://cssbattle.dev/)                                               |
+| [Full Stack Open](https://fullstackopen.com/en/)                                  |
+| [Upskill Courses](https://upskillcourses.com/courses)                             |
+| [GeeksforGeeks – Web Development](https://www.geeksforgeeks.org/web-development/) |
+| [Hack Design](https://hackdesign.org/lessons)                                     |
+| [Microsoft Learn](https://learn.microsoft.com/en-gb/training/)                    |
+| [Codementor Events](https://www.codementor.io/events)                             |
+| [Eloquent JavaScript](https://eloquentjavascript.net/)                            |
+| [Code.org](https://code.org/)                                                     |
+| [InterviewBit](https://www.interviewbit.com/)                                     |
+| [CSS-Tricks](https://css-tricks.com/)                                             |
+| [Learnify](https://learnify.shefali.dev/)                                         |
+
 
 [⬆ back to top](#table-of-contents)
 
 ## Coding Challenge Platforms:
 
-| Website                            |
-|------------------------------------|
-| https://www.codewars.com/          |
-| https://topcoder.com               |
-| https://dapp-world.com/problems    |
-| https://www.codingame.com/start    |
-| https://hackerrank.com             |
-| https://projecteuler.net           |
-| https://coderbyte.com              |
-| https://codechef.com               |
-| https://exercism.org               |
-| https://leetcode.com               |
-| https://spoj.com                   |
-| https://codeforces.com             |
-| https://codesignal.com             |
-| https://frontendmentor.io          |
-| https://devchallenges.io           |
-| https://www.hackerearth.com        |
-| https://www.frontendpractice.com   |
-| https://www.codementor.io/projects |
-| https://css-challenges.com         |
-| https://100dayscss.com             |
-| https://codepip.com                |
-| https://www.w3schools.com/codegame |
-| https://edabit.com                 |
-| https://www.jschallenger.com       |
-| https://www.codingninjas.com       |
-| https://divize.io/challenges       |
+| Website                                                   |
+|-----------------------------------------------------------|
+| [Codewars](https://www.codewars.com/)                     |
+| [TopCoder](https://topcoder.com)                          |
+| [Dapp World](https://dapp-world.com/problems)             |
+| [CodinGame](https://www.codingame.com/start)              |
+| [HackerRank](https://hackerrank.com)                      |
+| [Project Euler](https://projecteuler.net)                 |
+| [Coderbyte](https://coderbyte.com)                        |
+| [CodeChef](https://codechef.com)                          |
+| [Exercism](https://exercism.org)                          |
+| [LeetCode](https://leetcode.com)                          |
+| [SPOJ](https://spoj.com)                                  |
+| [Codeforces](https://codeforces.com)                      |
+| [CodeSignal](https://codesignal.com)                      |
+| [Frontend Mentor](https://frontendmentor.io)              |
+| [Dev Challenges](https://devchallenges.io)                |
+| [HackerEarth](https://www.hackerearth.com)                |
+| [Frontend Practice](https://www.frontendpractice.com)     |
+| [Codementor Projects](https://www.codementor.io/projects) |
+| [CSS Challenges](https://css-challenges.com)              |
+| [100 Days CSS](https://100dayscss.com)                    |
+| [Codepip](https://codepip.com)                            |
+| [W3Schools Code Game](https://www.w3schools.com/codegame) |
+| [Edabit](https://edabit.com)                              |
+| [JS Challenger](https://www.jschallenger.com)             |
+| [Coding Ninjas](https://www.codingninjas.com)             |
+| [Divize](https://divize.io/challenges)                    |
+
 
 [⬆ back to top](#table-of-contents)
 
 ## Freelancing platforms:
 
-| Website                    |
-|----------------------------|
-| https://toptal.com         |
-| https://upwork.com         |
-| https://www.freelancer.com |
-| https://peopleperhour.com  |
-| https://simplyhired.com    |
-| https://guru.com           |
-| https://fiverr.com         |
-| https://6nomads.com        |
-| https://www.truelancer.com |
-| https://gun.io             |
+| Website                                    |
+|--------------------------------------------|
+| [Toptal](https://toptal.com)               |
+| [Upwork](https://upwork.com)               |
+| [Freelancer](https://www.freelancer.com)   |
+| [PeoplePerHour](https://peopleperhour.com) |
+| [SimplyHired](https://simplyhired.com)     |
+| [Guru](https://guru.com)                   |
+| [Fiverr](https://fiverr.com)               |
+| [6nomads](https://6nomads.com)             |
+| [Truelancer](https://www.truelancer.com)   |
+| [Gun.io](https://gun.io)                   |
+
 
 [⬆ back to top](#table-of-contents)
 
 ## Remote Jobs:
 
-| Website                              |
-|--------------------------------------|
-| https://workremote.cc/               |
-| https://www.remotefrontendjobs.com/  |
-| https://jobboardsearch.com           |
-| https://www.flexjobs.com             |
-| https://remote.co/remote-jobs        |
-| https://justremote.co                |
-| https://weworkremotely.com           |
-| https://remoteok.io                  |
-| https://himalayas.app                |
-| https://jobspresso.co                |
-| https://4dayweek.io                  |
-| https://www.hiretechladies.com       |
-| https://nowhiteboard.org             |
-| https://www.coolstartupjobs.com      |
-| https://wellfound.com/               |
-| https://www.smartremotejobs.com      |
-| https://startup.jobs/remote-jobs     |
-| https://jobsinjs.com                 | 
-| https://echojobs.io                  |
-| https://www.remote.io                |
-| https://web3.career/remote-jobs      |
-| https://okjob.io                     |
-| https://www.realworkfromanywhere.com |   
-| https://www.moaijobs.com             |          
+| Website                                                         |
+|-----------------------------------------------------------------|
+| [WorkRemote](https://workremote.cc/)                            |
+| [Remote Frontend Jobs](https://www.remotefrontendjobs.com/)     |
+| [Job Board Search](https://jobboardsearch.com)                  |
+| [FlexJobs](https://www.flexjobs.com)                            |
+| [Remote.co](https://remote.co/remote-jobs)                      |
+| [JustRemote](https://justremote.co)                             |
+| [We Work Remotely](https://weworkremotely.com)                  |
+| [Remote OK](https://remoteok.io)                                |
+| [Himalayas](https://himalayas.app)                              |
+| [Jobspresso](https://jobspresso.co)                             |
+| [4 Day Week](https://4dayweek.io)                               |
+| [Hire Tech Ladies](https://www.hiretechladies.com)              |
+| [No Whiteboard](https://nowhiteboard.org)                       |
+| [Cool Startup Jobs](https://www.coolstartupjobs.com)            |
+| [Wellfound](https://wellfound.com/)                             |
+| [Smart Remote Jobs](https://www.smartremotejobs.com)            |
+| [Startup Jobs](https://startup.jobs/remote-jobs)                |
+| [Jobs in JS](https://jobsinjs.com)                              |
+| [EchoJobs](https://echojobs.io)                                 |
+| [Remote.io](https://www.remote.io)                              |
+| [Web3 Career](https://web3.career/remote-jobs)                  |
+| [OKJob](https://okjob.io)                                       |
+| [Real Work From Anywhere](https://www.realworkfromanywhere.com) |
+| [MoaiJobs](https://www.moaijobs.com)                            |
 
 [⬆ back to top](#table-of-contents)
 
 ## Photos:
 
-| Website                          |
-|----------------------------------|
-| https://unsplash.com             |
-| https://pixabay.com              |
-| https://pexels.com               |
-| https://reshot.com               |
-| https://librestock.com           |
-| https://visualhunt.com           |
-| https://freephotos.cc/en         |
-| https://picjumbo.com             |
-| https://www.pxfuel.com           |
-| https://freeforcommercialuse.net |
+| Website                                                     |
+|-------------------------------------------------------------|
+| [Unsplash](https://unsplash.com)                            |
+| [Pixabay](https://pixabay.com)                              |
+| [Pexels](https://pexels.com)                                |
+| [Reshot](https://reshot.com)                                |
+| [LibreStock](https://librestock.com)                        |
+| [Visual Hunt](https://visualhunt.com)                       |
+| [FreePhotos](https://freephotos.cc/en)                      |
+| [Picjumbo](https://picjumbo.com)                            |
+| [PxFuel](https://www.pxfuel.com)                            |
+| [Free for Commercial Use](https://freeforcommercialuse.net) |
+
 
 [⬆ back to top](#table-of-contents)
 
 ## Videos:
 
-| Website                         |
-|---------------------------------|
-| https://dareful.com             |
-| https://www.videvo.net          |
-| https://www.videezy.com         |
-| https://pixabay.com/videos      |
-| https://mixkit.co               |
-| https://www.vidsplay.com        |
-| https://www.freepik.com/videos  |
-| https://www.pexels.com          |
-| https://coverr.co               |
-| https://www.splitshire.com      |
-| https://photostockeditor.com    |
-| https://www.clipstill.com       |
+| Website                                          |
+|--------------------------------------------------|
+| [Dareful](https://dareful.com)                   |
+| [Videvo](https://www.videvo.net)                 |
+| [Videezy](https://www.videezy.com)               |
+| [Pixabay Videos](https://pixabay.com/videos)     |
+| [Mixkit](https://mixkit.co)                      |
+| [Vidsplay](https://www.vidsplay.com)             |
+| [Freepik Videos](https://www.freepik.com/videos) |
+| [Pexels](https://www.pexels.com)                 |
+| [Coverr](https://coverr.co)                      |
+| [Splitshire](https://www.splitshire.com)         |
+| [PhotoStockEditor](https://photostockeditor.com) |
+| [Clipstill](https://www.clipstill.com)           |
 
 [⬆ back to top](#table-of-contents)
 
 
 ## Illustrations:
 
-| Website                                    |
-|--------------------------------------------|
-| https://icons8.com/illustrations           |
-| https://www.opendoodles.com                |
-| https://undraw.co/illustrations            |
-| https://www.drawkit.com                    |
-| https://icons8.com/ouch                    |
-| https://iradesign.io                       |
-| https://blush.design                       |
-| https://storyset.com                       |
-| https://themeisle.com/illustrations        |
-| https://www.manypixels.co/gallery          |
-| https://www.artify.co/illustrations-figma  |
-| https://cocomaterial.com/                  |
+| Website                                                        |
+|----------------------------------------------------------------|
+| [Icons8 Illustrations](https://icons8.com/illustrations)       |
+| [Open Doodles](https://www.opendoodles.com)                    |
+| [unDraw](https://undraw.co/illustrations)                      |
+| [DrawKit](https://www.drawkit.com)                             |
+| [Icons8 Ouch](https://icons8.com/ouch)                         |
+| [IRA Design](https://iradesign.io)                             |
+| [Blush](https://blush.design)                                  |
+| [Storyset](https://storyset.com)                               |
+| [ThemeIsle Illustrations](https://themeisle.com/illustrations) |
+| [ManyPixels Gallery](https://www.manypixels.co/gallery)        |
+| [Artify](https://www.artify.co/illustrations-figma)            |
+| [CocoMaterial](https://cocomaterial.com/)                      |
 
 [⬆ back to top](#table-of-contents)
 
 ## Icons:
 
-| Website                                   |
-|-------------------------------------------|
-| https://fontawesome.com                   |
-| https://flaticon.com                      |
-| https://icons8.com                        |
-| https://www.iconfinder.com                |
-| https://fonts.google.com/icons            |
-| https://iconmonstr.com                    |
-| https://heroicons.com                     |
-| https://boxicons.com                      |
-| https://css.gg                            |
-| https://lineicons.com                     |
-| https://remixicon.com                     |
-| https://tabler-icons.io                   |
-| https://simpleicons.org                   |
-| https://feathericons.com                  |
-| https://svgrepo.com                       |
-| https://iconic.app                        |
-| https://icomoon.io                        |
-| https://iconscout.com/unicons             |
-| https://icons.holasvg.com                 |
-| https://fontello.com                      |
-| https://fontastic.me                      |
-| https://ionic.io/ionicons                 |
-| https://icons.getbootstrap.com            |
-| https://react-icons.github.io/react-icons |
-| https://favicons.beaubus.com/             |
-| https://www.3dicons.com/                  |
-| https://flowbite.com/icons/               |
+| Website                                                  |
+|----------------------------------------------------------|
+| [Font Awesome](https://fontawesome.com)                  |
+| [Flaticon](https://flaticon.com)                         |
+| [Icons8](https://icons8.com)                             |
+| [Iconfinder](https://www.iconfinder.com)                 |
+| [Google Material Icons](https://fonts.google.com/icons)  |
+| [Iconmonstr](https://iconmonstr.com)                     |
+| [Heroicons](https://heroicons.com)                       |
+| [Boxicons](https://boxicons.com)                         |
+| [css.gg](https://css.gg)                                 |
+| [Lineicons](https://lineicons.com)                       |
+| [Remix Icon](https://remixicon.com)                      |
+| [Tabler Icons](https://tabler-icons.io)                  |
+| [Simple Icons](https://simpleicons.org)                  |
+| [Feather Icons](https://feathericons.com)                |
+| [SVG Repo](https://svgrepo.com)                          |
+| [Iconic](https://iconic.app)                             |
+| [IcoMoon](https://icomoon.io)                            |
+| [IconScout Unicons](https://iconscout.com/unicons)       |
+| [HolaSVG Icons](https://icons.holasvg.com)               |
+| [Fontello](https://fontello.com)                         |
+| [Fontastic](https://fontastic.me)                        |
+| [Ionicons](https://ionic.io/ionicons)                    |
+| [Bootstrap Icons](https://icons.getbootstrap.com)        |
+| [React Icons](https://react-icons.github.io/react-icons) |
+| [Favicons by Beau Bus](https://favicons.beaubus.com/)    |
+| [3D Icons](https://www.3dicons.com/)                     |
+| [Flowbite Icons](https://flowbite.com/icons/)            |
+
 
 [⬆ back to top](#table-of-contents)
 
 ## Fonts:
 
-| Website                      |
-|------------------------------|
-| https://fonts.google.com     |
-| https://fontspace.com        |
-| https://www.1001fonts.com    |
-| https://www.fontsquirrel.com |
-| https://ffonts.net           |
-| https://www.fontfabric.com   |
-| https://urbanfonts.com       |
-| https://www.fontpair.co      |
-| https://fonts.bunny.net      |
+| Website                                       |
+|-----------------------------------------------|
+| [Google Fonts](https://fonts.google.com)      |
+| [FontSpace](https://fontspace.com)            |
+| [1001 Fonts](https://www.1001fonts.com)       |
+| [Font Squirrel](https://www.fontsquirrel.com) |
+| [FFonts](https://ffonts.net)                  |
+| [FontFabric](https://www.fontfabric.com)      |
+| [Urban Fonts](https://urbanfonts.com)         |
+| [Fontpair](https://www.fontpair.co)           |
+| [Fonts Bunny](https://fonts.bunny.net)        |
 
 [⬆ back to top](#table-of-contents)
 
@@ -380,66 +386,65 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Color Palettes:
 
-| Website                       |
-|-------------------------------|
-| https://coolors.co            |
-| https://colorhunt.co          |
-| https://paletton.com          |
-| https://color-hex.com         |
-| https://mycolor.space         |
-| https://flatuicolors.com      |
-| https://color.adobe.com       |
-| https://htmlcolorcodes.com    |
-| https://colorsinspo.com       |
-| https://uigradients.com       |
-| https://www.gradientos.app    |
-| https://www.eggradients.com   |
-| https://cssgradient.io        |
-| https://www.0to255.com        |
-| https://materialui.co/colors/ |
-| https://uicolors.app          |
-| https://colorfa.me            |
+| Website                                             |
+|-----------------------------------------------------|
+| [Coolors](https://coolors.co)                       |
+| [Color Hunt](https://colorhunt.co)                  |
+| [Paletton](https://paletton.com)                    |
+| [Color Hex](https://color-hex.com)                  |
+| [MyColor Space](https://mycolor.space)              |
+| [Flat UI Colors](https://flatuicolors.com)          |
+| [Adobe Color](https://color.adobe.com)              |
+| [HTML Color Codes](https://htmlcolorcodes.com)      |
+| [Colors in Spo](https://colorsinspo.com)            |
+| [UI Gradients](https://uigradients.com)             |
+| [Gradientos](https://www.gradientos.app)            |
+| [EG Gradients](https://www.eggradients.com)         |
+| [CSS Gradient](https://cssgradient.io)              |
+| [0 to 255](https://www.0to255.com)                  |
+| [Material UI Colors](https://materialui.co/colors/) |
+| [UI Colors](https://uicolors.app)                   |
+| [Colorfa](https://colorfa.me)                       |
 
 [⬆ back to top](#table-of-contents)
 
 ## UI Inspiration:
 
-| Website                      |
-|------------------------------|
-| https://websitevice.com/     |
-| https://httpster.net         |
-| https://www.awwwards.com     |
-| https://dribbble.com         |
-| https://onepagelove.com      |
-| https://www.behance.net      |
-| https://tympanus.net/codrops |
-| https://landings.dev         |
+| Website                                  |
+|------------------------------------------|
+| [WebsiteVice](https://websitevice.com/)  |
+| [HTTPster](https://httpster.net)         |
+| [Awwwards](https://www.awwwards.com)     |
+| [Dribbble](https://dribbble.com)         |
+| [Behance](https://www.behance.net)       |
+| [Codrops](https://tympanus.net/codrops)  |
+| [Landings.dev](https://landings.dev)     |
 
 [⬆ back to top](#table-of-contents)
 
 ## Web Accessibility Tools:
 
-| Website                                            |
-|----------------------------------------------------|
-| https://wave.webaim.org/                           |
-| https://accessibilityinsights.io/                  |
-| https://developers.google.com/web/tools/lighthouse |
-| https://pa11y.org/                                 |
-| https://webaim.org/resources/contrastchecker/      |
-| https://abc.useallfive.com/                        |
-| https://contrast-ratio.com/                        |
+| Website                                                                  |
+|--------------------------------------------------------------------------|
+| [WAVE](https://wave.webaim.org/)                                         |
+| [Accessibility Insights](https://accessibilityinsights.io/)              |
+| [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)  |
+| [Pa11y](https://pa11y.org/)                                              |
+| [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) |
+| [ABC Use All Five](https://abc.useallfive.com/)                          |
+| [Contrast Ratio](https://contrast-ratio.com/)                            |
 
 [⬆ back to top](#table-of-contents)
 
 ## Docs:
 
-| Website                              |
-|--------------------------------------|
-| https://developer.mozilla.org/en-US/ |
-| https://w3schools.com                |
-| https://w3docs.com                   |
-| https://devdocs.io                   |
-| https://www.php.net/docs.php         |
+| Website                                              |
+|------------------------------------------------------|
+| [MDN Web Docs](https://developer.mozilla.org/en-US/) |
+| [W3Schools](https://w3schools.com)                   |
+| [W3Docs](https://w3docs.com)                         |
+| [DevDocs](https://devdocs.io)                        |
+| [PHP.net](https://www.php.net/docs.php)              |
 
 [⬆ back to top](#table-of-contents)
 
@@ -517,20 +522,20 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## HTML/CSS/JavaScript templates:
 
-| Website                                          |
-|--------------------------------------------------|
-| https://htmlrev.com                              |
-| https://www.tooplate.com                         |
-| https://html5up.net                              |
-| https://templatemo.com                           |
-| https://uideck.com                               |
-| https://freehtml5.co                             |
-| https://bootstrapmade.com                        |
-| https://graygrids.com                            |
-| https://themeselection.com                       |
-| https://builtatlightspeed.com                    |
-| https://web3templates.com                        |
-| https://themefisher.com/free-bootstrap-templates |
+| Website                                                                                  |
+|------------------------------------------------------------------------------------------|
+| [HTMLRev](https://htmlrev.com)                                                           |
+| [TooPlate](https://www.tooplate.com)                                                     |
+| [HTML5 UP](https://html5up.net)                                                          |
+| [TemplateMo](https://templatemo.com)                                                     |
+| [UIDeck](https://uideck.com)                                                             |
+| [FreeHTML5](https://freehtml5.co)                                                        |
+| [BootstrapMade](https://bootstrapmade.com)                                               |
+| [GrayGrids](https://graygrids.com)                                                       |
+| [ThemeSelection](https://themeselection.com)                                             |
+| [Built at LightSpeed](https://builtatlightspeed.com)                                     |
+| [Web3Templates](https://web3templates.com)                                               |
+| [ThemeFisher Free Bootstrap Templates](https://themefisher.com/free-bootstrap-templates) |
 
 [⬆ back to top](#table-of-contents)
 
