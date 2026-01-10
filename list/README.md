@@ -386,40 +386,39 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Color Palettes:
 
-| Website                       |
-|-------------------------------|
-| https://coolors.co            |
-| https://colorhunt.co          |
-| https://paletton.com          |
-| https://color-hex.com         |
-| https://mycolor.space         |
-| https://flatuicolors.com      |
-| https://color.adobe.com       |
-| https://htmlcolorcodes.com    |
-| https://colorsinspo.com       |
-| https://uigradients.com       |
-| https://www.gradientos.app    |
-| https://www.eggradients.com   |
-| https://cssgradient.io        |
-| https://www.0to255.com        |
-| https://materialui.co/colors/ |
-| https://uicolors.app          |
-| https://colorfa.me            |
+| Website                                             |
+|-----------------------------------------------------|
+| [Coolors](https://coolors.co)                       |
+| [Color Hunt](https://colorhunt.co)                  |
+| [Paletton](https://paletton.com)                    |
+| [Color Hex](https://color-hex.com)                  |
+| [MyColor Space](https://mycolor.space)              |
+| [Flat UI Colors](https://flatuicolors.com)          |
+| [Adobe Color](https://color.adobe.com)              |
+| [HTML Color Codes](https://htmlcolorcodes.com)      |
+| [Colors in Spo](https://colorsinspo.com)            |
+| [UI Gradients](https://uigradients.com)             |
+| [Gradientos](https://www.gradientos.app)            |
+| [EG Gradients](https://www.eggradients.com)         |
+| [CSS Gradient](https://cssgradient.io)              |
+| [0 to 255](https://www.0to255.com)                  |
+| [Material UI Colors](https://materialui.co/colors/) |
+| [UI Colors](https://uicolors.app)                   |
+| [Colorfa](https://colorfa.me)                       |
 
 [⬆ back to top](#table-of-contents)
 
 ## UI Inspiration:
 
-| Website                      |
-|------------------------------|
-| https://websitevice.com/     |
-| https://httpster.net         |
-| https://www.awwwards.com     |
-| https://dribbble.com         |
-| https://onepagelove.com      |
-| https://www.behance.net      |
-| https://tympanus.net/codrops |
-| https://landings.dev         |
+| Website                                  |
+|------------------------------------------|
+| [WebsiteVice](https://websitevice.com/)  |
+| [HTTPster](https://httpster.net)         |
+| [Awwwards](https://www.awwwards.com)     |
+| [Dribbble](https://dribbble.com)         |
+| [Behance](https://www.behance.net)       |
+| [Codrops](https://tympanus.net/codrops)  |
+| [Landings.dev](https://landings.dev)     |
 
 [⬆ back to top](#table-of-contents)
 
