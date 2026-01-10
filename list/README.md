@@ -298,17 +298,17 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Fonts:
 
-| Website                      |
-|------------------------------|
-| https://fonts.google.com     |
-| https://fontspace.com        |
-| https://www.1001fonts.com    |
-| https://www.fontsquirrel.com |
-| https://ffonts.net           |
-| https://www.fontfabric.com   |
-| https://urbanfonts.com       |
-| https://www.fontpair.co      |
-| https://fonts.bunny.net      |
+| Website                                       |
+|-----------------------------------------------|
+| [Google Fonts](https://fonts.google.com)      |
+| [FontSpace](https://fontspace.com)            |
+| [1001 Fonts](https://www.1001fonts.com)       |
+| [Font Squirrel](https://www.fontsquirrel.com) |
+| [FFonts](https://ffonts.net)                  |
+| [FontFabric](https://www.fontfabric.com)      |
+| [Urban Fonts](https://urbanfonts.com)         |
+| [Fontpair](https://www.fontpair.co)           |
+| [Fonts Bunny](https://fonts.bunny.net)        |
 
 [⬆ back to top](#table-of-contents)
 
