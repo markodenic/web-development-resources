@@ -244,20 +244,20 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Illustrations:
 
-| Website                                    |
-|--------------------------------------------|
-| https://icons8.com/illustrations           |
-| https://www.opendoodles.com                |
-| https://undraw.co/illustrations            |
-| https://www.drawkit.com                    |
-| https://icons8.com/ouch                    |
-| https://iradesign.io                       |
-| https://blush.design                       |
-| https://storyset.com                       |
-| https://themeisle.com/illustrations        |
-| https://www.manypixels.co/gallery          |
-| https://www.artify.co/illustrations-figma  |
-| https://cocomaterial.com/                  |
+| Website                                                        |
+|----------------------------------------------------------------|
+| [Icons8 Illustrations](https://icons8.com/illustrations)       |
+| [Open Doodles](https://www.opendoodles.com)                    |
+| [unDraw](https://undraw.co/illustrations)                      |
+| [DrawKit](https://www.drawkit.com)                             |
+| [Icons8 Ouch](https://icons8.com/ouch)                         |
+| [IRA Design](https://iradesign.io)                             |
+| [Blush](https://blush.design)                                  |
+| [Storyset](https://storyset.com)                               |
+| [ThemeIsle Illustrations](https://themeisle.com/illustrations) |
+| [ManyPixels Gallery](https://www.manypixels.co/gallery)        |
+| [Artify](https://www.artify.co/illustrations-figma)            |
+| [CocoMaterial](https://cocomaterial.com/)                      |
 
 [⬆ back to top](#table-of-contents)
 
