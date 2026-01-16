@@ -614,6 +614,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [ToolZack](https://toolzack.com)                                                 | A friendly web toolkit for converting, encoding, formatting and styling text. Over 120 free tools.                        |
 | [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                     |
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                        |
+| [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                  |
 
 [⬆ back to top](#table-of-contents)
 
