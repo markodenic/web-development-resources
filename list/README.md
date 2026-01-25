@@ -341,7 +341,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh)          |
 | [Fireship](https://www.youtube.com/c/Fireship)                                |
 | [Codevolution](https://www.youtube.com/c/Codevolution)                        |
-| [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)             |
 | [CSS Weekly](https://www.youtube.com/c/cssweekly)                             |
 | [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode)                     |
 | [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
@@ -360,7 +359,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Front End Happy Hour](https://frontendhappyhour.com/)                      |
 | [JavaScript Jabber](https://javascriptjabber.com/)                          |
 | [Shop Talk](https://shoptalkshow.com/)                                      |
-| [Ladybug Podcast](https://www.ladybug.dev/)                                 |
 | [CodePen Radio](https://blog.codepen.io/radio/)                             |
 | [React Native Radio](https://reactnativeradio.com/)                         |
 | [Html All The Things](https://podcast.htmlallthethings.com/)                |
@@ -549,7 +547,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CSS Weekly](https://css-weekly.com/)                                                  | CSS.                                                            |
 | [JavaScript Weekly](https://javascriptweekly.com/)                                     | JavaScript.                                                     |
 | [Accessibility Weekly](https://a11yweekly.com/)                                        | Accessibility.                                                  |
-| [JAMstacked](https://jamstack.email/)                                                  | JAMstack ecosystem.                                             |
 | [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/) | User Interface development.                                     |
 | [Go Make Things](https://gomakethings.com/)                                            | Daily Vanilla JavaScript.                                       |
 
