@@ -54,7 +54,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 ## Hosting:
 
 | Website                                                        | Description                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|----------------------------------------------------------------| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Netlify](https://netlify.com)                                 | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high-performance sites and apps.                                                                                               |
 | [Firebase](https://firebase.google.com)                        | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                                          |
 | [Amazon Web Services](https://aws.amazon.com)                  | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                                              |
@@ -65,15 +65,14 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                                            |
 | [Stormkit](https://stormkit.io)                                | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                                        |
 | [DigitalOcean](https://www.digitalocean.com/)                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.                  |
-| [000webhost](https://www.000webhost.com/)                      | **000webhostapp** is zero-cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                                               |
-| [InfinityFree](https://infinityfree.net/)                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                        |
+| [InfinityFree](https://infinityfree.com/)                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                        |
 | [Cloudflare Pages](https://pages.cloudflare.com/)              | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                                    |
 | [Sevalla](https://sevalla.com/static-site-hosting/)            | **Sevalla** is a PaaS platform for your applications, databases and static sites. It allows you to create up to 100 free static sites including 600 free build minutes and 100GB bandwidth/mo.                                                 |
 | [Supabase](https://supabase.com)                               | **Supabase** is an open-source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                            |
-| [Railway](https://railway.app/)                                | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                      |
+| [Railway](https://railway.com/)                                | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                      |
 | [Fly](https://fly.io/)                                         | **Fly** is a platform for running full-stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                            |
 | [Kinsta](https://kinsta.com/static-site-hosting/)              | **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare. |
-| [Fleek](https://fleek.co/)                                     | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |
+| [Fleek](https://www.fleek.sh/)                                 | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |
 | [EdgeOne Pages](https://edgeone.ai/products/pages)             | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                                              |
 | [Juno](https://juno.build/)                                    | **Juno** is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.                                                          |
 
@@ -85,7 +84,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | Website                                                                           |
 |-----------------------------------------------------------------------------------|
 | [freeCodeCamp](https://www.freecodecamp.org/)                                     |
-| [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/)               |
 | [Codecademy](https://codecademy.com)                                              |
 | [JavaScript30](https://javascript30.com)                                          |
 | [Frontend Mentor](https://www.frontendmentor.io)                                  |
@@ -184,7 +182,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Remote.co](https://remote.co/remote-jobs)                      |
 | [JustRemote](https://justremote.co)                             |
 | [We Work Remotely](https://weworkremotely.com)                  |
-| [Remote OK](https://remoteok.io)                                |
+| [Remote OK](https://remoteok.com)                               |
 | [Himalayas](https://himalayas.app)                              |
 | [Jobspresso](https://jobspresso.co)                             |
 | [4 Day Week](https://4dayweek.io)                               |
@@ -198,7 +196,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [EchoJobs](https://echojobs.io)                                 |
 | [Remote.io](https://www.remote.io)                              |
 | [Web3 Career](https://web3.career/remote-jobs)                  |
-| [OKJob](https://okjob.io)                                       |
 | [Real Work From Anywhere](https://www.realworkfromanywhere.com) |
 | [MoaiJobs](https://www.moaijobs.com)                            |
 
@@ -227,7 +224,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | Website                                          |
 |--------------------------------------------------|
 | [Dareful](https://dareful.com)                   |
-| [Videvo](https://www.videvo.net)                 |
 | [Videezy](https://www.videezy.com)               |
 | [Pixabay Videos](https://pixabay.com/videos)     |
 | [Mixkit](https://mixkit.co)                      |
@@ -268,7 +264,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Font Awesome](https://fontawesome.com)                  |
 | [Flaticon](https://flaticon.com)                         |
 | [Icons8](https://icons8.com)                             |
-| [Iconfinder](https://www.iconfinder.com)                 |
 | [Google Material Icons](https://fonts.google.com/icons)  |
 | [Iconmonstr](https://iconmonstr.com)                     |
 | [Heroicons](https://heroicons.com)                       |
@@ -276,7 +271,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [css.gg](https://css.gg)                                 |
 | [Lineicons](https://lineicons.com)                       |
 | [Remix Icon](https://remixicon.com)                      |
-| [Tabler Icons](https://tabler-icons.io)                  |
+| [Tabler Icons](https://tabler.io/icons)                  |
 | [Simple Icons](https://simpleicons.org)                  |
 | [Feather Icons](https://feathericons.com)                |
 | [SVG Repo](https://svgrepo.com)                          |
@@ -351,19 +346,19 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Podcasts:
 
-| Website                                                                     |
-|-----------------------------------------------------------------------------|
-| [Syntax](https://syntax.fm/)                                                |
-| [The Changelog](https://changelog.com/)                                     |
-| [The Laracasts Snippet](https://laracasts.com/podcast)                      |
-| [Front End Happy Hour](https://frontendhappyhour.com/)                      |
-| [JavaScript Jabber](https://javascriptjabber.com/)                          |
-| [Shop Talk](https://shoptalkshow.com/)                                      |
-| [CodePen Radio](https://blog.codepen.io/radio/)                             |
-| [React Native Radio](https://reactnativeradio.com/)                         |
-| [Html All The Things](https://podcast.htmlallthethings.com/)                |
-| [The CSS Podcast](https://thecsspodcast.libsyn.com/)                        |
-| [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/)           |
+| Website                                                                |
+|------------------------------------------------------------------------|
+| [Syntax](https://syntax.fm/)                                           |
+| [The Changelog](https://changelog.com/)                                |
+| [The Laracasts Snippet](https://laracasts.com/podcast)                 |
+| [Front End Happy Hour](https://frontendhappyhour.com/)                 |
+| [JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber) |
+| [Shop Talk](https://shoptalkshow.com/)                                 |
+| [CodePen Radio](https://blog.codepen.io/radio/)                        |
+| [React Native Radio](https://infinite.red/react-native-radio?from=/)   |
+| [Html All The Things](https://podcast.htmlallthethings.com/)           |
+| [The CSS Podcast](https://thecsspodcast.libsyn.com/)                   |
+| [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/)      |
 
 [⬆ back to top](#table-of-contents)
 
@@ -422,15 +417,14 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Web Accessibility Tools:
 
-| Website                                                                  |
-|--------------------------------------------------------------------------|
-| [WAVE](https://wave.webaim.org/)                                         |
-| [Accessibility Insights](https://accessibilityinsights.io/)              |
-| [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)  |
-| [Pa11y](https://pa11y.org/)                                              |
-| [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) |
-| [ABC Use All Five](https://abc.useallfive.com/)                          |
-| [Contrast Ratio](https://contrast-ratio.com/)                            |
+| Website                                                                     |
+|-----------------------------------------------------------------------------|
+| [WAVE](https://wave.webaim.org/)                                            |
+| [Accessibility Insights](https://accessibilityinsights.io/)                 |
+| [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) |
+| [Pa11y](https://pa11y.org/)                                                 |
+| [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)    |
+| [ABC Use All Five](https://abc.useallfive.com/)                             |
 
 [⬆ back to top](#table-of-contents)
 
@@ -453,7 +447,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CSShake](https://elrumordelaluz.github.io/csshake/)           |
 | [Animate.css](https://animate.style/)                          |
 | [AnimeJS](https://animejs.com/)                                |
-| [GreenSock (GSAP)](https://greensock.com/gsap/)                |
+| [GreenSock (GSAP)](https://gsap.com/)                          |
 | [Magic Animations](https://www.minimamente.com/project/magic/) |
 | [Hover css](https://ianlunn.github.io/Hover/)                  |
 | [AniJS](https://anijs.github.io/)                              |
@@ -488,19 +482,19 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                                                                                                                             |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                           |
-| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                 |
-| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                     |
-| [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)  |
-| [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                           |
-| [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)    |
-| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                               |
-| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)                                                         |
-| [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                        |
-| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                   |
-| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                     |
-| [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) |
-| [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                    |
+| [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                            |
+| [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                  |
+| [JSONView](https://chromewebstore.google.com/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                      |
+| [daily.dev - News for Busy Developers](https://chromewebstore.google.com/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)   |
+| [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                            |
+| [Checkbot - SEO, speed & security checker](https://chromewebstore.google.com/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)     |
+| [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                                |
+| [Visbug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)                                                          |
+| [Colorzilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                         |
+| [Window Resizer](https://chromewebstore.google.com/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                    |
+| [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                      |
+| [Hackertab.dev - All Developer news in 1 tab](https://chromewebstore.google.com/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)  |
+| [Vue Developer Tools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -559,7 +553,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Glassmorphism Generators](https://markodenic.com/tools/glassmorphism-css-generator/) | Use Glassmorphism Generator to create a stunning effect for your projects.                                                                                                            |
 | [Buttons Generator](https://markodenic.com/tools/buttons-generator/)                  | An online gallery of 100+ button designs you can easily copy and use in your projects.                                                                                                |
 | [Layoutit Grid](https://grid.layoutit.com/)                                           | Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.                                         |
-| [Hola SVG Loaders Generator](https://holasvg.com/loaders/)                            | SVG Loaders Generator with Sass and SMIL options                                                                                                                                      |
+| [Hola SVG Loaders Generator](https://loaders.holasvg.com/)                            | SVG Loaders Generator with Sass and SMIL options                                                                                                                                      |
 | [Shape Divider](https://www.shapedivider.app/)                                        | A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project.                                                          |
 | [BEAUBUS Patterns](https://patterns.beaubus.com/)                                     | 150+ free SVG patterns and CSS background images generator                                                                                                                            |
 | [9elements - Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)   | 9elements is a little tool, that helps you create your very own organic shape. When you use four/eight values specifying border-radius in CSS, you can create organic looking shapes. |
@@ -567,7 +561,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker)                  | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations.                                                                               |
 | [Neumorphism](https://neumorphism.io/)                                                | A free online tool for designing attractive UI with colors, gradients and shadows..                                                                                                   |
 | [Scrollbar.app](https://scrollbar.app/)                                               | A simple online tool for creating custom scrollbars for the web.                                                                                                                      |
-| [Code Magic](https://code-magic.vercel.app/)                                          | A free tool to make CSS easier by generating Tailwind and CSS code for effects, gradients and inputs                                                                                  |
+| [Code Magic](https://code-magic.favour.dev/)                                          | A free tool to make CSS easier by generating Tailwind and CSS code for effects, gradients and inputs                                                                                  |
 
 [⬆ back to top](#table-of-contents)
 
@@ -663,7 +657,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 |---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [Taiga UI](https://taiga-ui.dev/)                 | A powerful set of open source components for Angular                                                               |
 | [PrimeNG](https://www.primefaces.org/primeng/)    | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
-| [Angular Material](https://material.angular.io/)  | Angular Material is a UI library component developed by Google in 2014.                                            |
+| [Angular Material](https://material.angular.dev/)  | Angular Material is a UI library component developed by Google in 2014.                                            |
 | [TailAdmin Angular](https://tailadmin.com/angular)| Open-source Angular Tailwind CSS Admin Dashboard Template and UI Components                                        |
 
 
