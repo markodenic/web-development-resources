@@ -187,7 +187,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Jobspresso](https://jobspresso.co)                             |
 | [4 Day Week](https://4dayweek.io)                               |
 | [Hire Tech Ladies](https://www.hiretechladies.com)              |
-| [No Whiteboard](https://nowhiteboard.org)                       |
 | [Cool Startup Jobs](https://www.coolstartupjobs.com)            |
 | [Wellfound](https://wellfound.com/)                             |
 | [Smart Remote Jobs](https://www.smartremotejobs.com)            |
@@ -262,7 +261,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | Website                                                  |
 |----------------------------------------------------------|
 | [Font Awesome](https://fontawesome.com)                  |
-| [Flaticon](https://flaticon.com)                         |
+| [Flaticon](https://www.flaticon.com/)                    |
 | [Icons8](https://icons8.com)                             |
 | [Google Material Icons](https://fonts.google.com/icons)  |
 | [Iconmonstr](https://iconmonstr.com)                     |
@@ -274,7 +273,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Tabler Icons](https://tabler.io/icons)                  |
 | [Simple Icons](https://simpleicons.org)                  |
 | [Feather Icons](https://feathericons.com)                |
-| [SVG Repo](https://svgrepo.com)                          |
+| [SVG Repo](https://www.svgrepo.com/)                     |
 | [Iconic](https://iconic.app)                             |
 | [IcoMoon](https://icomoon.io)                            |
 | [IconScout Unicons](https://iconscout.com/unicons)       |
@@ -394,7 +393,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Gradientos](https://www.gradientos.app)            |
 | [EG Gradients](https://www.eggradients.com)         |
 | [CSS Gradient](https://cssgradient.io)              |
-| [0 to 255](https://www.0to255.com)                  |
+| [0 to 255](https://0to255.com/)                     |
 | [Material UI Colors](https://materialui.co/colors/) |
 | [UI Colors](https://uicolors.app)                   |
 | [Colorfa](https://colorfa.me)                       |
@@ -525,7 +524,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [BootstrapMade](https://bootstrapmade.com)                                               |
 | [GrayGrids](https://graygrids.com)                                                       |
 | [ThemeSelection](https://themeselection.com)                                             |
-| [Built at LightSpeed](https://builtatlightspeed.com)                                     |
+| [Built at LightSpeed](https://www.builtatlightspeed.com/)                                |
 | [Web3Templates](https://web3templates.com)                                               |
 | [ThemeFisher Free Bootstrap Templates](https://themefisher.com/free-bootstrap-templates) |
 
