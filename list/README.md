@@ -600,7 +600,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [ToolsChimp.com](https://toolschimp.com/)                                        | 1000+ Free Online tools. No Signup, No Paywall. Color Converters, Image Tools, Video Tools, etc.,                         |
 | [volumeshaderbm.org](https://volumeshaderbm.org)                                 | A browser-based volume shader benchmark with interactive kernels and reproducible presets.                                |
 | [Format JSON Online](https://formatjsononline.com)                                 | A Complete Toolkit for JSON & Data Processing.|
-| [webtoolz](https://webtoolz.dev)                                                   | Free JSON toolkit - format, validate, diff, convert to YAML/CSV. Runs entirely in browser. |
+| [webtoolz](https://webtoolz.dev) | JSON studio with AI-powered fix for broken JSON. Also formats, validates, minifies. Browser-only. |
 | [WordToTime](https://wordtotime.org)                                             | A browser-based calculator that estimates speaking/reading time for scripts, documentation, and content. Useful for podcasts, videos, tutorials, and technical presentations.  |
 | [ToolZack](https://toolzack.com)                                                 | A friendly web toolkit for converting, encoding, formatting and styling text. Over 120 free tools.                        |
 | [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                     |
