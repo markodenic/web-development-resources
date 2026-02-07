@@ -71,7 +71,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Supabase](https://supabase.com)                               | **Supabase** is an open-source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                            |
 | [Railway](https://railway.com/)                                | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                      |
 | [Fly](https://fly.io/)                                         | **Fly** is a platform for running full-stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                            |
-| [Kinsta](https://kinsta.com/static-site-hosting/)              | **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare. |
 | [Fleek](https://www.fleek.sh/)                                 | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |
 | [EdgeOne Pages](https://edgeone.ai/products/pages)             | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                                              |
 | [Juno](https://juno.build/)                                    | **Juno** is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.                                                          |
@@ -207,7 +206,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Unsplash](https://unsplash.com)                            |
 | [Pixabay](https://pixabay.com)                              |
 | [Pexels](https://pexels.com)                                |
-| [Reshot](https://reshot.com)                                |
 | [LibreStock](https://librestock.com)                        |
 | [Visual Hunt](https://visualhunt.com)                       |
 | [FreePhotos](https://freephotos.cc/en)                      |
@@ -389,14 +387,12 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Adobe Color](https://color.adobe.com)              |
 | [HTML Color Codes](https://htmlcolorcodes.com)      |
 | [Colors in Spo](https://colorsinspo.com)            |
-| [UI Gradients](https://uigradients.com)             |
 | [Gradientos](https://www.gradientos.app)            |
 | [EG Gradients](https://www.eggradients.com)         |
 | [CSS Gradient](https://cssgradient.io)              |
 | [0 to 255](https://0to255.com/)                     |
 | [Material UI Colors](https://materialui.co/colors/) |
 | [UI Colors](https://uicolors.app)                   |
-| [Colorfa](https://colorfa.me)                       |
 
 [⬆ back to top](#table-of-contents)
 
