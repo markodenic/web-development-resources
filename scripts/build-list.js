@@ -10,15 +10,12 @@ const readmeContent = fs.readFileSync(readmePath, 'utf8');
 const renderer = new marked.Renderer();
 
 renderer.heading = function ({ text, depth, raw }) {
-    // Check if arguments are passed as object (marked v5+) or individual arguments
-    const headerText = arguments[0]?.text || arguments[0] || '';
-    const headerLevel = arguments[0]?.depth || arguments[1];
-
-    const slug = String(headerText)
+    const slug = String(text)
         .toLowerCase()
         .replace(/[^\w\s-]/g, '')
         .replace(/\s+/g, '-');
-    return `<h${headerLevel} id="${slug}">${headerText}</h${headerLevel}>\n`;
+    const level = depth || 1;
+    return `<h${level} id="${slug}">${text}</h${level}>\n`;
 };
 
 const rawHtmlContent = marked.parse(readmeContent, { renderer: renderer });
@@ -31,7 +28,7 @@ const template = `<!DOCTYPE html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Web Development Resources</title>
     <meta name="description" content="This is a list of awesome web development resources. Add more!">
-    <link rel="canonical" href="https://web-dev-resources.com/" />
+    <link rel="canonical" href="https://web-dev-resources.com/list/" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css" integrity="sha512-BrOPA520KmDMqieeM7XFe6a3u3Sb3F1JBaQnrIAmWg3EYrciJ+Qqe6ZcKCdfPv26rGcgTrJnZ/IdQEct8h3Zhw==" crossorigin="anonymous" referrerpolicy="no-referrer" />    <style>
         .markdown-body {
             box-sizing: border-box;

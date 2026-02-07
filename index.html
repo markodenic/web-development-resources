@@ -14,42 +14,43 @@
         integrity="sha512-BrOPA520KmDMqieeM7XFe6a3u3Sb3F1JBaQnrIAmWg3EYrciJ+Qqe6ZcKCdfPv26rGcgTrJnZ/IdQEct8h3Zhw=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
-        .markdown-body {
+        .container {
             box-sizing: border-box;
             min-width: 200px;
             max-width: 980px;
             margin: 0 auto;
-            padding: 45px;
+            padding: 15px;
         }
-
-        @media (max-width: 767px) {
-            .markdown-body {
-                padding: 15px;
-            }
+        .markdown-body h1 {
+            border-bottom: 0;
         }
     </style>
 </head>
 
-<body>
-    <main class="markdown-body">
-        <h1>Web Development Resources</h1>
+<body class="markdown-body">
+    <main>
+        <div class="container">
+            <h1>Web Development Resources</h1>
 
-        <p>This is a list of web development resources with a free tier.</p>
+            <p>This is a list of web development resources with a free tier.</p>
 
-        <p>
-            <a href="/list/">Take me to the list!</a>
-        </p>
+            <p>
+                <a href="/list/">Take me to the list!</a>
+            </p>
+        </div>
     </main>
 
     <footer>
-        <p>Made by <a href="https://markodenic.com">Marko</a> and contributors.</p>
+        <div class="container">
+            <p>Made by <a href="https://markodenic.com">Marko</a> and contributors.</p>
 
-        <p>
-            <a href="https://markodenic.tech/html-ebook/">HTML eBook</a> |
-            <a href="https://javascriptquiz.com">JavaScript Quiz</a> |
-            <a href="https://freecodetools.org">Free Code Tools</a> |
-            <a href="https://tech-blogs.dev">Tech Blogs</a>
-        </p>
+            <p>
+                <a href="https://markodenic.tech/html-ebook/">HTML eBook</a> |
+                <a href="https://javascriptquiz.com">JavaScript Quiz</a> |
+                <a href="https://freecodetools.org">Free Code Tools</a> |
+                <a href="https://tech-blogs.dev">Tech Blogs</a>
+            </p>
+        </div>
     </footer>
 </body>
 
