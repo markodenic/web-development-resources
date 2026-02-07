@@ -32,8 +32,7 @@ const template = `<!DOCTYPE html>
     <title>Free Web Development Resources</title>
     <meta name="description" content="This is a list of awesome web development resources. Add more!">
     <link rel="canonical" href="https://web-dev-resources.com/" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
-    <style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css" integrity="sha512-BrOPA520KmDMqieeM7XFe6a3u3Sb3F1JBaQnrIAmWg3EYrciJ+Qqe6ZcKCdfPv26rGcgTrJnZ/IdQEct8h3Zhw==" crossorigin="anonymous" referrerpolicy="no-referrer" />    <style>
         .markdown-body {
             box-sizing: border-box;
             min-width: 200px;
