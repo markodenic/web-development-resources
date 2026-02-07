@@ -1,0 +1,25 @@
+{
+  "name": "web-development-resources",
+  "version": "1.0.0",
+  "description": "This is an awesome project about Web Development resources. ⚡",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/build-list.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markodenic/web-development-resources.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markodenic/web-development-resources/issues"
+  },
+  "homepage": "https://github.com/markodenic/web-development-resources#readme",
+  "dependencies": {
+    "isomorphic-dompurify": "^3.0.0-rc.2",
+    "marked": "^17.0.1"
+  }
+}

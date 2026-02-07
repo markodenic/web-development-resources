@@ -1,2 +1,7 @@
 .idea
 .vscode
+/node_modules
+list/index.html
+redirects.json
+.DS_Store
+*.log
