@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/markodenic/web-development-resources#readme",
   "dependencies": {
-    "isomorphic-dompurify": "^3.0.0-rc.2",
+    "isomorphic-dompurify": "^2.35.0",
     "marked": "^17.0.1"
   }
 }

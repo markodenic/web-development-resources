@@ -8,7 +8,7 @@ Enjoy! :)
 
 If you like this repo, be sure to ⭐ it.
 
-Please read [`contributing guidelines`](https://github.com/markodenic/web-development-resources/blob/master/CONTRIBUTING.md) before submitting new resources.
+Please read [`contributing guidelines`](https://github.com/markodenic/web-development-resources/blob/main/CONTRIBUTING.md) before submitting new resources.
 
 ---
 
