@@ -10,12 +10,21 @@ const readmeContent = fs.readFileSync(readmePath, 'utf8');
 const renderer = new marked.Renderer();
 
 renderer.heading = function ({ text, depth, raw }) {
+    // Escape HTML entities to prevent XSS
+    const escapedText = String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+
     const slug = String(text)
         .toLowerCase()
         .replace(/[^\w\s-]/g, '')
         .replace(/\s+/g, '-');
+
     const level = depth || 1;
-    return `<h${level} id="${slug}">${text}</h${level}>\n`;
+    return `<h${level} id="${slug}">${escapedText}</h${level}>\n`;
 };
 
 const rawHtmlContent = marked.parse(readmeContent, { renderer: renderer });
