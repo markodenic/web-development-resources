@@ -603,6 +603,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                     |
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                        |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                  |
+| [ShotOG](https://shotog.2214962083.workers.dev)                                 | Open-source OG image generation API with 8 templates, batch generation, and custom fonts support.                            |
 
 [⬆ back to top](#table-of-contents)
 
