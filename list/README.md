@@ -603,6 +603,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                     |
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                        |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                  |
+| [DevToolBox](https://viadreams.cc)                                               | 129+ free online developer tools: JSON formatter, Base64 encoder, JWT decoder, regex tester, hash generator, and more. 100% client-side, no data sent to servers. |
 
 [⬆ back to top](#table-of-contents)
 
