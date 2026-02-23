@@ -500,6 +500,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Google PageSpeed Insights](https://pagespeed.web.dev/) |
 | [GTmetrix](https://gtmetrix.com/)                       |
 | [WebPageTest](https://www.webpagetest.org)              |
+| [PageGuard](https://pageguard.qiudeqiu.workers.dev) |
 | [Yslow](https://yslow.org/)                             |
 | [Optimizilla](https://imagecompressor.com/)             |
 | [SEOTester](https://seotest.me/)                        |
