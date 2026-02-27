@@ -420,6 +420,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Pa11y](https://pa11y.org/)                                                 |
 | [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)    |
 | [ABC Use All Five](https://abc.useallfive.com/)                             |
+| [axe DevTools](https://www.deque.com/axe/devtools/)                         |
+| [RatedWithAI](https://ratedwithai.com/)                                     |
 
 [⬆ back to top](#table-of-contents)
 
