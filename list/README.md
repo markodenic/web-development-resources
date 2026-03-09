@@ -418,6 +418,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Accessibility Insights](https://accessibilityinsights.io/)                 |
 | [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) |
 | [Pa11y](https://pa11y.org/)                                                 |
+| [RatedWithAI](https://ratedwithai.com/)                                     |
 | [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)    |
 | [ABC Use All Five](https://abc.useallfive.com/)                             |
 
