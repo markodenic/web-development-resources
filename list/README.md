@@ -540,6 +540,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Accessibility Weekly](https://a11yweekly.com/)                                        | Accessibility.                                                  |
 | [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/) | User Interface development.                                     |
 | [Go Make Things](https://gomakethings.com/)                                            | Daily Vanilla JavaScript.                                       |
+| [Design & Dev Newsletter](https://design.dev/)                                         | Weekly front-end tools, tips, and resources. Plus a free icon pack to get you started.            |
 
 [⬆ back to top](#table-of-contents)
 
