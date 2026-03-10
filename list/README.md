@@ -646,6 +646,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Chakra UI](https://chakra-ui.com/)                   | A simple, modular and accessible component library that gives you the building blocks you need to build your React applications |
 | [NativeBase](https://nativebase.io/)                  | NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.    |
 | [Prime React](https://primereact.org/)                | The ultimate collection of design-agnostic, flexible and accessible React UI Components.                                        |
+| [Flowbite React](https://flowbite-react.com/)         | Flowbite React is an open-source UI component library built on top of Tailwind CSS with React components and based on the Flowbite Design System. |
 
 [⬆ back to top](#table-of-contents)
 
