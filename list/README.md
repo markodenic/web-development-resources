@@ -656,8 +656,9 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 |---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [Taiga UI](https://taiga-ui.dev/)                 | A powerful set of open source components for Angular                                                               |
 | [PrimeNG](https://www.primefaces.org/primeng/)    | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
-| [Angular Material](https://material.angular.dev/)  | Angular Material is a UI library component developed by Google in 2014.                                            |
-| [TailAdmin Angular](https://tailadmin.com/angular)| Open-source Angular Tailwind CSS Admin Dashboard Template and UI Components                                        |
+| [Angular Material](https://material.angular.dev/) | Angular Material is a UI library component developed by Google in 2014.                                            |
+| [TailAdmin Angular](https://tailadmin.com/angular)| Open-source Angular Tailwind CSS Admin Dashboard Template and UI Components                                       |
+| [Flowbite Angular](https://flowbite-angular.com/) | Flowbite Angular is an official Flowbite component library for Angular. All interactivities are handled by Angular.          |
 
 
 [⬆ back to top](#table-of-contents)
