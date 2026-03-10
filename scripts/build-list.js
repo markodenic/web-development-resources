@@ -27,8 +27,23 @@ renderer.heading = function ({ text, depth, raw }) {
     return `<h${level} id="${slug}">${escapedText}</h${level}>\n`;
 };
 
+renderer.link = function(token) {
+    const href = token.href;
+    const text = token.text;
+    const title = token.title ? ` title="${token.title}"` : '';
+
+    // Only open external links in a new tab
+    if (href.startsWith('http://') || href.startsWith('https://')) {
+        return `<a href="${href}" target="_blank" rel="noopener noreferrer"${title}>${text}</a>`;
+    } else {
+        // Internal links stay normal
+        return `<a href="${href}"${title}>${text}</a>`;
+    }
+};
+
 const rawHtmlContent = marked.parse(readmeContent, { renderer: renderer });
-const htmlContent = DOMPurify.sanitize(rawHtmlContent);
+// Sanitize and preserve target attribute
+const htmlContent = DOMPurify.sanitize(rawHtmlContent, { ADD_ATTR: ['target'] });
 
 const template = `<!DOCTYPE html>
 <html lang="en">
