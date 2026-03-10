@@ -407,6 +407,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Behance](https://www.behance.net)       |
 | [Codrops](https://tympanus.net/codrops)  |
 | [Landings.dev](https://landings.dev)     |
+| [Cofolios](https://www.cofolios.com/)    |
 
 [⬆ back to top](#table-of-contents)
 
