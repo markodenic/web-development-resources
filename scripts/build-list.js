@@ -27,8 +27,17 @@ renderer.heading = function ({ text, depth, raw }) {
     return `<h${level} id="${slug}">${escapedText}</h${level}>\n`;
 };
 
+renderer.link = function ({ href, title, text }) {
+    const isExternal = /^https?:\/\//.test(href);
+    const targetAttr = isExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
+    const titleAttr = title ? ` title="${title}"` : '';
+    return `<a href="${href}"${titleAttr}${targetAttr}>${text}</a>`;
+};
+
 const rawHtmlContent = marked.parse(readmeContent, { renderer: renderer });
-const htmlContent = DOMPurify.sanitize(rawHtmlContent);
+const htmlContent = DOMPurify.sanitize(rawHtmlContent, {
+    ADD_ATTR: ['target', 'rel']
+});
 
 const template = `<!DOCTYPE html>
 <html lang="en">
