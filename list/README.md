@@ -604,6 +604,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                     |
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                        |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                  |
+| [DevToolBox](https://zcag.github.io/devtoolbox/)                                | 25 free client-side developer tools: JSON formatter, Base64 encoder, JWT decoder, regex tester, cron parser, and more. 100% browser-based — no data sent to any server. |
 
 [⬆ back to top](#table-of-contents)
 
