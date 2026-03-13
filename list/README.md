@@ -604,6 +604,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                     |
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                        |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                  |
+| [ToolSparkr](https://toolsparkr.com)                                             | Collection of 35+ free online developer tools — JSON formatter, URL encoder, password generator, Base64 encoder, hash generators, QR code generator, DNS lookup, and more. No signup, runs in browser. |
 
 [⬆ back to top](#table-of-contents)
 
