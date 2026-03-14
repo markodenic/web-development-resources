@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Link to your XML Sitemap to help search engines index your pages faster
+Sitemap: https://web-dev-resources.com/sitemap.xml
