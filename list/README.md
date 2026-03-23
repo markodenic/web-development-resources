@@ -49,6 +49,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
   - [React UI libraries:](#react-ui-libraries)
   - [Angular UI libraries:](#angular-ui-libraries)
   - [Sustainability:](#sustainability)
+  - [AI Resources:](#ai-resources)
   - [Others:](#others)
 
 ## Hosting:
@@ -674,6 +675,14 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [The Green Web Foundation](https://www.thegreenwebfoundation.org/)         | A database of web hosts that use renewable energy or are carbon neutral through offsets also authors of CO2.js                    |
 | [Tech Carbon Standard](https://www.techcarbonstandard.org/)                | A standardised model of tech emissions to help map out emissions created by tech within an organisation - touches on web and Saas |
 
+
+[⬆ back to top](#table-of-contents)
+
+## AI Resources:
+
+| Website | Description |
+|---------|-------------|
+| [Unlearn.dev](https://unlearn.dev/?utm_source=webdevresources&utm_medium=partners&utm_campaign=unlearn_announcement) | Unlearn.dev is developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable. |
 
 [⬆ back to top](#table-of-contents)
 
