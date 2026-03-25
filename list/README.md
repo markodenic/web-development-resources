@@ -132,7 +132,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CodeChef](https://codechef.com)                          |
 | [Exercism](https://exercism.org)                          |
 | [LeetCode](https://leetcode.com)                          |
-| [SPOJ](https://spoj.com)                                  |
+| [SPOJ](https://spoj.com/)                                 |
 | [Codeforces](https://codeforces.com)                      |
 | [CodeSignal](https://codesignal.com)                      |
 | [Frontend Mentor](https://frontendmentor.io)              |
@@ -162,7 +162,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [PeoplePerHour](https://peopleperhour.com) |
 | [SimplyHired](https://simplyhired.com)     |
 | [Guru](https://guru.com)                   |
-| [Fiverr](https://fiverr.com)               |
+| [Fiverr](https://www.fiverr.com/)          |
 | [6nomads](https://6nomads.com)             |
 | [Truelancer](https://www.truelancer.com)   |
 | [Gun.io](https://gun.io)                   |
@@ -208,7 +208,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Pexels](https://pexels.com)                                |
 | [LibreStock](https://librestock.com)                        |
 | [Visual Hunt](https://visualhunt.com)                       |
-| [FreePhotos](https://freephotos.cc/en)                      |
+| [FreePhotos](https://freephotos.cc/)                        |
 | [Picjumbo](https://picjumbo.com)                            |
 | [PxFuel](https://www.pxfuel.com)                            |
 | [Free for Commercial Use](https://freeforcommercialuse.net) |
