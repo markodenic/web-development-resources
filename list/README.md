@@ -610,18 +610,19 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## UI Components:
 
-| Website                                  | Description                                                                                         |
-|------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
-| [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                       |
-| [FlyonUI](https://flyonui.com/)          | The Easiest Components Library For Tailwind CSS.                                                    |
-| [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                  |
-| [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                           |
-| [shadcn/ui](https://ui.shadcn.com/)      | Open-Source UI components for React projects, that you can easily copy and paste into your apps.    |
-| [Headless UI](https://headlessui.com/)   | Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS.       |
-| [UI Kits](https://uikits.design)  | All the best UI kits & component libraries in one place. |
-| [8bitcn](https://8bitcn.com/)     | Retro 8-bit styled UI component library with accessible and customizable components for a nostalgic aesthetic |
-| [Tailkits UI](https://tailkits.com/ui/) | Tailwind Components with Native MCP Support |
+| Website                                  | Description                                                                                                   |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements           |
+| [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                                 |
+| [FlyonUI](https://flyonui.com/)          | The Easiest Components Library For Tailwind CSS.                                                              |
+| [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                            |
+| [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                                     |
+| [shadcn/ui](https://ui.shadcn.com/)      | Open-Source UI components for React projects, that you can easily copy and paste into your apps.              |
+| [Headless UI](https://headlessui.com/)   | Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS.                 |
+| [UI Kits](https://uikits.design)         | All the best UI kits & component libraries in one place.                                                      |
+| [8bitcn](https://8bitcn.com/)            | Retro 8-bit styled UI component library with accessible and customizable components for a nostalgic aesthetic |
+| [Tailkits UI](https://tailkits.com/ui/)  | Tailwind Components with Native MCP Support                                                                   |
+| [LangUI](https://www.langui.dev/)        | Open Source Tailwind CSS components for your AI and GPT projects.                                             |
 
 [⬆ back to top](#table-of-contents)
 
