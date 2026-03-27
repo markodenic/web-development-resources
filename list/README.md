@@ -491,6 +491,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                      |
 | [Hackertab.dev - All Developer news in 1 tab](https://chromewebstore.google.com/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)  |
 | [Vue Developer Tools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                     |
+| [Related Repos](https://chromewebstore.google.com/detail/related-repos/hjjchbgenhmnndipngamcilolaahgngc)                                     |
 
 [⬆ back to top](#table-of-contents)
 
