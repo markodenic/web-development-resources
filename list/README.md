@@ -606,6 +606,13 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                     |
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                        |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                  |
+| [FreeKit](https://freekit.dev)                                                   | Free developer toolkit portal with 8 APIs for QR codes, screenshots, PDFs, OG images, and more. No API keys required.      |
+| [LinkMeta](https://linkmeta.dev)                                                 | Free URL metadata extraction API for Open Graph, Twitter Cards, and favicons. No API key required.                          |
+| [LinkShrink](https://linkshrink.dev)                                             | Free privacy-first URL shortener API with analytics and UTM tracking. No API key required.                                  |
+| [OGForge](https://ogforge.dev)                                                   | Free Open Graph image generator API. No API key required.                                                                   |
+| [PageShot](https://pageshot.site)                                                | Free webpage screenshot API that renders any URL as PNG. No API key required.                                               |
+| [PDFSpark](https://pdfspark.dev)                                                 | Free HTML/URL to PDF conversion API. No API key required.                                                                   |
+| [QRMint](https://qrmint.dev)                                                     | Free styled QR code generator API with custom colors, logos, frames, and batch generation. No API key required.             |
 
 [⬆ back to top](#table-of-contents)
 
