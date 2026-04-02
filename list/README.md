@@ -606,6 +606,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                     |
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                        |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                  |
+| [ToolPipe](https://toolpipe.dev)                                                 | Free developer utility API with 55+ endpoints: QR codes, JSON formatting, text analysis, hash generation, DNS lookup, regex testing, Base64 encoding, UUID generation, and more. |
 
 [⬆ back to top](#table-of-contents)
 
