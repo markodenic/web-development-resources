@@ -518,6 +518,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [TooPlate](https://www.tooplate.com)                                                     |
 | [HTML5 UP](https://html5up.net)                                                          |
 | [TemplateMo](https://templatemo.com)                                                     |
+| [HTML Design](https://html.design)                                                       |
 | [UIDeck](https://uideck.com)                                                             |
 | [FreeHTML5](https://freehtml5.co)                                                        |
 | [BootstrapMade](https://bootstrapmade.com)                                               |
