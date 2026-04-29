@@ -526,6 +526,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Built at LightSpeed](https://www.builtatlightspeed.com/)                                |
 | [Web3Templates](https://web3templates.com)                                               |
 | [ThemeFisher Free Bootstrap Templates](https://themefisher.com/free-bootstrap-templates) |
+| [CodedThemes](https://codedthemes.com/)                                                  |
 
 [⬆ back to top](#table-of-contents)
 
