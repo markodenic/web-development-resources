@@ -583,6 +583,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                                                          | Description                                                                                                               |
 |----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| [EasyUseHub](https://www.easyusehub.org) | **EasyUseHub** is a free collection of 60+ web utility tools including AI image prompts, SEO generators, and image converters to simplify developer workflow. ||
 | [PRM](https://prm.pushkaryadav.in/)                                              | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile              |
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/)             | Use QR code generator to easily create a QR code for your project.                                                        |
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                                     |
