@@ -586,6 +586,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [PRM](https://prm.pushkaryadav.in/)                                              | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile              |
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/)             | Use QR code generator to easily create a QR code for your project.                                                        |
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                                     |
+| [EasyUseHub](https://www.easyusehub.org) | **EasyUseHub** is a free collection of 60+ web utility tools including AI image prompts, SEO generators, and image converters to simplify developer workflow.  |
 | [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                                        |
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                                |
 | [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                             |
