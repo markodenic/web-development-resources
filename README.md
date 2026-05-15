@@ -16,3 +16,5 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 Similar amazing projects: [Public APIs](https://publicapis.dev) - [Dev Resources](https://devresourc.es)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+
+- [WebCoreLab SEO Audit Tool](https://webcorelab.com) — AI-first agency. Free 272-check SEO audit, Core Web Vitals, schema validator, AI visibility score.
