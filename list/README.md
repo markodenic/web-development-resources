@@ -507,6 +507,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [SEOTester](https://seotest.me/)                        |
 | [CORS-Tester](https://cors-error.dev/cors-tester/)      |
 | [Foglift](https://foglift.io)                            |
+| [WebCoreLab](https://webcorelab.com)                      |
 
 [⬆ back to top](#table-of-contents)
 
