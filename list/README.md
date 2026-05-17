@@ -542,6 +542,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Accessibility Weekly](https://a11yweekly.com/)                                        | Accessibility.                                                  |
 | [UI Dev Newsletter](https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/) | User Interface development.                                     |
 | [Go Make Things](https://gomakethings.com/)                                            | Daily Vanilla JavaScript.                                       |
+| [daily.dev Digest](https://business.daily.dev)                                         | Personalised developer-news digest delivered daily or weekly.   |
 
 [⬆ back to top](#table-of-contents)
 
