@@ -576,6 +576,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Guess CSS](https://www.guess-css.app/)                                               | Another Fun and interactive way to learn CSS.                                                                                                                                         |
 | [CSS Speedrun](https://css-speedrun.netlify.app/)                                     | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                                                             |
 | [Anchoreum](https://anchoreum.com/)                                                   | A game for learning CSS anchor positioning.                                                                                                                                           |
+| [CSS Grid Puzzles](https://undead.institute/games/css-grid-puzzles/)                  | A free zombie-themed puzzle series from Undead Institute for practicing **CSS Grid** layout.                                                                                          |
 
 [⬆ back to top](#table-of-contents)
 
