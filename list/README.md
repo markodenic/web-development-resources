@@ -609,6 +609,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                                                                                                                   |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                                                                                                           |
 
+| [TinyTools](https://tinytools-smoky.vercel.app/) | Free single-purpose web utilities, all browser-based, no signup. Color palette generator, OG image generator, favicon generator, AI background remover (runs locally), SEO meta tag generator, AI cost calculator. Open source. |
 [⬆ back to top](#table-of-contents)
 
 ## UI Components:
