@@ -1,4 +1,4 @@
-# Awesome Web Development Resources
+﻿# Awesome Web Development Resources
 
 This is an awesome project about Web Development resources. ⚡
 
@@ -491,6 +491,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Hackertab.dev - All Developer news in 1 tab](https://chromewebstore.google.com/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) |
 | [Vue Developer Tools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                    |
 | [Related Repos](https://chromewebstore.google.com/detail/related-repos/hjjchbgenhmnndipngamcilolaahgngc)                                           |
+| [URL Environment Switcher](https://github.com/ttcd77/url-switcher) | Open-source Manifest V3 Chrome extension to toggle between localhost, staging, and production URLs in one click. |
 
 [⬆ back to top](#table-of-contents)
 
@@ -698,6 +699,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [ConvertHub API](https://converthub.com/api)                    | File Conversion API for Developers                                           |
 | [Tech Terms](https://techterms.io/)                             | A beginner-friendly glossary built by the community, for the community       |
 | [DevTool](https://devtool.io)                                   | Curated directory of tools for frontend, backend, DevOps, AI, and more.      |
+| [Form Handler for Google Sheets](https://github.com/ttcd77/form-handler) | Open-source Google Apps Script tool that pipes HTML form submissions to Google Sheets with spam protection and email notifications. |
 
 [⬆ back to top](#table-of-contents)
 
