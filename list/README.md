@@ -610,6 +610,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                                                                                                                   |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                                                                                                           |
 | [IconKing](https://iconking.net) | Free browser-based Lottie animation viewer, color editor, and format converter. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No signup required.
+| [Cron Visual Builder](https://bigwinner.work/cron-visual-builder.html) | Free browser-based cron expression builder with visual schedule preview. Supports all cron fields (minute, hour, day, month, weekday) with real-time human-readable descriptions. No signup required. |
 
 [⬆ back to top](#table-of-contents)
 
