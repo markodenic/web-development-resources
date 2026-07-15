@@ -628,6 +628,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [8bitcn](https://8bitcn.com/)            | Retro 8-bit styled UI component library with accessible and customizable components for a nostalgic aesthetic |
 | [Tailkits UI](https://tailkits.com/ui/)  | Tailwind Components with Native MCP Support                                                                   |
 | [LangUI](https://www.langui.dev/)        | Open Source Tailwind CSS components for your AI and GPT projects.                                             |
+| [UIAble](https://uiable.com/)            | An open-source shadcn-based UI system designed to help developers build scalable, production-ready applications faster. |
 
 [⬆ back to top](#table-of-contents)
 
