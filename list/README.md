@@ -654,6 +654,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [NativeBase](https://nativebase.io/)                  | NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.    |
 | [Prime React](https://primereact.org/)                | The ultimate collection of design-agnostic, flexible and accessible React UI Components.                                        |
 
+| [Payload Components](https://www.payload-components.xyz) | 67 MIT typed Payload CMS blocks for Payload v3 + Next.js 15/16, installed as owned source with automated Pages, renderer, types, and admin import-map wiring. |
+
 [⬆ back to top](#table-of-contents)
 
 ## Angular UI libraries:
