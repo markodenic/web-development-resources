@@ -610,6 +610,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                                                                                                                   |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                                                                                                           |
 | [IconKing](https://iconking.net) | Free browser-based Lottie animation viewer, color editor, and format converter. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No signup required.
+| [Pomodoro Studio](https://github.com/1himanshu1804442/pomodoro-puzzle-studio) | A modern gamified study and focus workspace for web developers built using React 19, HTML5 Audio, and Web Audio API synthesis by [@1himanshu1804442](https://github.com/1himanshu1804442). |
 
 [⬆ back to top](#table-of-contents)
 
