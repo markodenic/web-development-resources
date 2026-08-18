@@ -415,6 +415,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 |-----------------------------------------------------------------------------|
 | [WAVE](https://wave.webaim.org/)                                            |
 | [Accessibility Insights](https://accessibilityinsights.io/)                 |
+| [A11yKit](https://a11ykit.site)                                              |
 | [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) |
 | [Pa11y](https://pa11y.org/)                                                 |
 | [RatedWithAI](https://ratedwithai.com/)                                     |
