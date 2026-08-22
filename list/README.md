@@ -610,6 +610,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                                                                                                                   |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                                                                                                           |
 | [IconKing](https://iconking.net) | Free browser-based Lottie animation viewer, color editor, and format converter. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No signup required.
+| [Stackiox](https://stackiox.com/) | Free browser-based developer tools — JWT decoder, JSON formatter, cron generator, YAML/JSON/CSV/XML converters, and more. No signup, everything runs client-side. |
 
 [⬆ back to top](#table-of-contents)
 
