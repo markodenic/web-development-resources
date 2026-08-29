@@ -608,8 +608,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [ToolZack](https://toolzack.com)                                                 | A friendly web toolkit for converting, encoding, formatting and styling text. Over 120 free tools.                                                                                                                   |
 | [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                                                                                                                |
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                                                                                                                   |
-| [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                                                                                                           |
-| [IconKing](https://iconking.net) | Free browser-based Lottie animation viewer, color editor, and format converter. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No signup required.
+| [IconKing](https://iconking.net) | Free browser-based Lottie animation viewer, color editor, and format converter. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No signup required. |
+| [DevScratchpad](https://tools.saadengineer.works) | Privacy-first suite of 19+ client-side developer tools (JSON formatter, JWT decoder, regex tester, cURL converter, diff checker, timestamp converter) with 100% in-browser processing and zero server transmission. |
 
 [⬆ back to top](#table-of-contents)
 
