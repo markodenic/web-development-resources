@@ -653,6 +653,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Chakra UI](https://chakra-ui.com/)                   | A simple, modular and accessible component library that gives you the building blocks you need to build your React applications |
 | [NativeBase](https://nativebase.io/)                  | NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.    |
 | [Prime React](https://primereact.org/)                | The ultimate collection of design-agnostic, flexible and accessible React UI Components.                                        |
+| [AtomicMotion UI](https://atomicmotion.dev/)          | Open-source micro-interactions and animated UI components to copy and paste into React projects.                                |
 
 [⬆ back to top](#table-of-contents)
 
