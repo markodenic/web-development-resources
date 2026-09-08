@@ -431,6 +431,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [W3Schools](https://w3schools.com)                   |
 | [W3Docs](https://w3docs.com)                         |
 | [DevDocs](https://devdocs.io)                        |
+| [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) | A free and open-source TypeScript book covering fundamentals through advanced concepts, available online and as an EPUB. |
 | [PHP.net](https://www.php.net/docs.php)              |
 
 [⬆ back to top](#table-of-contents)
