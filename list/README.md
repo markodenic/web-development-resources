@@ -44,6 +44,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
   - [CSS Generators:](#css-generators)
   - [CSS Games:](#css-games)
   - [Online Tools:](#online-tools)
+  - [API Development Tools:](#api-development-tools)
   - [UI Components:](#ui-components)
   - [Vue UI libraries:](#vue-ui-libraries)
   - [React UI libraries:](#react-ui-libraries)
@@ -576,6 +577,14 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [CSS Speedrun](https://css-speedrun.netlify.app/)                                     | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                                                             |
 | [Anchoreum](https://anchoreum.com/)                                                   | A game for learning CSS anchor positioning.                                                                                                                                           |
 | [Flexbox Zombies](https://flexboxzombies.com/)                                        | A story-driven course-game where you learn **CSS Flexbox** by hunting zombies across 12 missions.                                                                                     |
+
+[⬆ back to top](#table-of-contents)
+
+## API Development Tools:
+
+| Website | Description |
+|---------|-------------|
+| [Beeceptor](https://beeceptor.com/) | API mocking platform for creating mock servers, simulating API responses, and inspecting requests. |
 
 [⬆ back to top](#table-of-contents)
 
