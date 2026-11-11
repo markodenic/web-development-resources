@@ -611,6 +611,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                                                                                                                   |
 | [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                                                                                                           |
 | [IconKing](https://iconking.net) | Free browser-based Lottie animation viewer, color editor, and format converter. Preview .json and .lottie files, edit colors across all layers, and convert between formats. No signup required.
+| [ASCII Table](https://asciitable.co)                                             | Searchable ASCII table with decimal, hex, octal, binary, HTML entity, and escape codes for every character. Copy any value in one click. Free, no signup.                                                            |
 
 [⬆ back to top](#table-of-contents)
 
