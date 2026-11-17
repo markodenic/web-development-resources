@@ -498,6 +498,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                                  |
 |----------------------------------------------------------|
+| [FrostRank](https://frostrank.com) |
 | [Google PageSpeed Insights](https://pagespeed.web.dev/)  |
 | [GTmetrix](https://gtmetrix.com/)                        |
 | [WebPageTest](https://www.webpagetest.org)               |
