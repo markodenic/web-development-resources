@@ -498,6 +498,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                                  |
 |----------------------------------------------------------|
+| [FrostRank](https://frostrank.com) |
 | [Google PageSpeed Insights](https://pagespeed.web.dev/)  |
 | [GTmetrix](https://gtmetrix.com/)                        |
 | [WebPageTest](https://www.webpagetest.org)               |
@@ -506,7 +507,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [SEOTester](https://seotest.me/)                         |
 | [CORS-Tester](https://cors-error.dev/cors-tester/)       |
 | [Foglift](https://foglift.io)                            |
-| [FrostRank](https://frostrank.com) |
 
 [⬆ back to top](#table-of-contents)
 
