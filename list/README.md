@@ -420,6 +420,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [RatedWithAI](https://ratedwithai.com/)                                     |
 | [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)    |
 | [ABC Use All Five](https://abc.useallfive.com/)                             |
+| [PageCrit Tap Target Checker](https://pagecrit.com/tools/tap-target-checker) |
 
 [⬆ back to top](#table-of-contents)
 
