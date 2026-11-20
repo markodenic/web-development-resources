@@ -506,6 +506,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [SEOTester](https://seotest.me/)                         |
 | [CORS-Tester](https://cors-error.dev/cors-tester/)       |
 | [Foglift](https://foglift.io)                            |
+| [icodelab Image Compressor](https://icodelab.dev/en/tools/compress-image-online) |
 
 [⬆ back to top](#table-of-contents)
 
