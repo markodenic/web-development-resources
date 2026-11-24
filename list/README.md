@@ -406,6 +406,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Behance](https://www.behance.net)       |
 | [Codrops](https://tympanus.net/codrops)  |
 | [Landings.dev](https://landings.dev)     |
+| [A1 Gallery](https://www.a1.gallery)     |
 
 [⬆ back to top](#table-of-contents)
 
