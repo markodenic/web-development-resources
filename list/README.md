@@ -399,6 +399,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                  |
 |------------------------------------------|
+| [UIZZE](https://uizze.com)               |
 | [WebsiteVice](https://websitevice.com/)  |
 | [HTTPster](https://httpster.net)         |
 | [Awwwards](https://www.awwwards.com)     |
