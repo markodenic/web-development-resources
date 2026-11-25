@@ -114,6 +114,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [InterviewBit](https://www.interviewbit.com/)                                     |
 | [CSS-Tricks](https://css-tricks.com/)                                             |
 | [Learnify](https://learnify.shefali.dev/)                                         |
+|[Swavent Guides](https://swavent.com/en/guides)|
 
 
 [⬆ back to top](#table-of-contents)
